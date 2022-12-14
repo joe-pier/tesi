@@ -1,0 +1,607 @@
+<SEC-DOCUMENT>0001104659-14-039552.txt : 20140516
+<SEC-HEADER>0001104659-14-039552.hdr.sgml : 20140516
+<ACCEPTANCE-DATETIME>20140516073608
+ACCESSION NUMBER:		0001104659-14-039552
+CONFORMED SUBMISSION TYPE:	8-K
+PUBLIC DOCUMENT COUNT:		4
+CONFORMED PERIOD OF REPORT:	20140515
+ITEM INFORMATION:		Entry into a Material Definitive Agreement
+ITEM INFORMATION:		Regulation FD Disclosure
+ITEM INFORMATION:		Financial Statements and Exhibits
+FILED AS OF DATE:		20140516
+DATE AS OF CHANGE:		20140516
+
+FILER:
+
+	COMPANY DATA:	
+		COMPANY CONFORMED NAME:			ABBOTT LABORATORIES
+		CENTRAL INDEX KEY:			0000001800
+		STANDARD INDUSTRIAL CLASSIFICATION:	PHARMACEUTICAL PREPARATIONS [2834]
+		IRS NUMBER:				360698440
+		STATE OF INCORPORATION:			IL
+		FISCAL YEAR END:			1231
+
+	FILING VALUES:
+		FORM TYPE:		8-K
+		SEC ACT:		1934 Act
+		SEC FILE NUMBER:	001-02189
+		FILM NUMBER:		14849814
+
+	BUSINESS ADDRESS:	
+		STREET 1:		100 ABBOTT PARK ROAD
+		STREET 2:		D-322 AP6D
+		CITY:			ABBOTT PARK
+		STATE:			IL
+		ZIP:			60064-3500
+		BUSINESS PHONE:		8479376100
+</SEC-HEADER>
+<DOCUMENT>
+<TYPE>8-K
+<SEQUENCE>1
+<FILENAME>a14-12920_18k.htm
+<DESCRIPTION>8-K
+<TEXT>
+
+
+<html>
+<head>
+
+
+  </head>
+<body lang="EN-US">
+<div style="font-family:Times New Roman;">
+<div style="border-bottom:solid windowtext 1.0pt;border-left:none;border-right:none;border-top:solid windowtext 3.0pt;padding:1.0pt 0in 1.0pt 0in;">
+<p style="border:none;margin:0in 0in .0001pt;padding:0in;"><font size="1" face="Times New Roman" style="font-size:1.0pt;">&nbsp;</font></p>
+</div>
+<p align="center" style="margin:0in 0in .0001pt;text-align:center;"><b><font size="2" face="Times New Roman" style="font-size:10.0pt;font-weight:bold;">&nbsp;</font></b></p>
+<p align="center" style="margin:0in 0in .0001pt;text-align:center;"><b><font size="5" face="Times New Roman" style="font-size:18.0pt;font-weight:bold;">UNITED STATES</font></b></p>
+<p align="center" style="margin:0in 0in .0001pt;text-align:center;"><b><font size="5" face="Times New Roman" style="font-size:18.0pt;font-weight:bold;">SECURITIES AND EXCHANGE COMMISSION</font></b></p>
+<p align="center" style="margin:0in 0in .0001pt;text-align:center;"><b><font size="2" face="Times New Roman" style="font-size:10.0pt;font-weight:bold;">Washington, D.C. 20549</font></b></p>
+<p align="center" style="margin:0in 0in .0001pt;text-align:center;"><font size="2" face="Times New Roman" style="font-size:10.0pt;">&nbsp;</font></p>
+<div align="center" style="margin:0in 0in .0001pt;text-align:center;"><hr size="1" width="25%" noshade color="black" align="center"></div>
+<p align="center" style="margin:0in 0in .0001pt;text-align:center;"><font size="2" face="Times New Roman" style="font-size:10.0pt;">&nbsp;</font></p>
+<p align="center" style="margin:0in 0in .0001pt;text-align:center;"><b><font size="5" face="Times New Roman" style="font-size:18.0pt;font-weight:bold;">FORM&nbsp;8-K</font></b></p>
+<p align="center" style="margin:0in 0in .0001pt;text-align:center;"><font size="2" face="Times New Roman" style="font-size:10.0pt;">&nbsp;</font></p>
+<p align="center" style="margin:0in 0in .0001pt;text-align:center;"><b><font size="3" face="Times New Roman" style="font-size:12.0pt;font-weight:bold;">CURRENT REPORT</font></b></p>
+<p align="center" style="margin:0in 0in .0001pt;text-align:center;"><b><font size="3" face="Times New Roman" style="font-size:12.0pt;font-weight:bold;">Pursuant to Section&nbsp;13 or 15(d)&nbsp;of the</font></b></p>
+<p align="center" style="margin:0in 0in .0001pt;text-align:center;"><b><font size="3" face="Times New Roman" style="font-size:12.0pt;font-weight:bold;">Securities Exchange Act of 1934</font></b></p>
+<p align="center" style="margin:0in 0in .0001pt;text-align:center;"><font size="2" face="Times New Roman" style="font-size:10.0pt;">&nbsp;</font></p>
+<p align="center" style="margin:0in 0in .0001pt;text-align:center;"><b><font size="2" face="Times New Roman" style="font-size:10.0pt;font-weight:bold;">May&nbsp;15, 2014</font></b></p>
+<p align="center" style="margin:0in 0in .0001pt;text-align:center;"><font size="2" face="Times New Roman" style="font-size:10.0pt;">(Date of earliest event reported)</font></p>
+<p align="center" style="margin:0in 0in .0001pt;text-align:center;"><font size="2" face="Times New Roman" style="font-size:10.0pt;">&nbsp;</font></p>
+<p align="center" style="margin:0in 0in .0001pt;text-align:center;"><b><font size="5" face="Times New Roman" style="font-size:18.0pt;font-weight:bold;">ABBOTT LABORATORIES</font></b></p>
+<p align="center" style="margin:0in 0in .0001pt;text-align:center;"><font size="2" face="Times New Roman" style="font-size:10.0pt;">(Exact name of registrant as specified in its charter)</font></p>
+<p align="center" style="margin:0in 0in .0001pt;text-align:center;"><font size="2" face="Times New Roman" style="font-size:10.0pt;">&nbsp;</font></p>
+<div align="center" style="margin:0in 0in .0001pt;text-align:center;"><hr size="1" width="25%" noshade color="black" align="center"></div>
+<p align="center" style="margin:0in 0in .0001pt;text-align:center;"><font size="2" face="Times New Roman" style="font-size:10.0pt;">&nbsp;</font></p>
+<div align="center">
+<table border="0" cellspacing="0" cellpadding="0" width="100%" style="border-collapse:collapse;width:100.0%;">
+<tr>
+<td width="32%" valign="top" style="padding:0in 0in 0in 0in;width:32.0%;">
+<p align="center" style="margin:0in 0in .0001pt;text-align:center;"><b><font size="2" face="Times New Roman" style="font-size:10.0pt;font-weight:bold;">Illinois</font></b></p>    </td>
+<td width="2%" valign="bottom" style="padding:0in 0in 0in 0in;width:2.0%;">
+<p style="margin:0in 0in .0001pt;"><b><font size="2" face="Times New Roman" style="font-size:1.0pt;font-weight:bold;">&nbsp;</font></b></p>    </td>
+<td width="32%" valign="top" style="padding:0in 0in 0in 0in;width:32.0%;">
+<p align="center" style="margin:0in 0in .0001pt;text-align:center;"><b><font size="2" face="Times New Roman" style="font-size:10.0pt;font-weight:bold;">1-2189</font></b></p>    </td>
+<td width="2%" valign="bottom" style="padding:0in 0in 0in 0in;width:2.0%;">
+<p style="margin:0in 0in .0001pt;"><b><font size="2" face="Times New Roman" style="font-size:1.0pt;font-weight:bold;">&nbsp;</font></b></p>    </td>
+<td width="32%" valign="top" style="padding:0in 0in 0in 0in;width:32.0%;">
+<p align="center" style="margin:0in 0in .0001pt;text-align:center;"><b><font size="2" face="Times New Roman" style="font-size:10.0pt;font-weight:bold;">36-0698440</font></b></p>    </td>   </tr>
+<tr>
+<td width="32%" valign="top" style="padding:0in 0in 0in 0in;width:32.0%;">
+<p align="center" style="margin:0in 0in .0001pt;text-align:center;"><font size="2" face="Times New Roman" style="font-size:10.0pt;">(State or other jurisdiction</font></p>    </td>
+<td width="2%" valign="bottom" style="padding:0in 0in 0in 0in;width:2.0%;">
+<p style="margin:0in 0in .0001pt;"><font size="2" face="Times New Roman" style="font-size:1.0pt;">&nbsp;</font></p>    </td>
+<td width="32%" valign="top" style="padding:0in 0in 0in 0in;width:32.0%;">
+<p align="center" style="margin:0in 0in .0001pt;text-align:center;"><font size="2" face="Times New Roman" style="font-size:10.0pt;">(Commission File Number)</font></p>    </td>
+<td width="2%" valign="bottom" style="padding:0in 0in 0in 0in;width:2.0%;">
+<p style="margin:0in 0in .0001pt;"><font size="2" face="Times New Roman" style="font-size:1.0pt;">&nbsp;</font></p>    </td>
+<td width="32%" valign="top" style="padding:0in 0in 0in 0in;width:32.0%;">
+<p align="center" style="margin:0in 0in .0001pt;text-align:center;"><font size="2" face="Times New Roman" style="font-size:10.0pt;">(IRS Employer</font></p>    </td>   </tr>
+<tr>
+<td width="32%" valign="top" style="padding:0in 0in 0in 0in;width:32.0%;">
+<p align="center" style="margin:0in 0in .0001pt;text-align:center;"><font size="2" face="Times New Roman" style="font-size:10.0pt;">of incorporation)</font></p>    </td>
+<td width="2%" valign="bottom" style="padding:0in 0in 0in 0in;width:2.0%;">
+<p style="margin:0in 0in .0001pt;"><font size="2" face="Times New Roman" style="font-size:1.0pt;">&nbsp;</font></p>    </td>
+<td width="32%" valign="top" style="padding:0in 0in 0in 0in;width:32.0%;">
+<p align="center" style="margin:0in 0in .0001pt;text-align:center;"><font size="2" face="Times New Roman" style="font-size:1.0pt;">&nbsp;</font></p>    </td>
+<td width="2%" valign="bottom" style="padding:0in 0in 0in 0in;width:2.0%;">
+<p style="margin:0in 0in .0001pt;"><font size="2" face="Times New Roman" style="font-size:1.0pt;">&nbsp;</font></p>    </td>
+<td width="32%" valign="top" style="padding:0in 0in 0in 0in;width:32.0%;">
+<p align="center" style="margin:0in 0in .0001pt;text-align:center;"><font size="2" face="Times New Roman" style="font-size:10.0pt;">Identification No.)</font></p>    </td>   </tr>  </table>
+</div>
+<p align="center" style="margin:0in 0in .0001pt;text-align:center;text-indent:32.0pt;"><font size="2" face="Times New Roman" style="font-size:10.0pt;">&nbsp;</font></p>
+<div align="center" style="margin:0in 0in .0001pt;text-align:center;"><hr size="1" width="25%" noshade color="black" align="center"></div>
+<p align="center" style="margin:0in 0in .0001pt;text-align:center;"><font size="2" face="Times New Roman" style="font-size:10.0pt;">&nbsp;</font></p>
+<p align="center" style="margin:0in 0in .0001pt;text-align:center;"><b><font size="2" face="Times New Roman" style="font-size:10.0pt;font-weight:bold;">100 Abbott Park Road</font></b></p>
+<p align="center" style="margin:0in 0in .0001pt;text-align:center;"><b><font size="2" face="Times New Roman" style="font-size:10.0pt;font-weight:bold;">Abbott Park,&nbsp;Illinois 60064-6400</font></b></p>
+<p align="center" style="margin:0in 0in .0001pt;text-align:center;"><font size="2" face="Times New Roman" style="font-size:10.0pt;">(Address of principal executive offices)(Zip Code)</font></p>
+<p align="center" style="margin:0in 0in .0001pt;text-align:center;"><font size="2" face="Times New Roman" style="font-size:10.0pt;">&nbsp;</font></p>
+<p align="center" style="margin:0in 0in .0001pt;text-align:center;"><font size="2" face="Times New Roman" style="font-size:10.0pt;">Registrant&#146;s telephone number, including area code:&#160; <b>(847) 937-6100</b></font></p>
+<p align="center" style="margin:0in 0in .0001pt;text-align:center;"><font size="2" face="Times New Roman" style="font-size:10.0pt;">&nbsp;</font></p>
+<p style="margin:0in 0in .0001pt;"><font size="2" face="Times New Roman" style="font-size:10.0pt;">Check the appropriate box below if the Form&nbsp;8-K filing is intended to simultaneously satisfy the filing obligation of the registrant under any of the following provisions:</font></p>
+<p style="margin:0in 0in .0001pt;"><font size="2" face="Times New Roman" style="font-size:10.0pt;">&nbsp;</font></p>
+<p style="margin:0in 0in .0001pt;"><font size="2" face="Wingdings" style="font-size:10.0pt;">o</font><font size="1" style="font-size:3.0pt;">&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160; </font><font size="2" style="font-size:10.0pt;">Written communications pursuant to Rule&nbsp;425 under the Securities Act (17 CFR 230.425)</font></p>
+<p style="margin:0in 0in .0001pt;"><font size="2" face="Wingdings" style="font-size:10.0pt;">o</font><font size="1" style="font-size:3.0pt;">&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160; </font><font size="2" style="font-size:10.0pt;">Soliciting material pursuant to Rule&nbsp;14a-12 under the Exchange Act (17 CFR 240.14a-12)</font></p>
+<p style="margin:0in 0in .0001pt;"><font size="2" face="Wingdings" style="font-size:10.0pt;">o</font><font size="1" style="font-size:3.0pt;">&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160; </font><font size="2" style="font-size:10.0pt;">Pre-commencement communications pursuant to Rule&nbsp;14d-2(b)&nbsp;under the Exchange Act (17 CFR 240.14d-2(b))</font></p>
+<p style="margin:0in 0in .0001pt;"><font size="2" face="Wingdings" style="font-size:10.0pt;">o</font><font size="1" style="font-size:3.0pt;">&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160; </font><font size="2" style="font-size:10.0pt;">Pre-commencement communications pursuant to Rule&nbsp;13e-4(c)&nbsp;under the Exchange Act (17 CFR 240.13e-4(c))</font></p>
+<p style="margin:0in 0in .0001pt;"><font size="2" face="Times New Roman" style="font-size:10.0pt;">&nbsp;</font></p>
+<div style="border-bottom:solid windowtext 3.0pt;border-left:none;border-right:none;border-top:solid windowtext 1.0pt;padding:1.0pt 0in 1.0pt 0in;">
+<p style="border:none;margin:0in 0in .0001pt;padding:0in;"><font size="1" face="Times New Roman" style="font-size:1.0pt;">&nbsp;</font></p>
+</div>
+<p style="margin:0in 0in .0001pt;"><font size="2" face="Times New Roman" style="font-size:10.0pt;">&nbsp;</font></p>
+<div style="margin:0in 0in .0001pt;"><hr size="3" width="100%" noshade color="#010101" align="left"></div>
+</div>
+<!-- SEQ.=1,FOLIO='',FILE='C:\jms\C901830\14-12920-1\task6790170\12920-1-ba.htm',USER='C901830',CD='May 16 08:24 2014' -->
+
+<br clear="all" style="page-break-before:always;">
+<div style="font-family:Times New Roman;">
+<p style="margin:0in 0in .0001pt;"><font size="2" face="Times New Roman" style="font-size:10.0pt;">&nbsp;</font></p>
+<p style="margin:0in 0in .0001pt;"><b><font size="2" face="Times New Roman" style="font-size:10.0pt;font-weight:bold;">Item 1.01</font></b><b><font size="1" style="font-size:3.0pt;font-weight:bold;">&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160; </font></b><b><font size="2" style="font-size:10.0pt;font-weight:bold;">Entry into a Material Definitive Agreement.</font></b></p>
+<p style="margin:0in 0in .0001pt;"><font size="2" face="Times New Roman" style="font-size:10.0pt;">&nbsp;</font></p>
+<p style="margin:0in 0in .0001pt;text-indent:.5in;"><font size="2" face="Times New Roman" style="font-size:10.0pt;">On May&nbsp;15,<b>  </b>2014, Abbott Investments Luxembourg S.&#224; r.l., (the &#147;Purchaser&#148;), a wholly-owned subsidiary of Abbott Laboratories (&#147;Abbott&#148;), entered into an agreement (the &#147;Transaction Agreement&#148;) with Positron Limited (the &#147;Stockholder&#148;).&#160; Under the terms of the Transaction Agreement, the Purchaser has agreed to offer to buy all of the outstanding ordinary shares of CFR Pharmaceuticals S.A., (the &#147;Company&#148;).&#160; Following the completion of the tender offers to be made in Chile, the U.S., and, potentially, elsewhere, the Purchaser will buy from the Stockholder a 100% ownership interest in a holding company owning indirectly approximately 73% of the Company&#146;s outstanding shares, for the same aggregate price that would have been payable if those shares had been tendered directly in the tender offers.&#160; Upon completion of the transactions contemplated by the Transaction Agreement, Abbott will indirectly own the shares of the Company that are owned indirectly by the holding company plus the shares purchased through the tender offers.&#160; The price payable pursuant to the Transaction Agreement values the equity of the Company at $2.9 billion.&#160; The total transaction value, giving effect to the Company&#146;s net debt, is approximately $3.3 billion.</font></p>
+<p style="margin:0in 0in .0001pt;text-indent:.5in;"><font size="2" face="Times New Roman" style="font-size:10.0pt;">&nbsp;</font></p>
+<p style="margin:0in 0in .0001pt;text-indent:.5in;"><font size="2" face="Times New Roman" style="font-size:10.0pt;">Consummation of the transactions provided for in the Transaction Agreement is subject to customary conditions.</font></p>
+<p style="margin:0in 0in .0001pt;text-indent:.5in;"><font size="2" face="Times New Roman" style="font-size:10.0pt;">&nbsp;</font></p>
+<p style="margin:0in 0in .0001pt;text-indent:.5in;"><font size="2" face="Times New Roman" style="font-size:10.0pt;">The Transaction Agreement includes customary representations, warranties, and covenants by the parties.</font></p>
+<p style="margin:0in 0in .0001pt;"><font size="2" face="Times New Roman" style="font-size:10.0pt;">&nbsp;</font></p>
+<p style="margin:0in 0in .0001pt;"><b><font size="2" face="Times New Roman" style="font-size:10.0pt;font-weight:bold;">Item 7.01</font></b><b><font size="1" style="font-size:3.0pt;font-weight:bold;">&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160; </font></b><b><font size="2" style="font-size:10.0pt;font-weight:bold;">Regulation FD Disclosure.</font></b></p>
+<p style="margin:0in 0in .0001pt;"><font size="2" face="Times New Roman" style="font-size:10.0pt;">&nbsp;</font></p>
+<p style="margin:0in 0in .0001pt;text-indent:.5in;"><font size="2" face="Times New Roman" style="font-size:10.0pt;">On May&nbsp;16<b>, </b>2014, Abbott issued a press release announcing the execution of the Transaction Agreement.&#160; The press release is attached as Exhibit&nbsp;99.1.</font></p>
+<p style="margin:0in 0in .0001pt;"><font size="2" face="Times New Roman" style="font-size:10.0pt;">&nbsp;</font></p>
+<p style="margin:0in 0in .0001pt;text-indent:.5in;"><font size="2" face="Times New Roman" style="font-size:10.0pt;">The information contained in Exhibit&nbsp;99.1 shall not be deemed &#147;filed&#148; for purposes of Section&nbsp;18 of the Securities Exchange Act of 1934, or incorporated by reference in any filing under the Securities Act of 1933 or the Securities Exchange Act of 1934, except as shall be expressly set forth by specific reference in any such filing.</font></p>
+<p align="center" style="margin:0in 0in .0001pt;text-align:center;"><font size="2" face="Times New Roman" style="font-size:10.0pt;">&nbsp;</font></p>
+<p align="center" style="margin:0in 0in .0001pt;text-align:center;"><font size="2" face="Times New Roman" style="font-size:10.0pt;">2<a name="PB_2_025945_7056"></a></font></p>
+<div style="margin:0in 0in .0001pt;"><hr size="3" width="100%" noshade color="#010101" align="left"></div>
+</div>
+<!-- SEQ.=1,FOLIO='2',FILE='C:\jms\C901830\14-12920-1\task6790170\12920-1-ba.htm',USER='C901830',CD='May 16 08:24 2014' -->
+
+<br clear="all" style="page-break-before:always;">
+<div style="font-family:Times New Roman;">
+<p style="margin:0in 0in .0001pt;"><font size="2" face="Times New Roman" style="font-size:10.0pt;">&nbsp;</font></p>
+<p style="margin:0in 0in .0001pt;"><b><font size="2" face="Times New Roman" style="font-size:10.0pt;font-weight:bold;">Item 9.01</font></b><b><font size="1" style="font-size:3.0pt;font-weight:bold;">&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160; </font></b><b><font size="2" style="font-size:10.0pt;font-weight:bold;">Financial Statements and Exhibits</font></b></p>
+<p style="margin:0in 0in .0001pt;"><font size="2" face="Times New Roman" style="font-size:10.0pt;">&nbsp;</font></p>
+<table border="0" cellspacing="0" cellpadding="0" width="100%" style="border-collapse:collapse;width:100.0%;">
+<tr>
+<td width="12%" valign="bottom" style="border:none;border-bottom:solid windowtext 1.0pt;padding:0in 0in 0in 0in;width:12.46%;">
+<p style="margin:0in 0in .0001pt;"><b><font size="1" face="Times New Roman" style="font-size:8.0pt;font-weight:bold;">Exhibit&nbsp;Number</font></b></p>    </td>
+<td width="2%" valign="bottom" style="padding:0in 0in 0in 0in;width:2.0%;">
+<p align="center" style="margin:0in 0in .0001pt;text-align:center;"><b><font size="1" face="Times New Roman" style="font-size:1.0pt;font-weight:bold;">&nbsp;</font></b></p>    </td>
+<td width="85%" valign="bottom" style="border:none;border-bottom:solid windowtext 1.0pt;padding:0in 0in 0in 0in;width:85.56%;">
+<p align="center" style="margin:0in 0in .0001pt;text-align:center;"><b><font size="1" face="Times New Roman" style="font-size:8.0pt;font-weight:bold;">Exhibit&nbsp;Description</font></b></p>    </td>   </tr>
+<tr>
+<td width="12%" valign="top" style="border:none;padding:0in 0in 0in 0in;width:12.46%;">
+<p align="center" style="margin:0in 0in .0001pt;text-align:center;"><font size="2" face="Times New Roman" style="font-size:10.0pt;">&nbsp;</font></p>    </td>
+<td width="2%" valign="bottom" style="padding:0in 0in 0in 0in;width:2.0%;">
+<p style="margin:0in 0in .0001pt;"><font size="2" face="Times New Roman" style="font-size:10.0pt;">&nbsp;</font></p>    </td>
+<td width="85%" valign="top" style="border:none;padding:0in 0in 0in 0in;width:85.56%;">
+<p style="margin:0in 0in .0001pt;"><font size="2" face="Times New Roman" style="font-size:10.0pt;">&nbsp;</font></p>    </td>   </tr>
+<tr>
+<td width="12%" valign="top" style="padding:0in 0in 0in 0in;width:12.46%;">
+<p align="center" style="margin:0in 0in .0001pt;text-align:center;"><font size="2" face="Times New Roman" style="font-size:10.0pt;">99.1</font></p>    </td>
+<td width="2%" valign="bottom" style="padding:0in 0in 0in 0in;width:2.0%;">
+<p style="margin:0in 0in .0001pt;"><font size="2" face="Times New Roman" style="font-size:1.0pt;">&nbsp;</font></p>    </td>
+<td width="85%" valign="top" style="padding:0in 0in 0in 0in;width:85.56%;">
+<p style="margin:0in 0in .0001pt;"><font size="2" face="Times New Roman" style="font-size:10.0pt;">Press   Release, dated May&nbsp;16,<b>  </b>2014.</font></p>    </td>   </tr>  </table>
+<p style="margin:0in 0in .0001pt;text-indent:.5in;"><font size="2" face="Times New Roman" style="font-size:10.0pt;">&nbsp;</font></p>
+<p style="margin:0in 0in .0001pt;"><b><i><font size="2" face="Times New Roman" style="font-size:10.0pt;font-style:italic;font-weight:bold;">Private Securities Litigation Reform Act of 1995 &#151; A Caution Concerning Forward-Looking Statements</font></i></b></p>
+<p style="margin:0in 0in .0001pt;"><font size="2" face="Times New Roman" style="font-size:10.0pt;">&nbsp;</font></p>
+<p style="margin:0in 0in .0001pt;text-indent:.5in;"><i><font size="2" face="Times New Roman" style="font-size:10.0pt;font-style:italic;">Some statements in this Form&nbsp;8-K may be forward-looking statements for the purposes of the Private Securities Litigation Reform Act of 1995.&#160; Abbott cautions that these forward-looking statements are subject to risks and uncertainties that may cause actual results to differ materially from those indicated.&#160; Economic, competitive, governmental, technological and other factors that may affect Abbott&#146;s operations are discussed in Item 1A, &#147;Risk Factors,&#148; to Abbott&#146;s Annual Report on Securities and Exchange Commission Form&nbsp;10-K for the year ended December&nbsp;31, 2013 and are incorporated by reference.&#160; Abbott undertakes no obligation to release publicly any revisions to forward-looking statements as a result of subsequent events or developments.</font></i></p>
+<p align="center" style="margin:0in 0in .0001pt;text-align:center;"><font size="2" face="Times New Roman" style="font-size:10.0pt;">&nbsp;</font></p>
+<p align="center" style="margin:0in 0in .0001pt;text-align:center;"><font size="2" face="Times New Roman" style="font-size:10.0pt;">3<a name="PB_3_030204_5335"></a></font></p>
+<div style="margin:0in 0in .0001pt;"><hr size="3" width="100%" noshade color="#010101" align="left"></div>
+</div>
+<!-- SEQ.=1,FOLIO='3',FILE='C:\jms\C901830\14-12920-1\task6790170\12920-1-ba.htm',USER='C901830',CD='May 16 08:24 2014' -->
+
+<br clear="all" style="page-break-before:always;">
+<div>
+<p style="margin:0in 0in .0001pt;"><font size="2" face="Times New Roman" style="font-size:10.0pt;">&nbsp;</font></p>
+<p align="center" style="margin:0in 0in .0001pt;text-align:center;"><b><font size="2" face="Times New Roman" style="font-size:10.0pt;font-weight:bold;">SIGNATURE</font></b></p>
+<p style="margin:0in 0in .0001pt;"><font size="2" face="Times New Roman" style="font-size:10.0pt;">&nbsp;</font></p>
+<p style="margin:0in 0in .0001pt;text-indent:.5in;"><font size="2" face="Times New Roman" style="font-size:10.0pt;">Pursuant to the requirements of the Securities Exchange Act of 1934, the registrant has duly caused this report to be signed on its behalf by the undersigned hereunto duly authorized.</font></p>
+<p align="center" style="margin:0in 0in .0001pt;text-align:center;"><font size="2" face="Times New Roman" style="font-size:10.0pt;">&nbsp;</font></p>
+<table border="0" cellspacing="0" cellpadding="0" width="100%" style="border-collapse:collapse;width:100.0%;">
+<tr>
+<td width="50%" valign="top" style="padding:0in 0in 0in 0in;width:50.0%;">
+<p style="margin:0in 0in .0001pt;"><font size="2" face="Times New Roman" style="font-size:1.0pt;">&nbsp;</font></p>    </td>
+<td width="50%" colspan="2" valign="top" style="padding:0in 0in 0in 0in;width:50.0%;">
+<p style="margin:0in 0in .0001pt;"><b><font size="2" face="Times New Roman" style="font-size:10.0pt;font-weight:bold;">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;ABBOTT   LABORATORIES</font></b></p>    </td>   </tr>
+<tr>
+<td width="50%" valign="top" style="padding:0in 0in 0in 0in;width:50.0%;">
+<p style="margin:0in 0in .0001pt;"><font size="2" face="Times New Roman" style="font-size:10.0pt;">&nbsp;</font></p>    </td>
+<td width="5%" valign="top" style="padding:0in 0in 0in 0in;width:5.16%;">
+<p style="margin:0in 0in .0001pt;"><font size="2" face="Times New Roman" style="font-size:10.0pt;">&nbsp;</font></p>    </td>
+<td width="44%" valign="top" style="padding:0in 0in 0in 0in;width:44.84%;">
+<p style="margin:0in 0in .0001pt;"><font size="2" face="Times New Roman" style="font-size:10.0pt;">&nbsp;</font></p>    </td>   </tr>
+<tr>
+<td width="50%" valign="top" style="padding:0in 0in 0in 0in;width:50.0%;">
+<p style="margin:0in 0in .0001pt;"><font size="2" face="Times New Roman" style="font-size:10.0pt;">&nbsp;</font></p>    </td>
+<td width="5%" valign="top" style="padding:0in 0in 0in 0in;width:5.16%;">
+<p style="margin:0in 0in .0001pt;"><font size="2" face="Times New Roman" style="font-size:10.0pt;">&nbsp;</font></p>    </td>
+<td width="44%" valign="top" style="padding:0in 0in 0in 0in;width:44.84%;">
+<p style="margin:0in 0in .0001pt;"><font size="2" face="Times New Roman" style="font-size:10.0pt;">&nbsp;</font></p>    </td>   </tr>
+<tr>
+<td width="50%" valign="top" style="padding:0in 0in 0in 0in;width:50.0%;">
+<p style="margin:0in 0in .0001pt;"><font size="2" face="Times New Roman" style="font-size:10.0pt;">Date:&nbsp; May&nbsp;16,<b>  </b>2014</font></p>    </td>
+<td width="5%" valign="top" style="padding:0in 0in 0in 0in;width:5.16%;">
+<p style="margin:0in 0in .0001pt;"><font size="2" face="Times New Roman" style="font-size:10.0pt;">By:</font></p>    </td>
+<td width="44%" valign="top" style="border:none;border-bottom:solid windowtext 1.0pt;padding:0in 0in 0in 0in;width:44.84%;">
+<p style="margin:0in 0in .0001pt;"><font size="2" face="Times New Roman" style="font-size:10.0pt;">/s/   Thomas C. Freyman</font></p>    </td>   </tr>
+<tr>
+<td width="50%" valign="top" style="padding:0in 0in 0in 0in;width:50.0%;">
+<p style="margin:0in 0in .0001pt;"><font size="2" face="Times New Roman" style="font-size:1.0pt;">&nbsp;</font></p>    </td>
+<td width="5%" valign="top" style="padding:0in 0in 0in 0in;width:5.16%;">
+<p style="margin:0in 0in .0001pt;"><font size="2" face="Times New Roman" style="font-size:1.0pt;">&nbsp;</font></p>    </td>
+<td width="44%" valign="top" style="border:none;padding:0in 0in 0in 0in;width:44.84%;">
+<p style="margin:0in 0in .0001pt;"><font size="2" face="Times New Roman" style="font-size:10.0pt;">Thomas   C. Freyman</font></p>    </td>   </tr>
+<tr>
+<td width="50%" valign="top" style="padding:0in 0in 0in 0in;width:50.0%;">
+<p style="margin:0in 0in .0001pt;"><font size="2" face="Times New Roman" style="font-size:1.0pt;">&nbsp;</font></p>    </td>
+<td width="5%" valign="top" style="padding:0in 0in 0in 0in;width:5.16%;">
+<p style="margin:0in 0in .0001pt;"><font size="2" face="Times New Roman" style="font-size:1.0pt;">&nbsp;</font></p>    </td>
+<td width="44%" valign="top" style="padding:0in 0in 0in 0in;width:44.84%;">
+<p style="margin:0in 0in .0001pt;"><font size="2" face="Times New Roman" style="font-size:10.0pt;">Executive   Vice President, Finance</font></p>    </td>   </tr>
+<tr>
+<td width="50%" valign="top" style="padding:0in 0in 0in 0in;width:50.0%;">
+<p style="margin:0in 0in .0001pt;"><font size="2" face="Times New Roman" style="font-size:1.0pt;">&nbsp;</font></p>    </td>
+<td width="5%" valign="top" style="padding:0in 0in 0in 0in;width:5.16%;">
+<p style="margin:0in 0in .0001pt;"><font size="2" face="Times New Roman" style="font-size:1.0pt;">&nbsp;</font></p>    </td>
+<td width="44%" valign="top" style="padding:0in 0in 0in 0in;width:44.84%;">
+<p style="margin:0in 0in .0001pt;"><font size="2" face="Times New Roman" style="font-size:10.0pt;">and   Chief Financial Officer</font></p>    </td>   </tr>  </table>
+<p align="center" style="margin:0in 0in .0001pt;text-align:center;"><font size="2" face="Times New Roman" style="font-size:10.0pt;">&nbsp;</font></p>
+<p align="center" style="margin:0in 0in .0001pt;text-align:center;"><font size="2" face="Times New Roman" style="font-size:10.0pt;">4<a name="PB_4_030426_5796"></a></font></p>
+<div style="margin:0in 0in .0001pt;"><hr size="3" width="100%" noshade color="#010101" align="left"></div>
+</div>
+<!-- SEQ.=1,FOLIO='4',FILE='C:\jms\C901830\14-12920-1\task6790170\12920-1-ba.htm',USER='C901830',CD='May 16 08:24 2014' -->
+
+<br clear="all" style="page-break-before:always;">
+<div>
+<p style="margin:0in 0in .0001pt;"><font size="2" face="Times New Roman" style="font-size:10.0pt;">&nbsp;</font></p>
+<p align="center" style="margin:0in 0in .0001pt;text-align:center;"><b><u><font size="2" face="Times New Roman" style="font-size:10.0pt;font-weight:bold;">EXHIBIT&nbsp;INDEX</font></u></b></p>
+<p style="margin:0in 0in .0001pt;"><font size="2" face="Times New Roman" style="font-size:10.0pt;">&nbsp;</font></p>
+<table border="0" cellspacing="0" cellpadding="0" width="100%" style="border-collapse:collapse;width:100.0%;">
+<tr>
+<td width="8%" valign="bottom" style="border:none;border-bottom:solid windowtext 1.0pt;padding:0in 0in 0in 0in;width:8.0%;">
+<p style="margin:0in 0in .0001pt;"><b><font size="1" face="Times New Roman" style="font-size:8.0pt;font-weight:bold;">Exhibit&nbsp;No.</font></b></p>    </td>
+<td width="2%" valign="bottom" style="padding:0in 0in 0in 0in;width:2.0%;">
+<p align="center" style="margin:0in 0in .0001pt;text-align:center;"><b><font size="1" face="Times New Roman" style="font-size:1.0pt;font-weight:bold;">&nbsp;</font></b></p>    </td>
+<td width="90%" valign="bottom" style="border:none;border-bottom:solid windowtext 1.0pt;padding:0in 0in 0in 0in;width:90.0%;">
+<p align="center" style="margin:0in 0in .0001pt;text-align:center;"><b><font size="1" face="Times New Roman" style="font-size:8.0pt;font-weight:bold;">Exhibit</font></b></p>    </td>   </tr>
+<tr>
+<td width="8%" valign="top" style="border:none;padding:0in 0in 0in 0in;width:8.0%;">
+<p style="margin:0in 0in .0001pt;"><font size="2" face="Times New Roman" style="font-size:10.0pt;">&nbsp;</font></p>    </td>
+<td width="2%" valign="bottom" style="padding:0in 0in 0in 0in;width:2.0%;">
+<p style="margin:0in 0in .0001pt;"><font size="2" face="Times New Roman" style="font-size:10.0pt;">&nbsp;</font></p>    </td>
+<td width="90%" valign="top" style="border:none;padding:0in 0in 0in 0in;width:90.0%;">
+<p style="margin:0in 0in .0001pt;"><font size="2" face="Times New Roman" style="font-size:10.0pt;">&nbsp;</font></p>    </td>   </tr>
+<tr>
+<td width="8%" valign="top" style="padding:0in 0in 0in 0in;width:8.0%;">
+<p style="margin:0in 0in .0001pt;"><font size="2" face="Times New Roman" style="font-size:10.0pt;">99.1</font></p>    </td>
+<td width="2%" valign="bottom" style="padding:0in 0in 0in 0in;width:2.0%;">
+<p style="margin:0in 0in .0001pt;"><font size="2" face="Times New Roman" style="font-size:1.0pt;">&nbsp;</font></p>    </td>
+<td width="90%" valign="top" style="padding:0in 0in 0in 0in;width:90.0%;">
+<p style="margin:0in 0in .0001pt;"><font size="2" face="Times New Roman" style="font-size:10.0pt;">Press   Release, dated May 16, 2014.</font></p>    </td>   </tr>  </table>
+<p align="center" style="margin:0in 0in .0001pt;text-align:center;"><font size="2" face="Times New Roman" style="font-size:10.0pt;">&nbsp;</font></p>
+<p align="center" style="margin:0in 0in .0001pt;text-align:center;"><font size="2" face="Times New Roman" style="font-size:10.0pt;">5<a name="PB_5_030550_2897"></a></font></p>
+<div style="margin:0in 0in .0001pt;"><hr size="3" width="100%" noshade color="#010101" align="left"></div>
+</div>
+<!-- SEQ.=1,FOLIO='5',FILE='C:\jms\C901830\14-12920-1\task6790170\12920-1-ba.htm',USER='C901830',CD='May 16 08:24 2014' -->
+
+</body>
+</html>
+</TEXT>
+</DOCUMENT>
+<DOCUMENT>
+<TYPE>EX-99.1
+<SEQUENCE>2
+<FILENAME>a14-12920_1ex99d1.htm
+<DESCRIPTION>EX-99.1
+<TEXT>
+
+
+<html>
+<head>
+
+
+  </head>
+<body lang="EN-US">
+<div style="font-family:Times New Roman;">
+<p align="right" style="margin:0in 0in .0001pt;text-align:right;"><b><font size="2" face="Times New Roman" style="font-size:10.0pt;font-weight:bold;">Exhibit 99.1</font></b></p>
+<p style="margin:0in 0in .0001pt;"><font size="2" face="Times New Roman" style="font-size:10.0pt;">&nbsp;</font></p>
+<p style="margin:0in 0in .0001pt;"><b><font size="2" face="Times New Roman" style="font-size:10.0pt;font-weight:bold;">FOR IMMEDIATE RELEASE</font></b></p>
+<p style="margin:0in 0in .0001pt;"><font size="2" face="Times New Roman" style="font-size:10.0pt;">&nbsp;</font></p>
+<p style="margin:0in 0in .0001pt;"><b><font size="2" face="Times New Roman" style="font-weight:bold;"><img width="278" height="109" src="g129201mmi001.jpg" alt="GRAPHIC"></font></b></p>
+<p style="margin:0in 0in .0001pt;"><font size="2" face="Times New Roman" style="font-size:10.0pt;">&nbsp;</font></p>
+<p style="margin:0in 0in .0001pt;"><font size="2" face="Times New Roman" style="font-size:10.0pt;">Media:</font></p>
+<p style="margin:0in 0in .0001pt;"><b><font size="2" face="Times New Roman" style="font-size:10.0pt;font-weight:bold;">Scott Stoffel</font></b></p>
+<p style="margin:0in 0in .0001pt;"><font size="2" face="Times New Roman" style="font-size:10.0pt;">(847) 936-9502</font></p>
+<p style="margin:0in 0in .0001pt;"><font size="2" face="Times New Roman" style="font-size:10.0pt;">&nbsp;</font></p>
+<p style="margin:0in 0in .0001pt;"><b><font size="2" face="Times New Roman" style="font-size:10.0pt;font-weight:bold;">Kelly Morrison</font></b></p>
+<p style="margin:0in 0in .0001pt;"><font size="2" face="Times New Roman" style="font-size:10.0pt;">(847) 937-3802</font></p>
+<p style="margin:0in 0in .0001pt;"><font size="2" face="Times New Roman" style="font-size:10.0pt;">&nbsp;</font></p>
+<p style="margin:0in 0in .0001pt;"><font size="2" face="Times New Roman" style="font-size:10.0pt;">Spanish-language Media:</font></p>
+<p style="margin:0in 0in .0001pt;"><b><font size="2" face="Times New Roman" style="font-size:10.0pt;font-weight:bold;">Jorge Solorzano Torres</font></b></p>
+<p style="margin:0in 0in .0001pt;"><font size="2" face="Times New Roman" style="font-size:10.0pt;">+ 52 55 5809 7512</font></p>
+<p style="margin:0in 0in .0001pt;"><font size="2" face="Times New Roman" style="font-size:10.0pt;">&nbsp;</font></p>
+<p style="margin:0in 0in .0001pt;"><font size="2" face="Times New Roman" style="font-size:10.0pt;">Financial:</font></p>
+<p style="margin:0in 0in .0001pt;"><b><font size="2" face="Times New Roman" style="font-size:10.0pt;font-weight:bold;">Brian Yoor</font></b></p>
+<p style="margin:0in 0in .0001pt;"><font size="2" face="Times New Roman" style="font-size:10.0pt;">(847) 937-6343</font></p>
+<p style="margin:0in 0in .0001pt;"><font size="2" face="Times New Roman" style="font-size:10.0pt;">&nbsp;</font></p>
+<p style="margin:0in 0in .0001pt;"><b><font size="2" face="Times New Roman" style="font-size:10.0pt;font-weight:bold;">Scott Leinenweber</font></b></p>
+<p style="margin:0in 0in .0001pt;"><font size="2" face="Times New Roman" style="font-size:10.0pt;">(847) 935-1898</font></p>
+<p style="margin:0in 0in .0001pt;"><font size="2" face="Times New Roman" style="font-size:10.0pt;">&nbsp;</font></p>
+<p style="margin:0in 0in .0001pt;"><font size="2" face="Times New Roman" style="font-size:10.0pt;">Abbott Expands Latin American Presence and Branded Generics Portfolio with Acquisition of CFR Pharmaceuticals</font></p>
+<p style="margin:0in 0in .0001pt;"><font size="2" face="Times New Roman" style="font-size:10.0pt;">&nbsp;</font></p>
+<p style="margin:0in 0in .0001pt;"><i><font size="2" face="Times New Roman" style="font-size:10.0pt;font-style:italic;">Abbott enhances its position in fast-growing Latin American market, more than doubling its branded generics pharmaceutical sales and presence in the region</font></i></p>
+<p style="margin:0in 0in .0001pt;"><font size="2" face="Times New Roman" style="font-size:10.0pt;">&nbsp;</font></p>
+<p style="margin:0in 0in .0001pt;"><font size="2" face="Times New Roman" style="font-size:10.0pt;">ABBOTT PARK,&nbsp;Ill., May&nbsp;16, 2014 &#151; Abbott today announced a definitive agreement to acquire Latin American pharmaceutical company CFR Pharmaceuticals, more than doubling its Latin American branded generics pharmaceutical presence and further expanding Abbott</font><font size="2" style="font-size:10.0pt;">&#146;</font><font size="2" style="font-size:10.0pt;">s presence in fast-growing markets. Under the terms of the agreement, Abbott will acquire the holding company that indirectly owns approximately 73 percent of CFR Pharmaceuticals and will conduct a public cash tender offer for all of the outstanding shares of CFR. Assuming all publicly-held shares are tendered, the total purchase price would be approximately $2.9 billion, plus the assumption of net debt of approximately $430 million.</font></p>
+<p style="margin:0in 0in .0001pt;"><font size="2" face="Times New Roman" style="font-size:10.0pt;">&nbsp;</font></p>
+<p style="margin:0in 0in .0001pt;"><font size="2" face="Times New Roman" style="font-size:10.0pt;">This acquisition immediately establishes Abbott among the top 10 pharmaceutical companies in Latin America, further broadening Abbott</font><font size="2" style="font-size:10.0pt;">&#146;</font><font size="2" style="font-size:10.0pt;">s geographic presence across the region.</font></p>
+<p style="margin:0in 0in .0001pt;"><font size="2" face="Times New Roman" style="font-size:10.0pt;">&nbsp;</font></p>
+<p style="margin:0in 0in .0001pt;"><font size="2" face="Times New Roman" style="font-size:10.0pt;">&#147;</font><font size="2" style="font-size:10.0pt;">With its scale and leadership positions in the region, strong commercial and development organizations, well-respected leadership team and a trusted portfolio of recognized brands, CFR is one of the leading branded generic companies in Latin America,</font><font size="2" style="font-size:10.0pt;">&#148;</font><font size="2" style="font-size:10.0pt;"> said Miles D. White, chairman and chief executive officer, Abbott. </font><font size="2" style="font-size:10.0pt;">&#147;</font><font size="2" style="font-size:10.0pt;">This acquisition will significantly enhance and broaden Abbott</font><font size="2" style="font-size:10.0pt;">&#146;</font><font size="2" style="font-size:10.0pt;">s Latin American footprint, and is well aligned with our long-term strategy and commitment to fast-growing markets.</font><font size="2" style="font-size:10.0pt;">&#148;</font></p>
+<p style="margin:0in 0in .0001pt;"><font size="2" face="Times New Roman" style="font-size:10.0pt;">&nbsp;</font></p>
+<p style="margin:0in 0in .0001pt;"><font size="2" face="Times New Roman" style="font-size:10.0pt;">Abbott expects the acquisition to add approximately $900 million to its sales in the first full year (2015), with expected double-digit sales growth over the next several years.</font></p>
+<p style="margin:0in 0in .0001pt;"><font size="2" face="Times New Roman" style="font-size:10.0pt;">&nbsp;</font></p>
+<p align="center" style="margin:0in 0in .0001pt;text-align:center;"><font size="2" face="Times New Roman" style="font-size:10.0pt;">-more-</font></p>
+<p style="margin:0in 0in .0001pt;"><font size="2" face="Times New Roman" style="font-size:10.0pt;">&nbsp;</font></p>
+<p align="right" style="margin:0in 0in .0001pt;text-align:right;"><font size="2" face="Times New Roman"><img width="140" height="45" src="g129201mmi002.jpg"></font></p>
+<p style="margin:0in 0in .0001pt;"><font size="2" face="Times New Roman" style="font-size:10.0pt;">&nbsp;</font></p>
+<div style="margin:0in 0in .0001pt;"><hr size="3" width="100%" noshade color="#010101" align="left"></div>
+</div>
+<!-- SEQ.=1,FOLIO='',FILE='C:\JMS\C901768\14-12920-1\task6790102\12920-1-mm.htm',USER='C901768',CD='May 16 07:33 2014' -->
+
+<br clear="all" style="page-break-before:always;">
+<div style="font-family:Times New Roman;">
+<p align="center" style="margin:0in 0in .0001pt;text-align:center;"><font size="2" face="Times New Roman" style="font-size:10.0pt;">&nbsp;</font></p>
+<p style="margin:0in 0in .0001pt;"><font size="2" face="Times New Roman" style="font-size:10.0pt;">CFR Pharmaceuticals, headquartered in Santiago, Chile, participates in 15 Latin American markets and has a comprehensive product portfolio that is well aligned with Abbott</font><font size="2" style="font-size:10.0pt;">&#146;</font><font size="2" style="font-size:10.0pt;">s current pharmaceutical therapeutic areas of focus in women</font><font size="2" style="font-size:10.0pt;">&#146;</font><font size="2" style="font-size:10.0pt;">s health, central nervous system, cardiovascular and respiratory diseases. The addition of CFR</font><font size="2" style="font-size:10.0pt;">&#146;</font><font size="2" style="font-size:10.0pt;">s business will significantly improve Abbott</font><font size="2" style="font-size:10.0pt;">&#146;</font><font size="2" style="font-size:10.0pt;">s position in several markets, and provide the opportunity to expand each company</font><font size="2" style="font-size:10.0pt;">&#146;</font><font size="2" style="font-size:10.0pt;">s portfolio across Latin America.</font></p>
+<p style="margin:0in 0in .0001pt;"><font size="2" face="Times New Roman" style="font-size:10.0pt;">&nbsp;</font></p>
+<p style="margin:0in 0in .0001pt;"><font size="2" face="Times New Roman" style="font-size:10.0pt;">&#147;</font><font size="2" style="font-size:10.0pt;">We are pleased to join with Abbott to enhance CFR</font><font size="2" style="font-size:10.0pt;">&#146;</font><font size="2" style="font-size:10.0pt;">s leadership across Latin America,</font><font size="2" style="font-size:10.0pt;">&#148;</font><font size="2" style="font-size:10.0pt;"> said Alejandro Weinstein, chief executive officer, CFR Pharmaceuticals. </font><font size="2" style="font-size:10.0pt;">&#147;</font><font size="2" style="font-size:10.0pt;">CFR and its employees will become part of an organization much like itself, a well-respected company with a long heritage and commitment to delivering quality health care products that improve people</font><font size="2" style="font-size:10.0pt;">&#146;</font><font size="2" style="font-size:10.0pt;">s lives.</font><font size="2" style="font-size:10.0pt;">&#148;</font></p>
+<p style="margin:0in 0in .0001pt;"><font size="2" face="Times New Roman" style="font-size:10.0pt;">&nbsp;</font></p>
+<p style="margin:0in 0in .0001pt;"><font size="2" face="Times New Roman" style="font-size:10.0pt;">CFR currently markets more than 1,000 products and has a proven track record of rapidly developing and bringing new products to market.&nbsp;In addition to leading products and a robust pipeline, the acquisition adds approximately 7,000 employees, and R&amp;D and manufacturing facilities in Chile, Colombia, Peru and Argentina.</font></p>
+<p style="margin:0in 0in .0001pt;"><font size="2" face="Times New Roman" style="font-size:10.0pt;">&nbsp;</font></p>
+<p style="margin:0in 0in .0001pt;"><b><font size="2" face="Times New Roman" style="font-size:10.0pt;font-weight:bold;">The Latin American Pharmaceutical Market</font></b></p>
+<p style="margin:0in 0in .0001pt;"><font size="2" face="Times New Roman" style="font-size:10.0pt;">&nbsp;</font></p>
+<p style="margin:0in 0in .0001pt;"><font size="2" face="Times New Roman" style="font-size:10.0pt;">The Latin American pharmaceutical market is expected to reach $73 billion in sales this year, and is expected to reach $124 billion by 2018, with estimated annual growth rates of two to three times that of developed markets over the coming years<i>, </i>according to IMS forecasts.</font></p>
+<p style="margin:0in 0in .0001pt;"><font size="2" face="Times New Roman" style="font-size:10.0pt;">&nbsp;</font></p>
+<p style="margin:0in 0in .0001pt;"><b><font size="2" face="Times New Roman" style="font-size:10.0pt;font-weight:bold;">Financial Highlights</font></b></p>
+<p style="margin:0in 0in .0001pt;"><font size="2" face="Times New Roman" style="font-size:10.0pt;">&nbsp;</font></p>
+<p style="margin:0in 0in .0001pt;"><font size="2" face="Times New Roman" style="font-size:10.0pt;">Under terms of the agreement, Abbott will commence a tender offer to purchase all the outstanding shares of CFR Pharmaceuticals following necessary regulatory approvals. Abbott plans to fund the transaction with cash on the balance sheet.</font></p>
+<p style="margin:0in 0in .0001pt;"><font size="2" face="Times New Roman" style="font-size:10.0pt;">&nbsp;</font></p>
+<p style="margin:0in 0in .0001pt;"><font size="2" face="Times New Roman" style="font-size:10.0pt;">Assuming the transaction closes as anticipated by the end of the third quarter of 2014, Abbott would expect to benefit from the year-over-year sales increase in the fourth quarter. The addition of CFR does not impact Abbott</font><font size="2" style="font-size:10.0pt;">&#146;</font><font size="2" style="font-size:10.0pt;">s full-year 2014 ongoing EPS guidance previously provided.</font></p>
+<p style="margin:0in 0in .0001pt;"><font size="2" face="Times New Roman" style="font-size:10.0pt;">&nbsp;</font></p>
+<p align="center" style="margin:0in 0in .0001pt;text-align:center;"><font size="2" face="Times New Roman" style="font-size:10.0pt;">2<a name="PB_2_013703_7056"></a></font></p>
+<div style="margin:0in 0in .0001pt;"><hr size="3" width="100%" noshade color="#010101" align="left"></div>
+</div>
+<!-- SEQ.=1,FOLIO='2',FILE='C:\JMS\C901768\14-12920-1\task6790102\12920-1-mm.htm',USER='C901768',CD='May 16 07:33 2014' -->
+
+<br clear="all" style="page-break-before:always;">
+<div style="font-family:Times New Roman;">
+<p align="center" style="margin:0in 0in .0001pt;text-align:center;"><font size="2" face="Times New Roman" style="font-size:10.0pt;">&nbsp;</font></p>
+<p style="margin:0in 0in .0001pt;"><font size="2" face="Times New Roman" style="font-size:10.0pt;">Abbott anticipates this transaction to be accretive to ongoing earnings per share in 2015 and increasing thereafter, before one-time transaction-related items, which will be provided at a later date. The transaction is subject to customary closing conditions and regulatory approvals.</font></p>
+<p style="margin:0in 0in .0001pt;"><font size="2" face="Times New Roman" style="font-size:10.0pt;">&nbsp;</font></p>
+<p style="margin:0in 0in .0001pt;"><font size="2" face="Times New Roman" style="font-size:10.0pt;">Barclays advised Abbott on the transaction; Deutsche Bank Securities Inc. advised CFR.</font></p>
+<p style="margin:0in 0in .0001pt;"><font size="2" face="Times New Roman" style="font-size:10.0pt;">&nbsp;</font></p>
+<p style="margin:0in 0in .0001pt;"><b><font size="2" face="Times New Roman" style="font-size:10.0pt;font-weight:bold;">Abbott Conference Call</font></b></p>
+<p style="margin:0in 0in .0001pt;"><font size="2" face="Times New Roman" style="font-size:10.0pt;">&nbsp;</font></p>
+<p style="margin:0in 0in .0001pt;"><font size="2" face="Times New Roman" style="font-size:10.0pt;">Abbott will conduct a special conference call today at 8&nbsp;a.m. Central time (9&nbsp;a.m. Eastern time) to provide an overview of the transaction. A live web cast will be accessible through Abbott</font><font size="2" style="font-size:10.0pt;">&#146;</font><font size="2" style="font-size:10.0pt;">s Investor Relations web site at www.abbottinvestor.com.</font></p>
+<p style="margin:0in 0in .0001pt;"><font size="2" face="Times New Roman" style="font-size:10.0pt;">&nbsp;</font></p>
+<p style="margin:0in 0in .0001pt;"><b><font size="2" face="Times New Roman" style="font-size:10.0pt;font-weight:bold;">About Abbott</font></b></p>
+<p style="margin:0in 0in .0001pt;"><font size="2" face="Times New Roman" style="font-size:10.0pt;">&nbsp;</font></p>
+<p style="margin:0in 0in .0001pt;"><font size="2" face="Times New Roman" style="font-size:10.0pt;">Abbott is a global healthcare company devoted to improving life through the development of products and technologies that span the breadth of healthcare. With a portfolio of leading, science-based offerings in diagnostics, medical devices, nutritionals and branded generic pharmaceuticals, Abbott serves people in more than 150 countries and employs approximately 69,000 people.</font></p>
+<p style="margin:0in 0in .0001pt;"><font size="2" face="Times New Roman" style="font-size:10.0pt;">&nbsp;</font></p>
+<p style="margin:0in 0in .0001pt;"><font size="2" face="Times New Roman" style="font-size:10.0pt;">Visit Abbott at www.abbott.com and connect with us on Twitter at @AbbottNews.</font></p>
+<p style="margin:0in 0in .0001pt;"><font size="2" face="Times New Roman" style="font-size:10.0pt;">&nbsp;</font></p>
+<p style="margin:0in 0in .0001pt;"><b><i><font size="2" face="Times New Roman" style="font-size:10.0pt;font-style:italic;font-weight:bold;">Private Securities Litigation Reform Act of 1995 &#151; A Caution Concerning Forward-Looking Statements</font></i></b></p>
+<p style="margin:0in 0in .0001pt;"><font size="2" face="Times New Roman" style="font-size:10.0pt;">&nbsp;</font></p>
+<p style="margin:0in 0in .0001pt;"><i><font size="2" face="Times New Roman" style="font-size:10.0pt;font-style:italic;">Some statements in this news release may be forward-looking statements for purposes of the Private Securities Litigation Reform Act of 1995. Abbott cautions that these forward-looking statements are subject to risks and uncertainties that may cause actual results to differ materially from those indicated in the forward-looking statements. Economic, competitive, governmental, technological and other factors that may affect Abbott</font></i><font size="2" style="font-size:10.0pt;">&#146;</font><i><font size="2" style="font-size:10.0pt;font-style:italic;">s operations are discussed in Item&nbsp;1A, </font></i><i><font size="2" style="font-size:10.0pt;font-style:italic;">&#147;</font></i><i><font size="2" style="font-size:10.0pt;font-style:italic;">Risk Factors,</font></i><i><font size="2" style="font-size:10.0pt;font-style:italic;">&#148;</font></i><i><font size="2" style="font-size:10.0pt;font-style:italic;"> to our Annual Report on Securities and Exchange Commission Form&nbsp;10-K for the year ended Dec.&nbsp;31, 2013, and are incorporated by reference. Abbott undertakes no obligation to release publicly any revisions to forward-looking statements as a result of subsequent events or developments, except as required by law.</font></i></p>
+<p style="margin:0in 0in .0001pt;"><font size="2" face="Times New Roman" style="font-size:10.0pt;">&nbsp;</font></p>
+<p align="center" style="margin:0in 0in .0001pt;text-align:center;"><font size="2" face="Times New Roman" style="font-size:10.0pt;">###</font></p>
+<p align="center" style="margin:0in 0in .0001pt;text-align:center;"><font size="2" face="Times New Roman" style="font-size:10.0pt;">&nbsp;</font></p>
+<p align="center" style="margin:0in 0in .0001pt;text-align:center;"><font size="2" face="Times New Roman" style="font-size:10.0pt;">3<a name="PB_3_013717_5335"></a></font></p>
+<div style="margin:0in 0in .0001pt;"><hr size="3" width="100%" noshade color="#010101" align="left"></div>
+</div>
+<!-- SEQ.=1,FOLIO='3',FILE='C:\JMS\C901768\14-12920-1\task6790102\12920-1-mm.htm',USER='C901768',CD='May 16 07:33 2014' -->
+
+</body>
+</html>
+</TEXT>
+</DOCUMENT>
+<DOCUMENT>
+<TYPE>GRAPHIC
+<SEQUENCE>3
+<FILENAME>g129201mmi001.jpg
+<DESCRIPTION>GRAPHIC
+<TEXT>
+begin 644 g129201mmi001.jpg
+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
+"_]D_
+`
+end
+</TEXT>
+</DOCUMENT>
+<DOCUMENT>
+<TYPE>GRAPHIC
+<SEQUENCE>4
+<FILENAME>g129201mmi002.jpg
+<DESCRIPTION>GRAPHIC
+<TEXT>
+begin 644 g129201mmi002.jpg
+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
+0D88!B<D\^IZU<`P,"@#_V3\_
+`
+end
+</TEXT>
+</DOCUMENT>
+</SEC-DOCUMENT>

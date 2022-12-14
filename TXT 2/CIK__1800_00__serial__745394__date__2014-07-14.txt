@@ -1,0 +1,685 @@
+<SEC-DOCUMENT>0001104659-14-051292.txt : 20140714
+<SEC-HEADER>0001104659-14-051292.hdr.sgml : 20140714
+<ACCEPTANCE-DATETIME>20140714072609
+ACCESSION NUMBER:		0001104659-14-051292
+CONFORMED SUBMISSION TYPE:	8-K
+PUBLIC DOCUMENT COUNT:		4
+CONFORMED PERIOD OF REPORT:	20140713
+ITEM INFORMATION:		Entry into a Material Definitive Agreement
+ITEM INFORMATION:		Other Events
+ITEM INFORMATION:		Financial Statements and Exhibits
+FILED AS OF DATE:		20140714
+DATE AS OF CHANGE:		20140714
+
+FILER:
+
+	COMPANY DATA:	
+		COMPANY CONFORMED NAME:			ABBOTT LABORATORIES
+		CENTRAL INDEX KEY:			0000001800
+		STANDARD INDUSTRIAL CLASSIFICATION:	PHARMACEUTICAL PREPARATIONS [2834]
+		IRS NUMBER:				360698440
+		STATE OF INCORPORATION:			IL
+		FISCAL YEAR END:			1231
+
+	FILING VALUES:
+		FORM TYPE:		8-K
+		SEC ACT:		1934 Act
+		SEC FILE NUMBER:	001-02189
+		FILM NUMBER:		14972757
+
+	BUSINESS ADDRESS:	
+		STREET 1:		100 ABBOTT PARK ROAD
+		STREET 2:		D-322 AP6D
+		CITY:			ABBOTT PARK
+		STATE:			IL
+		ZIP:			60064-3500
+		BUSINESS PHONE:		8479376100
+</SEC-HEADER>
+<DOCUMENT>
+<TYPE>8-K
+<SEQUENCE>1
+<FILENAME>a14-17107_18k.htm
+<DESCRIPTION>8-K
+<TEXT>
+
+
+<html>
+<head>
+
+
+  </head>
+<body lang="EN-US">
+<div style="font-family:Times New Roman;">
+<div style="border-bottom:solid windowtext 1.0pt;border-left:none;border-right:none;border-top:solid windowtext 3.0pt;padding:1.0pt 0in 1.0pt 0in;">
+<p style="border:none;margin:0in 0in .0001pt;padding:0in;"><font size="1" face="Times New Roman" style="font-size:1.0pt;">&nbsp;</font></p>
+</div>
+<p align="center" style="margin:0in 0in .0001pt;text-align:center;"><font size="2" face="Times New Roman" style="font-size:10.0pt;">&nbsp;</font></p>
+<p align="center" style="margin:0in 0in .0001pt;text-align:center;"><b><font size="5" face="Times New Roman" style="font-size:18.0pt;font-weight:bold;">UNITED STATES</font></b></p>
+<p align="center" style="margin:0in 0in .0001pt;text-align:center;"><b><font size="5" face="Times New Roman" style="font-size:18.0pt;font-weight:bold;">SECURITIES AND EXCHANGE COMMISSION</font></b></p>
+<p align="center" style="margin:0in 0in .0001pt;text-align:center;"><b><font size="2" face="Times New Roman" style="font-size:10.0pt;font-weight:bold;">Washington, D. C. 20549</font></b></p>
+<p align="center" style="margin:0in 0in .0001pt;text-align:center;"><font size="2" face="Times New Roman" style="font-size:10.0pt;">&nbsp;</font></p>
+<div align="center" style="margin:0in 0in .0001pt;text-align:center;"><hr size="1" width="25%" noshade color="black" align="center"></div>
+<p align="center" style="margin:0in 0in .0001pt;text-align:center;"><font size="2" face="Times New Roman" style="font-size:10.0pt;">&nbsp;</font></p>
+<p align="center" style="margin:0in 0in .0001pt;text-align:center;"><b><font size="5" face="Times New Roman" style="font-size:18.0pt;font-weight:bold;">FORM 8-K</font></b></p>
+<p align="center" style="margin:0in 0in .0001pt;text-align:center;"><font size="2" face="Times New Roman" style="font-size:10.0pt;">&nbsp;</font></p>
+<p align="center" style="margin:0in 0in .0001pt;text-align:center;"><b><font size="3" face="Times New Roman" style="font-size:12.0pt;font-weight:bold;">CURRENT REPORT</font></b></p>
+<p align="center" style="margin:0in 0in .0001pt;text-align:center;"><b><font size="3" face="Times New Roman" style="font-size:12.0pt;font-weight:bold;">Pursuant to Section&nbsp;13 or 15(d)&nbsp;of the</font></b></p>
+<p align="center" style="margin:0in 0in .0001pt;text-align:center;"><b><font size="3" face="Times New Roman" style="font-size:12.0pt;font-weight:bold;">Securities Exchange Act of 1934</font></b></p>
+<p align="center" style="margin:0in 0in .0001pt;text-align:center;"><font size="2" face="Times New Roman" style="font-size:10.0pt;">&nbsp;</font></p>
+<p align="center" style="margin:0in 0in .0001pt;text-align:center;"><b><font size="2" face="Times New Roman" style="font-size:10.0pt;font-weight:bold;">July&nbsp;13, 2014</font></b></p>
+<p align="center" style="margin:0in 0in .0001pt;text-align:center;"><font size="2" face="Times New Roman" style="font-size:10.0pt;">Date of Report (Date of earliest event reported)</font></p>
+<p align="center" style="margin:0in 0in .0001pt;text-align:center;"><font size="2" face="Times New Roman" style="font-size:10.0pt;">&nbsp;</font></p>
+<p align="center" style="margin:0in 0in .0001pt;text-align:center;"><b><font size="5" face="Times New Roman" style="font-size:18.0pt;font-weight:bold;">ABBOTT LABORATORIES</font></b></p>
+<p align="center" style="margin:0in 0in .0001pt;text-align:center;"><font size="2" face="Times New Roman" style="font-size:10.0pt;">(Exact name of registrant as specified in charter)</font></p>
+<p align="center" style="margin:0in 0in .0001pt;text-align:center;"><font size="2" face="Times New Roman" style="font-size:10.0pt;">&nbsp;</font></p>
+<div align="center" style="margin:0in 0in .0001pt;text-align:center;"><hr size="1" width="25%" noshade color="black" align="center"></div>
+<p align="center" style="margin:0in 0in .0001pt;text-align:center;"><font size="2" face="Times New Roman" style="font-size:10.0pt;">&nbsp;</font></p>
+<div align="center">
+<table border="0" cellspacing="0" cellpadding="0" width="100%" style="border-collapse:collapse;width:100.0%;">
+<tr>
+<td width="32%" valign="top" style="padding:0in 0in 0in 0in;width:32.0%;">
+<p align="center" style="margin:0in 0in .0001pt;text-align:center;"><b><font size="2" face="Times New Roman" style="font-size:10.0pt;font-weight:bold;">Illinois</font></b></p>    </td>
+<td width="2%" valign="bottom" style="padding:0in 0in 0in 0in;width:2.0%;">
+<p style="margin:0in 0in .0001pt;"><b><font size="2" face="Times New Roman" style="font-size:1.0pt;font-weight:bold;">&nbsp;</font></b></p>    </td>
+<td width="32%" valign="top" style="padding:0in 0in 0in 0in;width:32.0%;">
+<p align="center" style="margin:0in 0in .0001pt;text-align:center;"><b><font size="2" face="Times New Roman" style="font-size:10.0pt;font-weight:bold;">1-2189</font></b></p>    </td>
+<td width="2%" valign="bottom" style="padding:0in 0in 0in 0in;width:2.0%;">
+<p style="margin:0in 0in .0001pt;"><b><font size="2" face="Times New Roman" style="font-size:1.0pt;font-weight:bold;">&nbsp;</font></b></p>    </td>
+<td width="32%" valign="top" style="padding:0in 0in 0in 0in;width:32.0%;">
+<p align="center" style="margin:0in 0in .0001pt;text-align:center;"><b><font size="2" face="Times New Roman" style="font-size:10.0pt;font-weight:bold;">36-0698440</font></b></p>    </td>   </tr>
+<tr>
+<td width="32%" valign="top" style="padding:0in 0in 0in 0in;width:32.0%;">
+<p align="center" style="margin:0in 0in .0001pt;text-align:center;"><font size="2" face="Times New Roman" style="font-size:10.0pt;">(State or other Jurisdiction</font></p>    </td>
+<td width="2%" valign="bottom" style="padding:0in 0in 0in 0in;width:2.0%;">
+<p style="margin:0in 0in .0001pt;"><font size="2" face="Times New Roman" style="font-size:1.0pt;">&nbsp;</font></p>    </td>
+<td width="32%" valign="top" style="padding:0in 0in 0in 0in;width:32.0%;">
+<p align="center" style="margin:0in 0in .0001pt;text-align:center;"><font size="2" face="Times New Roman" style="font-size:10.0pt;">(Commission File Number)</font></p>    </td>
+<td width="2%" valign="bottom" style="padding:0in 0in 0in 0in;width:2.0%;">
+<p style="margin:0in 0in .0001pt;"><font size="2" face="Times New Roman" style="font-size:1.0pt;">&nbsp;</font></p>    </td>
+<td width="32%" valign="top" style="padding:0in 0in 0in 0in;width:32.0%;">
+<p align="center" style="margin:0in 0in .0001pt;text-align:center;"><font size="2" face="Times New Roman" style="font-size:10.0pt;">(IRS Employer</font></p>    </td>   </tr>
+<tr>
+<td width="32%" valign="top" style="padding:0in 0in 0in 0in;width:32.0%;">
+<p align="center" style="margin:0in 0in .0001pt;text-align:center;"><font size="2" face="Times New Roman" style="font-size:10.0pt;">of Incorporation)</font></p>    </td>
+<td width="2%" valign="bottom" style="padding:0in 0in 0in 0in;width:2.0%;">
+<p style="margin:0in 0in .0001pt;"><font size="2" face="Times New Roman" style="font-size:1.0pt;">&nbsp;</font></p>    </td>
+<td width="32%" valign="top" style="padding:0in 0in 0in 0in;width:32.0%;">
+<p align="center" style="margin:0in 0in .0001pt;text-align:center;"><font size="2" face="Times New Roman" style="font-size:1.0pt;">&nbsp;</font></p>    </td>
+<td width="2%" valign="bottom" style="padding:0in 0in 0in 0in;width:2.0%;">
+<p style="margin:0in 0in .0001pt;"><font size="2" face="Times New Roman" style="font-size:1.0pt;">&nbsp;</font></p>    </td>
+<td width="32%" valign="top" style="padding:0in 0in 0in 0in;width:32.0%;">
+<p align="center" style="margin:0in 0in .0001pt;text-align:center;"><font size="2" face="Times New Roman" style="font-size:10.0pt;">Identification No.)</font></p>    </td>   </tr>  </table>
+</div>
+<p style="margin:0in 0in .0001pt;"><font size="2" face="Times New Roman" style="font-size:10.0pt;">&nbsp;</font></p>
+<div align="center" style="margin:0in 0in .0001pt;text-align:center;"><hr size="1" width="25%" noshade color="black" align="center"></div>
+<p style="margin:0in 0in .0001pt;"><font size="2" face="Times New Roman" style="font-size:10.0pt;">&nbsp;</font></p>
+<p align="center" style="margin:0in 0in .0001pt;text-align:center;"><b><font size="2" face="Times New Roman" style="font-size:10.0pt;font-weight:bold;">100 Abbott Park Road</font></b></p>
+<p align="center" style="margin:0in 0in .0001pt;text-align:center;"><b><font size="2" face="Times New Roman" style="font-size:10.0pt;font-weight:bold;">Abbott Park,&nbsp;Illinois 60064-6400</font></b></p>
+<p align="center" style="margin:0in 0in .0001pt;text-align:center;"><font size="2" face="Times New Roman" style="font-size:10.0pt;">(Address of principal executive offices)(Zip Code)</font></p>
+<p align="center" style="margin:0in 0in .0001pt;text-align:center;"><font size="2" face="Times New Roman" style="font-size:10.0pt;">&nbsp;</font></p>
+<p align="center" style="margin:0in 0in .0001pt;text-align:center;"><font size="2" face="Times New Roman" style="font-size:10.0pt;">Registrant&#146;s telephone number, including area code:&#160; <b>(847) 937-6100</b></font></p>
+<p align="center" style="margin:0in 0in .0001pt;text-align:center;"><font size="2" face="Times New Roman" style="font-size:10.0pt;">&nbsp;</font></p>
+<p style="margin:0in 0in .0001pt;"><font size="2" face="Times New Roman" style="font-size:10.0pt;">Check the appropriate box below if the Form&nbsp;8-K filing is intended to simultaneously satisfy the filing obligation of the registrant under any of the following provisions:</font></p>
+<p style="margin:0in 0in .0001pt;"><font size="2" face="Times New Roman" style="font-size:10.0pt;">&nbsp;</font></p>
+<p style="margin:0in 0in .0001pt .5in;text-indent:-.5in;"><font size="2" face="Wingdings" style="font-size:10.0pt;">x</font><font size="1" style="font-size:3.0pt;">&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160; </font><font size="2" style="font-size:10.0pt;">Written communications pursuant to Rule&nbsp;425 under the Securities Act (17 CFR 230.425)</font></p>
+<p style="margin:0in 0in .0001pt .5in;text-indent:-.5in;"><font size="2" face="Times New Roman" style="font-size:10.0pt;">&nbsp;</font></p>
+<p style="margin:0in 0in .0001pt .5in;text-indent:-.5in;"><font size="2" face="Wingdings" style="font-size:10.0pt;">o</font><font size="1" style="font-size:3.0pt;">&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160; </font><font size="2" style="font-size:10.0pt;">Soliciting material pursuant to Rule&nbsp;14a-12 under the Exchange Act (17 CFR 240.14a-12)</font></p>
+<p style="margin:0in 0in .0001pt .5in;text-indent:-.5in;"><font size="2" face="Times New Roman" style="font-size:10.0pt;">&nbsp;</font></p>
+<p style="margin:0in 0in .0001pt .5in;text-indent:-.5in;"><font size="2" face="Wingdings" style="font-size:10.0pt;">o</font><font size="1" style="font-size:3.0pt;">&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160; </font><font size="2" style="font-size:10.0pt;">Pre-commencement communications pursuant to Rule&nbsp;14d-2(b)&nbsp;under the Exchange Act (17 CFR 240.14d-2(b))</font></p>
+<p style="margin:0in 0in .0001pt .5in;text-indent:-.5in;"><font size="2" face="Times New Roman" style="font-size:10.0pt;">&nbsp;</font></p>
+<p style="margin:0in 0in .0001pt .5in;text-indent:-.5in;"><font size="2" face="Wingdings" style="font-size:10.0pt;">o</font><font size="1" style="font-size:3.0pt;">&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160; </font><font size="2" style="font-size:10.0pt;">Pre-commencement communications pursuant to Rule&nbsp;13e-4(c)&nbsp;under the Exchange Act (17 CFR 240.13e-4(c))</font></p>
+<p style="margin:0in 0in .0001pt .5in;text-indent:-.5in;"><font size="2" face="Times New Roman" style="font-size:10.0pt;">&nbsp;</font></p>
+<div style="border-bottom:solid windowtext 3.0pt;border-left:none;border-right:none;border-top:solid windowtext 1.0pt;padding:1.0pt 0in 1.0pt 0in;">
+<p style="border:none;margin:0in 0in .0001pt .5in;padding:0in;text-indent:-.5in;"><font size="1" face="Times New Roman" style="font-size:1.0pt;">&nbsp;</font></p>
+</div>
+<p style="margin:0in 0in .0001pt .5in;text-indent:-.5in;"><font size="2" face="Times New Roman" style="font-size:10.0pt;">&nbsp;</font></p>
+<div style="margin:0in 0in .0001pt;"><hr size="3" width="100%" noshade color="#010101" align="left"></div>
+</div>
+<!-- SEQ.=1,FOLIO='',FILE='C:\JMS\106466\14-17107-1\task6864652\17107-1-ba.htm',USER='106466',CD='Jul 14 07:23 2014' -->
+
+<br clear="all" style="page-break-before:always;">
+<div>
+<p align="center" style="margin:0in 0in .0001pt;text-align:center;"><font size="2" face="Times New Roman" style="font-size:10.0pt;">&nbsp;</font></p>
+<p style="margin:0in 0in .0001pt;"><b><font size="2" face="Times New Roman" style="font-size:10.0pt;font-weight:bold;">Item 1.01&#160;&#160;&#160; Entry into a Material Definitive Agreement.</font></b></p>
+<p style="margin:0in 0in .0001pt;"><font size="2" face="Times New Roman" style="font-size:10.0pt;">&nbsp;</font></p>
+<p style="margin:0in 0in .0001pt;text-indent:.5in;"><font size="2" face="Times New Roman" style="font-size:10.0pt;">On July&nbsp;13, 2014, Abbott Laboratories, an Illinois corporation (&#147;Abbott&#148;), entered into a Business Transfer Agreement and Plan of Merger (the &#147;BTA&#148;) by and among Abbott, Mylan Inc., a Pennsylvania corporation (&#147;Mylan&#148;), New Moon B.V., a private limited liability company (<i>besloten vennootschap met beperkte aansprakelijkheid</i>) organized under the laws of the Netherlands (&#147;New Mylan&#148;) and a wholly-owned subsidiary of Mylan, and Moon of PA Inc., a Pennsylvania corporation and a wholly-owned subsidiary of New Mylan (&#147;Merger Sub&#148;).&#160; The BTA provides for the acquisition by Mylan of Abbott&#146;s non-U.S. developed markets specialty and branded generics business (the &#147;Assets&#148;) in an all-stock transaction.&#160; In the transaction, Abbott will transfer the Assets to New Mylan in consideration for 105,000,000 New Mylan ordinary shares (the &#147;Business Transfer&#148;) and, immediately following the transfer, Merger Sub will merge with and into Mylan, with Mylan surviving the merger and continuing as a wholly-owned subsidiary of New Mylan (the &#147;Merger&#148; and, together with the Business Transfer, collectively, the &#147;Transaction&#148;). At the effective time of the Merger, each issued and outstanding share of Mylan common stock will be converted into the right to receive one New Mylan ordinary share.</font></p>
+<p style="margin:0in 0in .0001pt;"><font size="2" face="Times New Roman" style="font-size:10.0pt;">&nbsp;</font></p>
+<p style="margin:0in 0in .0001pt;text-indent:.5in;"><font size="2" face="Times New Roman" style="font-size:10.0pt;">Prior to closing the Transaction, New Mylan will be converted into a public limited company (<i>naamloze vennootschap</i>) and will be renamed &#147;Mylan N.V.&#148;.&#160; New Mylan is organized in the Netherlands.&#160; Mylan has advised Abbott that New Mylan will be led by Mylan&#146;s current leadership team and board of directors.&#160; New Mylan&#146;s ordinary shares are expected to be listed on the Nasdaq Global Select Market. Following completion of the Transaction, the former shareholders of Mylan will own approximately 79% of the outstanding New Mylan ordinary shares and Abbott will indirectly own approximately 21% of the outstanding New Mylan ordinary shares.</font></p>
+<p style="margin:0in 0in .0001pt;"><font size="2" face="Times New Roman" style="font-size:10.0pt;">&nbsp;</font></p>
+<p style="margin:0in 0in .0001pt;text-indent:.5in;"><font size="2" face="Times New Roman" style="font-size:10.0pt;">The Transaction has been unanimously approved by the Board of Directors of both Abbott and Mylan.</font></p>
+<p style="margin:0in 0in .0001pt;"><font size="2" face="Times New Roman" style="font-size:10.0pt;">&nbsp;</font></p>
+<p style="margin:0in 0in .0001pt;text-indent:.5in;"><font size="2" face="Times New Roman" style="font-size:10.0pt;">The parties have made customary representations and warranties in the BTA and have agreed to customary pre-closing and post-closing covenants. In addition, the BTA provides that the parties will indemnify each other for breaches of these representations and warranties, subject to certain limitations, and for certain other matters.</font></p>
+<p style="margin:0in 0in .0001pt;"><font size="2" face="Times New Roman" style="font-size:10.0pt;">&nbsp;</font></p>
+<p style="margin:0in 0in .0001pt;text-indent:.5in;"><font size="2" face="Times New Roman" style="font-size:10.0pt;">Under the BTA, Abbott will agree for a period of two-years to certain non-competition restrictions in the non-U.S. developed markets with respect to pharmaceutical products which contain the same active pharmaceutical ingredient as the acquired products, subject to certain exceptions.</font></p>
+<p style="margin:0in 0in .0001pt;"><font size="2" face="Times New Roman" style="font-size:10.0pt;">&nbsp;</font></p>
+<p style="margin:0in 0in .0001pt;text-indent:.5in;"><font size="2" face="Times New Roman" style="font-size:10.0pt;">The consummation of the Transaction is subject to the satisfaction of certain customary closing conditions, including regulatory approvals and the approval of the Merger by Mylan&#146;s shareholders. Abbott will not require shareholder approval in connection with the Transaction.</font></p>
+<p style="margin:0in 0in .0001pt;"><font size="2" face="Times New Roman" style="font-size:10.0pt;">&nbsp;</font></p>
+<p style="margin:0in 0in .0001pt;text-indent:.5in;"><font size="2" face="Times New Roman" style="font-size:10.0pt;">The BTA contains certain customary termination rights, including the right of either party to terminate the agreement if the Transaction is not completed by October&nbsp;13, 2015, subject to extension for a period of 90 days in the event conditions relating to regulatory approvals have not been satisfied as of that date.&#160; Neither party has the right to terminate the BTA in order to engage in an alternative transaction. If the BTA is terminated in certain circumstances, including in the event that certain regulatory approvals are not obtained, approval of Mylan&#146;s shareholders is not obtained or Mylan&#146;s board of directors withdraws its recommendation of the Transaction or approves or recommends an alternative acquisition proposal for Mylan, Mylan will be required, at Abbott&#146;s option, to reimburse Abbott&#146;s costs and expenses incurred in connection with the Transaction (including certain restructuring related taxes), provided that Mylan will not be required to reimburse Abbott for an amount in excess of $100,000,000.</font></p>
+<p align="center" style="margin:0in 0in .0001pt;text-align:center;"><font size="2" face="Times New Roman" style="font-size:10.0pt;">&nbsp;</font></p>
+<p align="center" style="margin:0in 0in .0001pt;text-align:center;"><font size="2" face="Times New Roman" style="font-size:10.0pt;">2<a name="PB_2_193300_7056"></a></font></p>
+<div style="margin:0in 0in .0001pt;"><hr size="3" width="100%" noshade color="#010101" align="left"></div>
+</div>
+<!-- SEQ.=1,FOLIO='2',FILE='C:\JMS\106466\14-17107-1\task6864652\17107-1-ba.htm',USER='106466',CD='Jul 14 07:23 2014' -->
+
+<br clear="all" style="page-break-before:always;">
+<div>
+<p align="center" style="margin:0in 0in .0001pt;text-align:center;"><font size="2" face="Times New Roman" style="font-size:10.0pt;">&nbsp;</font></p>
+<p style="margin:0in 0in .0001pt;text-indent:.5in;"><font size="2" face="Times New Roman" style="font-size:10.0pt;">Upon as of the consummation of the Transaction, New Mylan, Abbott will enter into a Shareholder Agreement. The Shareholder Agreement will impose certain restrictions on Abbott, including prohibiting transfers of New Moon ordinary shares to competitors of Mylan and to activist investors as defined in the agreement, as well as to customary standstill limitations so long as Abbott&#146;s ownership interest in New Moon equals or exceeds 5%.&#160; Abbott will agree to vote its New Moon ordinary shares, subject to certain exceptions relating to significant corporate transactions, in accordance with the recommendation by New Moon&#146;s board of directors.&#160; Abbott also will be entitled to customary demand and piggy-back registration rights.</font></p>
+<p style="margin:0in 0in .0001pt;"><font size="2" face="Times New Roman" style="font-size:10.0pt;">&nbsp;</font></p>
+<p style="margin:0in 0in .0001pt;text-indent:.5in;"><font size="2" face="Times New Roman" style="font-size:10.0pt;">At the closing of the Transaction, Abbott, New Mylan certain of their affiliates will enter into ancillary agreements providing for transition services, manufacturing relationships and license arrangements.</font></p>
+<p style="margin:0in 0in .0001pt;"><font size="2" face="Times New Roman" style="font-size:10.0pt;">&nbsp;</font></p>
+<p style="margin:0in 0in .0001pt;"><b><font size="2" face="Times New Roman" style="font-size:10.0pt;font-weight:bold;">Item 8.01.&#160; Other Events.</font></b></p>
+<p style="margin:0in 0in .0001pt;"><font size="2" face="Times New Roman" style="font-size:10.0pt;">&nbsp;</font></p>
+<p style="margin:0in 0in .0001pt;text-indent:.5in;"><font size="2" face="Times New Roman" style="font-size:10.0pt;">On July&nbsp;14, 2014, Abbott issued the press release attached to this Current Report as Exhibit&nbsp;99.1.</font></p>
+<p style="margin:0in 0in .0001pt;"><font size="2" face="Times New Roman" style="font-size:10.0pt;">&nbsp;</font></p>
+<p style="margin:0in 0in .0001pt;"><b><font size="2" face="Times New Roman" style="font-size:10.0pt;font-weight:bold;">Cautionary Statements Regarding Forward-Looking Information</font></b></p>
+<p style="margin:0in 0in .0001pt;"><font size="2" face="Times New Roman" style="font-size:10.0pt;">&nbsp;</font></p>
+<p style="margin:0in 0in .0001pt;text-indent:.5in;"><font size="2" face="Times New Roman" style="font-size:10.0pt;">This communication contains forward-looking statements that are based on management&#146;s current expectations, estimates and projections. Words such as &#147;expects,&#148; &#147;anticipates,&#148; &#147;intends,&#148; &#147;plans,&#148; &#147;believes,&#148; &#147;seeks,&#148; &#147;estimates,&#148; &#147;forecasts,&#148; variations of these words and similar expressions are intended to identify these forward-looking statements. Certain factors, including but not limited to those identified under &#147;Item 1A. Risk Factors&#148; in the Annual Report of Abbott on Form&nbsp;10-K filed with the Securities and Exchange Commission (the &#147;SEC&#148;) on February&nbsp;21, 2014, as subsequently amended, may cause actual results to differ materially from current expectations, estimates, projections, forecasts and from past results. These forward-looking statements may also include statements regarding the proposed Transaction between Abbott and Mylan, including the expected timing of completion of the Transaction and anticipated future financial and operating performance and results. These statements are based on the current expectations of management of Abbott. There are a number of risks and uncertainties that could cause actual results to differ materially from the forward-looking statements included in this communication. These risks and uncertainties include (i)&nbsp;the risk that the companies may be unable to obtain regulatory approvals required for the Transaction, or that required regulatory approvals may delay the Transaction or result in the imposition of conditions that could cause the companies to abandon the Transaction, (ii)&nbsp;the risk that the stockholders of Mylan may not approve the Transaction, (iii)&nbsp;the risk that the conditions to the closing of the Transaction may not be satisfied, (iv)&nbsp;the risk that a material adverse change, event or occurrence may affect Abbott and Mylan prior to the closing of the Transaction and may delay the Transaction or cause the companies to abandon the Transaction, (v)&nbsp;the possibility that the Transaction may involve unexpected costs, liabilities or delays, (vi)&nbsp;the risk that the businesses of the companies may suffer as a result of uncertainty surrounding the Transaction and (vii)&nbsp;the risk that disruptions from the Transaction will harm relationships with customers, employees and suppliers.&#160; No assurance can be made that any expectation, estimate or projection contained in a forward-looking statement will be achieved or will not be affected by the factors cited above or other future events.</font></p>
+<p align="center" style="margin:0in 0in .0001pt;text-align:center;"><font size="2" face="Times New Roman" style="font-size:10.0pt;">&nbsp;</font></p>
+<p align="center" style="margin:0in 0in .0001pt;text-align:center;"><font size="2" face="Times New Roman" style="font-size:10.0pt;">3<a name="PB_3_193315_5335"></a></font></p>
+<div style="margin:0in 0in .0001pt;"><hr size="3" width="100%" noshade color="#010101" align="left"></div>
+</div>
+<!-- SEQ.=1,FOLIO='3',FILE='C:\JMS\106466\14-17107-1\task6864652\17107-1-ba.htm',USER='106466',CD='Jul 14 07:23 2014' -->
+
+<br clear="all" style="page-break-before:always;">
+<div>
+<p align="center" style="margin:0in 0in .0001pt;text-align:center;"><font size="2" face="Times New Roman" style="font-size:10.0pt;">&nbsp;</font></p>
+<p style="margin:0in 0in .0001pt;text-indent:.5in;"><font size="2" face="Times New Roman" style="font-size:10.0pt;">Readers are cautioned not to place undue reliance on these forward-looking statements, which speak only as of the date of this communication. Abbott does not undertake, and expressly disclaims, any duty to update any forward-looking statement whether as a result of new information, future events or changes in expectations, except as required by law.</font></p>
+<p style="margin:0in 0in .0001pt;text-indent:.5in;"><font size="2" face="Times New Roman" style="font-size:10.0pt;">&nbsp;</font></p>
+<p style="margin:0in 0in .0001pt;"><b><font size="2" face="Times New Roman" style="font-size:10.0pt;font-weight:bold;">Additional Information and Where to Find it</font></b></p>
+<p style="margin:0in 0in .0001pt;"><font size="2" face="Times New Roman" style="font-size:10.0pt;">&nbsp;</font></p>
+<p style="margin:0in 0in .0001pt;text-indent:.5in;"><font size="2" face="Times New Roman" style="font-size:10.0pt;">In connection with the proposed Transaction, New Mylan will file with the SEC a registration statement that includes a preliminary prospectus regarding the Transaction and Mylan will file with the SEC a proxy statement with respect a special meeting of its shareholders to be convened to approve the Transaction.&#160; The definitive proxy statement/prospectus will be mailed to the shareholders of Mylan.&#160; INVESTORS ARE URGED TO READ THE REGISTRATION STATEMENT, THE PROXY STATEMENT/PROSPECTUS AND ANY OTHER RELEVANT DOCUMENTS WHEN THEY BECOME AVAILABLE, BECAUSE THEY WILL CONTAIN IMPORTANT INFORMATION ABOUT ABBOTT&#146;S DEVELOPED MARKETS PHARMACEUTICAL BUSINESS, MYLAN AND THE TRANSACTION.</font></p>
+<p style="margin:0in 0in .0001pt;"><font size="2" face="Times New Roman" style="font-size:10.0pt;">&nbsp;</font></p>
+<p style="margin:0in 0in .0001pt;text-indent:.5in;"><font size="2" face="Times New Roman" style="font-size:10.0pt;">Investors will be able to obtain these materials, when they are available, and other documents filed with the SEC free of charge at the SEC&#146;s website, <i>www.sec.gov</i>. In addition, copies of the registration statement and proxy statement, when they become available, may be obtained free of charge by accessing Mylan&#146;s website at <i>www.mylan.com/investors</i> or by writing Mylan at 1000 Mylan Boulevard, Canonsburg, Pennsylvania 15317, Attention: Investor Relations. Investors may also read and copy any reports, statements and other information filed by Abbott and Mylan with the SEC, at the SEC public reference room at 100 F Street, N.E., Washington, D.C. 20549. Please call the SEC at 1-800-SEC-0330 or visit the SEC&#146;s website for further information on its public reference room.</font></p>
+<p style="margin:0in 0in .0001pt;"><font size="2" face="Times New Roman" style="font-size:10.0pt;">&nbsp;</font></p>
+<p style="margin:0in 0in .0001pt;"><b><font size="2" face="Times New Roman" style="font-size:10.0pt;font-weight:bold;">Participants in the Merger Solicitation</font></b></p>
+<p style="margin:0in 0in .0001pt;"><font size="2" face="Times New Roman" style="font-size:10.0pt;">&nbsp;</font></p>
+<p style="margin:0in 0in .0001pt;text-indent:.5in;"><font size="2" face="Times New Roman" style="font-size:10.0pt;">Mylan and certain of its directors, executive officers and other members of management and employees may be deemed to be participants in the solicitation of proxies in respect of the Transaction. Information regarding Mylan&#146;s directors and executive officers is available in its proxy statement filed with the SEC by Mylan on March&nbsp;10, 2014 in connection with its 2014 annual meeting of shareholders. Other information regarding the participants in the proxy solicitation and a description of their direct and indirect interests, by security holdings or otherwise, will be contained in the registration statement and proxy statement/prospectus and other relevant materials to be filed with the SEC when they become available.</font></p>
+<p style="margin:0in 0in .0001pt;"><font size="2" face="Times New Roman" style="font-size:10.0pt;">&nbsp;</font></p>
+<p style="margin:0in 0in .0001pt;"><b><font size="2" face="Times New Roman" style="font-size:10.0pt;font-weight:bold;">Non-Solicitation</font></b></p>
+<p style="margin:0in 0in .0001pt;"><font size="2" face="Times New Roman" style="font-size:10.0pt;">&nbsp;</font></p>
+<p style="margin:0in 0in .0001pt;text-indent:.5in;"><font size="2" face="Times New Roman" style="font-size:10.0pt;">This communication does not constitute an offer to sell or the solicitation of an offer to buy any securities, nor shall there be any sale of securities in any jurisdiction in which such offer, solicitation or sale would be unlawful prior to registration or qualification under the securities laws of any such jurisdiction.</font></p>
+<p style="margin:0in 0in .0001pt;text-indent:.5in;"><font size="2" face="Times New Roman" style="font-size:10.0pt;">&nbsp;</font></p>
+<p style="margin:0in 0in .0001pt;"><b><font size="2" face="Times New Roman" style="font-size:10.0pt;font-weight:bold;">Item 9.01.&#160;&#160;&#160; Financial Statements and Exhibits.</font></b></p>
+<p style="margin:0in 0in .0001pt;"><font size="2" face="Times New Roman" style="font-size:10.0pt;">&nbsp;</font></p>
+<p style="margin:0in 0in .0001pt;text-indent:.5in;"><font size="2" face="Times New Roman" style="font-size:10.0pt;">(d)&nbsp;&#160; <i>Exhibits</i>.</font></p>
+<p style="margin:0in 0in .0001pt;"><font size="2" face="Times New Roman" style="font-size:10.0pt;">&nbsp;</font></p>
+<table border="0" cellspacing="0" cellpadding="0" width="93%" style="border-collapse:collapse;margin-left:.5in;width:93.34%;">
+<tr>
+<td width="9%" valign="bottom" style="border:none;border-bottom:solid windowtext 1.0pt;padding:0in 0in 0in 0in;width:9.52%;">
+<p style="margin:0in 0in .0001pt;"><b><font size="1" face="Times New Roman" style="font-size:8.0pt;font-weight:bold;">Exhibit&nbsp;No.</font></b></p>    </td>
+<td width="3%" valign="bottom" style="padding:0in 0in 0in 0in;width:3.24%;">
+<p align="center" style="margin:0in 0in .0001pt;text-align:center;"><b><font size="1" face="Times New Roman" style="font-size:1.0pt;font-weight:bold;">&nbsp;</font></b></p>    </td>
+<td width="87%" valign="bottom" style="border:none;border-bottom:solid windowtext 1.0pt;padding:0in 0in 0in 0in;width:87.24%;">
+<p align="center" style="margin:0in 0in .0001pt;text-align:center;"><b><font size="1" face="Times New Roman" style="font-size:8.0pt;font-weight:bold;">Description</font></b></p>    </td>   </tr>
+<tr>
+<td width="9%" valign="top" style="border:none;padding:0in 0in 0in 0in;width:9.52%;">
+<p style="margin:0in 0in .0001pt;"><font size="2" face="Times New Roman" style="font-size:10.0pt;">&nbsp;</font></p>    </td>
+<td width="3%" valign="bottom" style="padding:0in 0in 0in 0in;width:3.24%;">
+<p style="margin:0in 0in .0001pt;"><font size="2" face="Times New Roman" style="font-size:10.0pt;">&nbsp;</font></p>    </td>
+<td width="87%" valign="top" style="border:none;padding:0in 0in 0in 0in;width:87.24%;">
+<p style="margin:0in 0in .0001pt;"><font size="2" face="Times New Roman" style="font-size:10.0pt;">&nbsp;</font></p>    </td>   </tr>
+<tr>
+<td width="9%" valign="top" style="padding:0in 0in 0in 0in;width:9.52%;">
+<p style="margin:0in 0in .0001pt;"><font size="2" face="Times New Roman" style="font-size:10.0pt;">99.1</font></p>    </td>
+<td width="3%" valign="bottom" style="padding:0in 0in 0in 0in;width:3.24%;">
+<p style="margin:0in 0in .0001pt;"><font size="2" face="Times New Roman" style="font-size:1.0pt;">&nbsp;</font></p>    </td>
+<td width="87%" valign="top" style="padding:0in 0in 0in 0in;width:87.24%;">
+<p style="margin:0in 0in .0001pt;"><font size="2" face="Times New Roman" style="font-size:10.0pt;">Press release dated July&nbsp;14, 2014.</font></p>    </td>   </tr>  </table>
+<p align="center" style="margin:0in 0in .0001pt;text-align:center;"><font size="2" face="Times New Roman" style="font-size:10.0pt;">&nbsp;</font></p>
+<p align="center" style="margin:0in 0in .0001pt;text-align:center;"><font size="2" face="Times New Roman" style="font-size:10.0pt;">4<a name="PB_4_193355_5796"></a></font></p>
+<div style="margin:0in 0in .0001pt;"><hr size="3" width="100%" noshade color="#010101" align="left"></div>
+</div>
+<!-- SEQ.=1,FOLIO='4',FILE='C:\JMS\106466\14-17107-1\task6864652\17107-1-ba.htm',USER='106466',CD='Jul 14 07:23 2014' -->
+
+<br clear="all" style="page-break-before:always;">
+<div>
+<p align="center" style="margin:0in 0in .0001pt;text-align:center;"><font size="2" face="Times New Roman" style="font-size:10.0pt;">&nbsp;</font></p>
+<p align="center" style="margin:0in 0in .0001pt;text-align:center;"><b><font size="2" face="Times New Roman" style="font-size:10.0pt;font-weight:bold;">SIGNATURES</font></b></p>
+<p align="center" style="margin:0in 0in .0001pt;text-align:center;"><font size="2" face="Times New Roman" style="font-size:10.0pt;">&nbsp;</font></p>
+<p style="margin:0in 0in .0001pt;text-indent:.5in;"><font size="2" face="Times New Roman" style="font-size:10.0pt;">Pursuant to the requirements of the Securities Exchange Act of 1934, the registrant has duly caused this report to be signed on its behalf by the undersigned hereunto duly authorized.</font></p>
+<p align="center" style="margin:0in 0in .0001pt;text-align:center;"><font size="2" face="Times New Roman" style="font-size:10.0pt;">&nbsp;</font></p>
+<table border="0" cellspacing="0" cellpadding="0" width="100%" style="border-collapse:collapse;width:100.0%;">
+<tr>
+<td width="49%" valign="top" style="padding:0in 0in 0in 0in;width:49.84%;">
+<p style="margin:0in 0in .0001pt;"><font size="2" face="Times New Roman" style="font-size:10.0pt;">Dated:&nbsp;   July&nbsp;14, 2014</font></p>    </td>
+<td width="50%" colspan="2" valign="top" style="padding:0in 0in 0in 0in;width:50.16%;">
+<p style="margin:0in 0in .0001pt;"><b><font size="2" face="Times New Roman" style="font-size:10.0pt;font-weight:bold;">ABBOTT LABORATORIES</font></b></p>    </td>   </tr>
+<tr>
+<td width="49%" valign="top" style="padding:0in 0in 0in 0in;width:49.84%;">
+<p style="margin:0in 0in .0001pt;"><font size="2" face="Times New Roman" style="font-size:10.0pt;">&nbsp;</font></p>    </td>
+<td width="50%" colspan="2" valign="top" style="padding:0in 0in 0in 0in;width:50.16%;">
+<p style="margin:0in 0in .0001pt;"><b><font size="2" face="Times New Roman" style="font-size:10.0pt;font-weight:bold;">&nbsp;</font></b></p>    </td>   </tr>
+<tr>
+<td width="49%" valign="top" style="padding:0in 0in 0in 0in;width:49.84%;">
+<p style="margin:0in 0in .0001pt;"><font size="2" face="Times New Roman" style="font-size:10.0pt;">&nbsp;</font></p>    </td>
+<td width="5%" valign="top" style="padding:0in 0in 0in 0in;width:5.58%;">
+<p style="margin:0in 0in .0001pt;"><font size="2" face="Times New Roman" style="font-size:10.0pt;">&nbsp;</font></p>    </td>
+<td width="44%" valign="top" style="padding:0in 0in 0in 0in;width:44.58%;">
+<p style="margin:0in 0in .0001pt;"><font size="2" face="Times New Roman" style="font-size:10.0pt;">&nbsp;</font></p>    </td>   </tr>
+<tr>
+<td width="49%" valign="top" style="padding:0in 0in 0in 0in;width:49.84%;">
+<p style="margin:0in 0in .0001pt;"><font size="2" face="Times New Roman" style="font-size:1.0pt;">&nbsp;</font></p>    </td>
+<td width="5%" valign="top" style="padding:0in 0in 0in 0in;width:5.58%;">
+<p style="margin:0in 0in .0001pt;"><font size="2" face="Times New Roman" style="font-size:10.0pt;">By:</font></p>    </td>
+<td width="44%" valign="top" style="border:none;border-bottom:solid windowtext 1.0pt;padding:0in 0in 0in 0in;width:44.58%;">
+<p style="margin:0in 0in .0001pt;"><font size="2" face="Times New Roman" style="font-size:10.0pt;">/s/ Thomas C. Freyman</font></p>    </td>   </tr>
+<tr>
+<td width="49%" valign="top" style="padding:0in 0in 0in 0in;width:49.84%;">
+<p style="margin:0in 0in .0001pt;"><font size="2" face="Times New Roman" style="font-size:1.0pt;">&nbsp;</font></p>    </td>
+<td width="5%" valign="top" style="padding:0in 0in 0in 0in;width:5.58%;">
+<p style="margin:0in 0in .0001pt;"><font size="2" face="Times New Roman" style="font-size:1.0pt;">&nbsp;</font></p>    </td>
+<td width="44%" valign="top" style="border:none;padding:0in 0in 0in 0in;width:44.58%;">
+<p style="margin:0in 0in .0001pt;"><font size="2" face="Times New Roman" style="font-size:10.0pt;">Thomas C. Freyman</font></p>    </td>   </tr>
+<tr>
+<td width="49%" valign="top" style="padding:0in 0in 0in 0in;width:49.84%;">
+<p style="margin:0in 0in .0001pt;"><font size="2" face="Times New Roman" style="font-size:1.0pt;">&nbsp;</font></p>    </td>
+<td width="5%" valign="top" style="padding:0in 0in 0in 0in;width:5.58%;">
+<p style="margin:0in 0in .0001pt;"><font size="2" face="Times New Roman" style="font-size:1.0pt;">&nbsp;</font></p>    </td>
+<td width="44%" valign="top" style="padding:0in 0in 0in 0in;width:44.58%;">
+<p style="margin:0in 0in .0001pt;"><i><font size="2" face="Times New Roman" style="font-size:10.0pt;font-style:italic;">Executive Vice President, Finance and</font></i></p>    </td>   </tr>
+<tr>
+<td width="49%" valign="top" style="padding:0in 0in 0in 0in;width:49.84%;">
+<p style="margin:0in 0in .0001pt;"><i><font size="2" face="Times New Roman" style="font-size:1.0pt;font-style:italic;">&nbsp;</font></i></p>    </td>
+<td width="5%" valign="top" style="padding:0in 0in 0in 0in;width:5.58%;">
+<p style="margin:0in 0in .0001pt;"><font size="2" face="Times New Roman" style="font-size:1.0pt;">&nbsp;</font></p>    </td>
+<td width="44%" valign="top" style="padding:0in 0in 0in 0in;width:44.58%;">
+<p style="margin:0in 0in .0001pt;"><i><font size="2" face="Times New Roman" style="font-size:10.0pt;font-style:italic;">Chief Financial Officer</font></i></p>    </td>   </tr>  </table>
+<p align="center" style="margin:0in 0in .0001pt;text-align:center;"><font size="2" face="Times New Roman" style="font-size:10.0pt;">&nbsp;</font></p>
+<p align="center" style="margin:0in 0in .0001pt;text-align:center;"><font size="2" face="Times New Roman" style="font-size:10.0pt;">5<a name="PB_5_193528_2897"></a></font></p>
+<div style="margin:0in 0in .0001pt;"><hr size="3" width="100%" noshade color="#010101" align="left"></div>
+</div>
+<!-- SEQ.=1,FOLIO='5',FILE='C:\JMS\106466\14-17107-1\task6864652\17107-1-ba.htm',USER='106466',CD='Jul 14 07:23 2014' -->
+
+<br clear="all" style="page-break-before:always;">
+<div>
+<p align="center" style="margin:0in 0in .0001pt;text-align:center;"><font size="2" face="Times New Roman" style="font-size:10.0pt;">&nbsp;</font></p>
+<p align="center" style="margin:0in 0in .0001pt;text-align:center;"><b><font size="2" face="Times New Roman" style="font-size:10.0pt;font-weight:bold;">EXHIBIT&nbsp;INDEX</font></b></p>
+<p align="center" style="margin:0in 0in .0001pt;text-align:center;"><font size="2" face="Times New Roman" style="font-size:10.0pt;">&nbsp;</font></p>
+<table border="0" cellspacing="0" cellpadding="0" width="100%" style="border-collapse:collapse;width:100.0%;">
+<tr>
+<td width="8%" valign="bottom" style="border:none;border-bottom:solid windowtext 1.0pt;padding:0in 0in 0in 0in;width:8.88%;">
+<p style="margin:0in 0in .0001pt;"><b><font size="1" face="Times New Roman" style="font-size:8.0pt;font-weight:bold;">Exhibit&nbsp;No.</font></b></p>    </td>
+<td width="3%" valign="bottom" style="padding:0in 0in 0in 0in;width:3.62%;">
+<p align="center" style="margin:0in 0in .0001pt;text-align:center;"><b><font size="1" face="Times New Roman" style="font-size:1.0pt;font-weight:bold;">&nbsp;</font></b></p>    </td>
+<td width="87%" valign="bottom" style="border:none;border-bottom:solid windowtext 1.0pt;padding:0in 0in 0in 0in;width:87.5%;">
+<p align="center" style="margin:0in 0in .0001pt;text-align:center;"><b><font size="1" face="Times New Roman" style="font-size:8.0pt;font-weight:bold;">Description</font></b></p>    </td>   </tr>
+<tr>
+<td width="8%" valign="top" style="border:none;padding:0in 0in 0in 0in;width:8.88%;">
+<p style="margin:0in 0in .0001pt;"><font size="2" face="Times New Roman" style="font-size:10.0pt;">&nbsp;</font></p>    </td>
+<td width="3%" valign="bottom" style="padding:0in 0in 0in 0in;width:3.62%;">
+<p style="margin:0in 0in .0001pt;"><font size="2" face="Times New Roman" style="font-size:10.0pt;">&nbsp;</font></p>    </td>
+<td width="87%" valign="top" style="border:none;padding:0in 0in 0in 0in;width:87.5%;">
+<p style="margin:0in 0in .0001pt;"><font size="2" face="Times New Roman" style="font-size:10.0pt;">&nbsp;</font></p>    </td>   </tr>
+<tr>
+<td width="8%" valign="top" style="padding:0in 0in 0in 0in;width:8.88%;">
+<p style="margin:0in 0in .0001pt;"><font size="2" face="Times New Roman" style="font-size:10.0pt;">99.1</font></p>    </td>
+<td width="3%" valign="bottom" style="padding:0in 0in 0in 0in;width:3.62%;">
+<p style="margin:0in 0in .0001pt;"><font size="2" face="Times New Roman" style="font-size:1.0pt;">&nbsp;</font></p>    </td>
+<td width="87%" valign="top" style="padding:0in 0in 0in 0in;width:87.5%;">
+<p style="margin:0in 0in .0001pt;"><font size="2" face="Times New Roman" style="font-size:10.0pt;">Press release dated July&nbsp;14, 2014.</font></p>    </td>   </tr>  </table>
+<p align="center" style="margin:0in 0in .0001pt;text-align:center;"><font size="2" face="Times New Roman" style="font-size:10.0pt;">&nbsp;</font></p>
+<p align="center" style="margin:0in 0in .0001pt;text-align:center;"><font size="2" face="Times New Roman" style="font-size:10.0pt;">6<a name="PB_6_193547_3020"></a></font></p>
+<div style="margin:0in 0in .0001pt;"><hr size="3" width="100%" noshade color="#010101" align="left"></div>
+</div>
+<!-- SEQ.=1,FOLIO='6',FILE='C:\JMS\106466\14-17107-1\task6864652\17107-1-ba.htm',USER='106466',CD='Jul 14 07:23 2014' -->
+
+</body>
+</html>
+</TEXT>
+</DOCUMENT>
+<DOCUMENT>
+<TYPE>EX-99.1
+<SEQUENCE>2
+<FILENAME>a14-17107_1ex99d1.htm
+<DESCRIPTION>EX-99.1
+<TEXT>
+
+
+<html>
+<head>
+
+  </head>
+<body lang="EN-US">
+<div style="font-family:Times New Roman;">
+<p align="right" style="margin:0in 0in .0001pt;text-align:right;"><b><font size="2" face="Times New Roman" style="font-size:10.0pt;font-weight:bold;">Exhibit&nbsp;99.1</font></b></p>
+<p style="margin:0in 0in .0001pt;"><font size="2" face="Times New Roman" style="font-size:10.0pt;">&nbsp;</font></p>
+<table border="0" cellspacing="0" cellpadding="0" width="100%" style="border-collapse:collapse;width:100.0%;">
+<tr>
+<td width="18%" valign="top" style="padding:0in 0in 0in 0in;width:18.88%;">
+<p style="margin:0in 0in .0001pt;"><font size="2" face="Times New Roman" style="font-size:1.0pt;">&nbsp;</font></p>    </td>
+<td width="81%" valign="top" style="padding:0in 0in 0in 0in;width:81.12%;">
+<p style="margin:0in 0in .0001pt;"><b><font size="2" face="Times New Roman" style="font-size:10.0pt;font-weight:bold;">FOR IMMEDIATE RELEASE</font></b></p>    </td>   </tr>  </table>
+<p style="margin:0in 0in .0001pt;"><font size="2" face="Times New Roman" style="font-size:10.0pt;">&nbsp;</font></p>
+<p style="margin:0in 0in .0001pt;"><b><font size="2" face="Times New Roman" style="font-weight:bold;"><img width="277" height="108" src="g171071mmi001.jpg" alt="GRAPHIC"></font></b></p>
+<p style="margin:0in 0in .0001pt;"><font size="2" face="Times New Roman" style="font-size:10.0pt;">&nbsp;</font></p>
+<table border="0" cellspacing="0" cellpadding="0" width="100%" style="border-collapse:collapse;width:100.0%;">
+<tr>
+<td width="18%" valign="top" style="padding:0in 0in 0in 0in;width:18.88%;">
+<p style="margin:0in 0in .0001pt;"><font size="2" face="Times New Roman" style="font-size:10.0pt;">&nbsp;</font></p>
+<p style="margin:0in 0in .0001pt;"><font size="2" face="Times New Roman" style="font-size:10.0pt;">&nbsp;</font></p>
+<p style="margin:0in 0in .0001pt;"><font size="2" face="Times New Roman" style="font-size:10.0pt;">&nbsp;</font></p>
+<p style="margin:0in 0in .0001pt;"><font size="2" face="Times New Roman" style="font-size:10.0pt;">&nbsp;</font></p>
+<p style="margin:0in 0in .0001pt;"><font size="2" face="Times New Roman" style="font-size:10.0pt;">&nbsp;</font></p>
+<p style="margin:0in 0in .0001pt;"><font size="2" face="Times New Roman" style="font-size:10.0pt;">Media:</font></p>
+<p style="margin:0in 0in .0001pt;"><b><font size="2" face="Times New Roman" style="font-size:10.0pt;font-weight:bold;">Scott Stoffel</font></b></p>
+<p style="margin:0in 0in .0001pt;"><font size="2" face="Times New Roman" style="font-size:10.0pt;">(847) 936-9502</font></p>
+<p style="margin:0in 0in .0001pt;"><font size="2" face="Times New Roman" style="font-size:10.0pt;">&nbsp;</font></p>
+<p style="margin:0in 0in .0001pt;"><b><font size="2" face="Times New Roman" style="font-size:10.0pt;font-weight:bold;">Melissa Brotz</font></b></p>
+<p style="margin:0in 0in .0001pt;"><font size="2" face="Times New Roman" style="font-size:10.0pt;">(847) 935-3456</font></p>
+<p style="margin:0in 0in .0001pt;"><font size="2" face="Times New Roman" style="font-size:10.0pt;">&nbsp;</font></p>
+<p style="margin:0in 0in .0001pt;"><font size="2" face="Times New Roman" style="font-size:10.0pt;">Financial:</font></p>
+<p style="margin:0in 0in .0001pt;"><b><font size="2" face="Times New Roman" style="font-size:10.0pt;font-weight:bold;">Brian Yoor</font></b></p>
+<p style="margin:0in 0in .0001pt;"><font size="2" face="Times New Roman" style="font-size:10.0pt;">(847) 937-6343</font></p>
+<p style="margin:0in 0in .0001pt;"><font size="2" face="Times New Roman" style="font-size:10.0pt;">&nbsp;</font></p>
+<p style="margin:0in 0in .0001pt;"><b><font size="2" face="Times New Roman" style="font-size:10.0pt;font-weight:bold;">Scott Leinenweber</font></b></p>
+<p style="margin:0in 0in .0001pt;"><font size="2" face="Times New Roman" style="font-size:10.0pt;">(847) 935-1898</font></p>    </td>
+<td width="81%" valign="top" style="padding:0in 0in 0in 0in;width:81.12%;">
+<p style="margin:0in 0in .0001pt;"><font size="2" face="Times New Roman" style="font-size:10.0pt;">Abbott   to Sell its Developed Markets Branded Generics Pharmaceuticals Business to   Mylan</font></p>
+<p style="margin:0in 0in .0001pt;"><font size="2" face="Times New Roman" style="font-size:10.0pt;">&nbsp;</font></p>
+<p style="margin:0in 0in .0001pt;"><i><font size="2" face="Times New Roman" style="font-size:10.0pt;font-style:italic;">Abbott   will retain its branded generics pharmaceuticals business in emerging markets</font></i></p>
+<p style="margin:0in 0in .0001pt;"><font size="2" face="Times New Roman" style="font-size:10.0pt;">&nbsp;</font></p>
+<p style="margin:0in 0in .0001pt;"><i><font size="2" face="Times New Roman" style="font-size:10.0pt;font-style:italic;">Transaction   expected to positively impact Abbott</font></i><i><font size="2" style="font-size:10.0pt;font-style:italic;">&#146;</font></i><i><font size="2" style="font-size:10.0pt;font-style:italic;">s   sales and ongoing earnings-per-share growth rates</font></i></p>
+<p style="margin:0in 0in .0001pt;"><font size="2" face="Times New Roman" style="font-size:10.0pt;">&nbsp;</font></p>
+<p style="margin:0in 0in .0001pt;"><font size="2" face="Times New Roman" style="font-size:10.0pt;">ABBOTT   PARK,&nbsp;Ill., July&nbsp;14, 2014 &#151; Abbott announced today that it will   sell its developed markets branded generics pharmaceuticals business to Mylan   for equity ownership of a newly formed entity that will combine Mylan</font><font size="2" style="font-size:10.0pt;">&#146;</font><font size="2" style="font-size:10.0pt;">s existing business and Abbott</font><font size="2" style="font-size:10.0pt;">&#146;</font><font size="2" style="font-size:10.0pt;">s developed   markets pharmaceuticals business, and will be a publicly traded company. This   represents a value of approximately $5.3 billion based on Mylan</font><font size="2" style="font-size:10.0pt;">&#146;</font><font size="2" style="font-size:10.0pt;">s closing stock price on Friday. The developed markets portion of   this business generated approximately $2 billion in sales in 2013. Abbott   will retain its branded generics pharmaceuticals business and products in   emerging markets. Abbott also retains its other businesses and products in   developed markets.</font></p>
+<p style="margin:0in 0in .0001pt;"><font size="2" face="Times New Roman" style="font-size:10.0pt;">&nbsp;</font></p>
+<p style="margin:0in 0in .0001pt;"><font size="2" face="Times New Roman" style="font-size:10.0pt;">&#147;</font><font size="2" style="font-size:10.0pt;">This transaction provides Abbott with additional strategic   flexibility as we continue to actively manage and shape our portfolio,   reflecting our commitment to long-term, durable growth<i>,</i></font><font size="2" style="font-size:10.0pt;">&#148;</font><font size="2" style="font-size:10.0pt;"> said Miles D. White, chairman and chief executive officer, Abbott. </font><font size="2" style="font-size:10.0pt;">&#147;</font><font size="2" style="font-size:10.0pt;">Our branded generics pharmaceuticals business will focus on emerging   markets, where demographic changes and increasing access to healthcare are   expected to drive sustainable growth.</font><font size="2" style="font-size:10.0pt;">&#148;</font></p>
+<p style="margin:0in 0in .0001pt;"><font size="2" face="Times New Roman" style="font-size:10.0pt;">&nbsp;</font></p>
+<p style="margin:0in 0in .0001pt;"><b><font size="2" face="Times New Roman" style="font-size:10.0pt;font-weight:bold;">Abbott</font></b><b><font size="2" style="font-size:10.0pt;font-weight:bold;">&#146;</font></b><b><font size="2" style="font-size:10.0pt;font-weight:bold;">s Branded Generics   Pharmaceuticals Business</font></b></p>
+<p style="margin:0in 0in .0001pt;"><font size="2" face="Times New Roman" style="font-size:10.0pt;">&nbsp;</font></p>
+<p style="margin:0in 0in .0001pt;"><font size="2" face="Times New Roman" style="font-size:10.0pt;">Following the closing of the transaction, Abbott</font><font size="2" style="font-size:10.0pt;">&#146;</font><font size="2" style="font-size:10.0pt;">s branded generics pharmaceuticals business will   focus in emerging geographies where demographics and growing healthcare   systems are combining to create an increased rate of patient access to   healthcare and where the majority of healthcare products are paid for by the   consumer. The branded generics business that will remain with Abbott   generated 2013 sales of $2.9 billion and is expected to have a sales growth   rate in the upper-single to double digits.</font></p>    </td>   </tr>  </table>
+<p style="margin:0in 0in .0001pt;"><font size="2" face="Times New Roman" style="font-size:10.0pt;">&nbsp;</font></p>
+<p align="right" style="margin:0in 0in .0001pt;text-align:right;"><font size="2" face="Times New Roman"><img width="137" height="38" src="g171071mmi002.jpg" alt="GRAPHIC"></font></p>
+<p style="margin:0in 0in .0001pt;"><font size="2" face="Times New Roman" style="font-size:10.0pt;">&nbsp;</font></p>
+<p align="center" style="margin:0in 0in .0001pt;text-align:center;"><font size="2" face="Times New Roman" style="font-size:10.0pt;">-more-</font></p>
+<p style="margin:0in 0in .0001pt;"><font size="2" face="Times New Roman" style="font-size:10.0pt;">&nbsp;</font></p>
+<div style="margin:0in 0in .0001pt;"><hr size="3" width="100%" noshade color="#010101" align="left"></div>
+</div>
+<!-- SEQ.=1,FOLIO='',FILE='C:\JMS\107996\14-17107-1\task6864623\17107-1-mm.htm',USER='107996',CD='Jul 14 06:24 2014' -->
+
+<br clear="all" style="page-break-before:always;">
+<div style="font-family:Times New Roman;">
+<p align="center" style="margin:0in 0in .0001pt;text-align:center;"><font size="2" face="Times New Roman" style="font-size:10.0pt;">&nbsp;</font></p>
+<table border="0" cellspacing="0" cellpadding="0" width="100%" style="border-collapse:collapse;width:100.0%;">
+<tr>
+<td width="18%" valign="top" style="padding:0in 0in 0in 0in;width:18.88%;">
+<p style="margin:0in 0in .0001pt;"><font size="2" face="Times New Roman" style="font-size:1.0pt;">&nbsp;</font></p>    </td>
+<td width="81%" valign="top" style="padding:0in 0in 0in 0in;width:81.12%;">
+<p style="margin:0in 0in .0001pt;"><b><font size="2" face="Times New Roman" style="font-size:10.0pt;font-weight:bold;">Transaction   Details and Financial Terms</font></b></p>
+<p style="margin:0in 0in .0001pt;"><font size="2" face="Times New Roman" style="font-size:10.0pt;">&nbsp;</font></p>
+<p style="margin:0in 0in .0001pt;"><font size="2" face="Times New Roman" style="font-size:10.0pt;">Under   the terms of the agreement, Abbott will sell its developed markets branded   generics pharmaceuticals business to Mylan for 105 million shares or   approximately 21 percent, on a fully diluted basis, of a newly formed entity   that will combine Mylan</font><font size="2" style="font-size:10.0pt;">&#146;</font><font size="2" style="font-size:10.0pt;">s existing   business and Abbott</font><font size="2" style="font-size:10.0pt;">&#146;</font><font size="2" style="font-size:10.0pt;">s developed   markets pharmaceuticals business, and will be a publicly traded company.</font></p>
+<p style="margin:0in 0in .0001pt;"><font size="2" face="Times New Roman" style="font-size:10.0pt;">&nbsp;</font></p>
+<p style="margin:0in 0in .0001pt;"><font size="2" face="Times New Roman" style="font-size:10.0pt;">The   business to be sold operates in Europe, Japan, Canada, Australia and New   Zealand and includes approximately 3,800 employees. It includes a broad   portfolio of medicines, as well as manufacturing facilities in France and   Japan. Abbott will retain its product portfolio and manufacturing facilities   in other geographies as well as its manufacturing facilities in the   Netherlands, Germany and Canada.</font></p>
+<p style="margin:0in 0in .0001pt;"><font size="2" face="Times New Roman" style="font-size:10.0pt;">&nbsp;</font></p>
+<p style="margin:0in 0in .0001pt;"><font size="2" face="Times New Roman" style="font-size:10.0pt;">Following the transaction, which is expected to close in the first quarter   of 2015, Abbott expects that its sales growth rate will be 100 basis points   higher, and the growth rate of its ongoing net income will be in excess of   200 basis points higher. The ongoing net income associated with Abbott</font><font size="2" style="font-size:10.0pt;">&#146;</font><font size="2" style="font-size:10.0pt;">s developed markets pharmaceuticals business is   expected to be approximately $0.22 per share in 2015. Accordingly, Abbott</font><font size="2" style="font-size:10.0pt;">&#146;</font><font size="2" style="font-size:10.0pt;">s ongoing earnings per share from continuing   operations is expected to be lower following the close of this transaction by   this amount.</font></p>
+<p style="margin:0in 0in .0001pt;"><font size="2" face="Times New Roman" style="font-size:10.0pt;">&nbsp;</font></p>
+<p style="margin:0in 0in .0001pt;"><font size="2" face="Times New Roman" style="font-size:10.0pt;">Abbott   does not expect to be a long-term shareholder in Mylan and plans ultimately   to redeploy the net proceeds from this transaction to opportunities that   would be accretive to earnings over time.</font></p>
+<p style="margin:0in 0in .0001pt;"><font size="2" face="Times New Roman" style="font-size:10.0pt;">&nbsp;</font></p>
+<p style="margin:0in 0in .0001pt;"><font size="2" face="Times New Roman" style="font-size:10.0pt;">In May, Abbott </font><font size="2" style="font-size:10.0pt;">announced the acquisition of the Latin American   pharmaceutical company CFR Pharmaceuticals, which is expected to be   approximately $0.07 accretive to Abbott</font><font size="2" style="font-size:10.0pt;">&#146;</font><font size="2" style="font-size:10.0pt;">s ongoing   earnings per share in 2015.</font></p>
+<p style="margin:0in 0in .0001pt;"><font size="2" face="Times New Roman" style="font-size:10.0pt;">&nbsp;</font></p>
+<p style="margin:0in 0in .0001pt;"><font size="2" face="Times New Roman" style="font-size:10.0pt;">Abbott   expects to report its developed markets branded generics pharmaceuticals   business as Discontinued Operations beginning in the third quarter 2014.</font></p>
+<p style="margin:0in 0in .0001pt;"><font size="2" face="Times New Roman" style="font-size:10.0pt;">&nbsp;</font></p>
+<p style="margin:0in 0in .0001pt;"><font size="2" face="Times New Roman" style="font-size:10.0pt;">Morgan   Stanley advised Abbott on the transaction.</font></p>
+<p style="margin:0in 0in .0001pt;"><font size="2" face="Times New Roman" style="font-size:10.0pt;">&nbsp;</font></p>
+<p style="margin:0in 0in .0001pt;"><b><font size="2" face="Times New Roman" style="font-size:10.0pt;font-weight:bold;">Abbott   Conference Call</font></b></p>
+<p style="margin:0in 0in .0001pt;"><font size="2" face="Times New Roman" style="font-size:10.0pt;">&nbsp;</font></p>
+<p style="margin:0in 0in .0001pt;"><font size="2" face="Times New Roman" style="font-size:10.0pt;">Abbott   will conduct a special conference call today at 8:30&nbsp;a.m. Central time   (9:30&nbsp;a.m. Eastern time) to provide an overview of the transaction. A   live webcast will be accessible through Abbott</font><font size="2" style="font-size:10.0pt;">&#146;</font><font size="2" style="font-size:10.0pt;">s Investor   Relations web site at www.abbott.com/investors.html.</font></p>
+<p style="margin:0in 0in .0001pt;"><font size="2" face="Times New Roman" style="font-size:10.0pt;">&nbsp;</font></p>    </td>   </tr>  </table>
+<p align="center" style="margin:0in 0in .0001pt;text-align:center;"><font size="2" face="Times New Roman" style="font-size:10.0pt;">2<a name="PB_2_061354_7056"></a></font></p>
+<div style="margin:0in 0in .0001pt;"><hr size="3" width="100%" noshade color="#010101" align="left"></div>
+</div>
+<!-- SEQ.=1,FOLIO='2',FILE='C:\JMS\107996\14-17107-1\task6864623\17107-1-mm.htm',USER='107996',CD='Jul 14 06:24 2014' -->
+
+<br clear="all" style="page-break-before:always;">
+<div style="font-family:Times New Roman;">
+<p style="margin:0in 0in .0001pt;"><font size="2" face="Times New Roman" style="font-size:10.0pt;">&nbsp;</font></p>
+<table border="0" cellspacing="0" cellpadding="0" width="100%" style="border-collapse:collapse;width:100.0%;">
+<tr>
+<td width="18%" valign="top" style="padding:0in 0in 0in 0in;width:18.88%;">
+<p style="margin:0in 0in .0001pt;"><font size="2" face="Times New Roman" style="font-size:1.0pt;">&nbsp;</font></p>    </td>
+<td width="81%" valign="top" style="padding:0in 0in 0in 0in;width:81.12%;">
+<p style="margin:0in 0in .0001pt;"><b><font size="2" face="Times New Roman" style="font-size:10.0pt;font-weight:bold;">About Abbott </font></b><font size="2"><br><br></font></p>
+<p style="margin:0in 0in .0001pt;"><font size="2" face="Times New Roman" style="font-size:10.0pt;">Abbott   is a global healthcare company devoted to improving life through the development   of products and technologies that span the breadth of healthcare. With a   portfolio of leading, science-based offerings in diagnostics, medical   devices, nutritionals and branded generic pharmaceuticals, Abbott serves   people in more than 150 countries and employs approximately 69,000 people.</font></p>
+<p style="margin:0in 0in .0001pt;"><font size="2" face="Times New Roman" style="font-size:10.0pt;">&nbsp;</font></p>
+<p style="margin:0in 0in .0001pt;"><font size="2" face="Times New Roman" style="font-size:10.0pt;">Visit   Abbott at www.abbott.com, and connect with us on Twitter at @AbbottNews.</font></p>
+<p style="margin:0in 0in .0001pt;"><font size="2" face="Times New Roman" style="font-size:10.0pt;">&nbsp;</font></p>
+<p style="margin:0in 0in .0001pt;"><b><i><font size="2" face="Times New Roman" style="font-size:10.0pt;font-style:italic;font-weight:bold;">Cautionary Statements Regarding Forward-Looking Information</font></i></b></p>
+<p style="margin:0in 0in .0001pt;"><font size="2" face="Times New Roman" style="font-size:10.0pt;">&nbsp;</font></p>
+<p style="margin:0in 0in .0001pt;"><i><font size="2" face="Times New Roman" style="font-size:10.0pt;font-style:italic;">This   communication contains forward-looking statements that are based on management</font></i><i><font size="2" style="font-size:10.0pt;font-style:italic;">&#146;</font></i><i><font size="2" style="font-size:10.0pt;font-style:italic;">s current expectations,   estimates and projections. Words such as </font></i><i><font size="2" style="font-size:10.0pt;font-style:italic;">&#147;</font></i><i><font size="2" style="font-size:10.0pt;font-style:italic;">expects,</font></i><i><font size="2" style="font-size:10.0pt;font-style:italic;">&#148; &#147;</font></i><i><font size="2" style="font-size:10.0pt;font-style:italic;">anticipates,</font></i><i><font size="2" style="font-size:10.0pt;font-style:italic;">&#148; &#147;</font></i><i><font size="2" style="font-size:10.0pt;font-style:italic;">intends,</font></i><i><font size="2" style="font-size:10.0pt;font-style:italic;">&#148; &#147;</font></i><i><font size="2" style="font-size:10.0pt;font-style:italic;">plans,</font></i><i><font size="2" style="font-size:10.0pt;font-style:italic;">&#148; &#147;</font></i><i><font size="2" style="font-size:10.0pt;font-style:italic;">believes,</font></i><i><font size="2" style="font-size:10.0pt;font-style:italic;">&#148; &#147;</font></i><i><font size="2" style="font-size:10.0pt;font-style:italic;">seeks,</font></i><i><font size="2" style="font-size:10.0pt;font-style:italic;">&#148; &#147;</font></i><i><font size="2" style="font-size:10.0pt;font-style:italic;">estimates,</font></i><i><font size="2" style="font-size:10.0pt;font-style:italic;">&#148; &#147;</font></i><i><font size="2" style="font-size:10.0pt;font-style:italic;">forecasts,</font></i><i><font size="2" style="font-size:10.0pt;font-style:italic;">&#148;</font></i><i><font size="2" style="font-size:10.0pt;font-style:italic;"> variations of these words and   similar expressions are intended to identify these forward-looking   statements. Certain factors, including but not limited to those identified   under </font></i><i><font size="2" style="font-size:10.0pt;font-style:italic;">&#147;</font></i><i><font size="2" style="font-size:10.0pt;font-style:italic;">Item 1A. Risk Factors</font></i><i><font size="2" style="font-size:10.0pt;font-style:italic;">&#148;</font></i><i><font size="2" style="font-size:10.0pt;font-style:italic;"> in the Annual Report of Abbott   Laboratories (</font></i><i><font size="2" style="font-size:10.0pt;font-style:italic;">&#147;</font></i><i><font size="2" style="font-size:10.0pt;font-style:italic;">Abbott</font></i><i><font size="2" style="font-size:10.0pt;font-style:italic;">&#148;</font></i><i><font size="2" style="font-size:10.0pt;font-style:italic;">) on Form&nbsp;10-K filed with   the Securities and Exchange Commission (the </font></i><i><font size="2" style="font-size:10.0pt;font-style:italic;">&#147;</font></i><i><font size="2" style="font-size:10.0pt;font-style:italic;">SEC</font></i><i><font size="2" style="font-size:10.0pt;font-style:italic;">&#148;</font></i><i><font size="2" style="font-size:10.0pt;font-style:italic;">) on February&nbsp;21, 2014, as   subsequently amended, may cause actual results to differ materially from   current expectations, estimates, projections, forecasts and from past   results. These forward-looking statements may also include statements   regarding the proposed transaction (the </font></i><i><font size="2" style="font-size:10.0pt;font-style:italic;">&#147;</font></i><i><font size="2" style="font-size:10.0pt;font-style:italic;">Transaction</font></i><i><font size="2" style="font-size:10.0pt;font-style:italic;">&#148;</font></i><i><font size="2" style="font-size:10.0pt;font-style:italic;">) between Abbott and Mylan Inc.   (</font></i><i><font size="2" style="font-size:10.0pt;font-style:italic;">&#147;</font></i><i><font size="2" style="font-size:10.0pt;font-style:italic;">Mylan</font></i><i><font size="2" style="font-size:10.0pt;font-style:italic;">&#148;</font></i><i><font size="2" style="font-size:10.0pt;font-style:italic;">), including the expected   timing of completion of the Transaction and anticipated future financial and   operating performance and results. These statements are based on the current   expectations of management of Abbott. There are a number of risks and   uncertainties that could cause actual results to differ materially from the   forward-looking statements included in this communication. These risks and   uncertainties include (i)&nbsp;the risk that the companies may be unable to   obtain regulatory approvals required for the Transaction, or that required   regulatory approvals may delay the Transaction or result in the imposition of   conditions that could cause the companies to abandon the Transaction, (ii)&nbsp;the   risk that the stockholders of Mylan may not approve the Transaction, (iii)&nbsp;the   risk that the conditions to the closing of the Transaction may not be   satisfied, (iv)&nbsp;the risk that a material adverse change, event or   occurrence may affect Abbott and Mylan prior to the closing of the   Transaction and may delay the Transaction or cause the companies to abandon   the Transaction, (v)&nbsp;the possibility that the Transaction may involve   unexpected costs, liabilities or delays, (vi)&nbsp;the risk that the   businesses of the companies may suffer as a result of uncertainty surrounding   the Transaction, and (vii)&nbsp;the risk that disruptions from the   Transaction will harm relationships with customers, employees and suppliers.   No assurance can be made that any expectation, estimate or projection   contained in a forward-looking statement will be achieved or will not be   affected by the factors cited above or other future events.</font></i></p>    </td>   </tr>  </table>
+<p align="center" style="margin:0in 0in .0001pt;text-align:center;"><font size="2" face="Times New Roman" style="font-size:10.0pt;">&nbsp;</font></p>
+<p align="center" style="margin:0in 0in .0001pt;text-align:center;"><font size="2" face="Times New Roman" style="font-size:10.0pt;">3<a name="PB_3_061444_5335"></a></font></p>
+<div style="margin:0in 0in .0001pt;"><hr size="3" width="100%" noshade color="#010101" align="left"></div>
+</div>
+<!-- SEQ.=1,FOLIO='3',FILE='C:\JMS\107996\14-17107-1\task6864623\17107-1-mm.htm',USER='107996',CD='Jul 14 06:24 2014' -->
+
+<br clear="all" style="page-break-before:always;">
+<div style="font-family:Times New Roman;">
+<p style="margin:0in 0in .0001pt;"><font size="2" face="Times New Roman" style="font-size:10.0pt;">&nbsp;</font></p>
+<table border="0" cellspacing="0" cellpadding="0" width="100%" style="border-collapse:collapse;width:100.0%;">
+<tr>
+<td width="18%" valign="top" style="padding:0in 0in 0in 0in;width:18.88%;">
+<p style="margin:0in 0in .0001pt;"><font size="2" face="Times New Roman" style="font-size:1.0pt;">&nbsp;</font></p>    </td>
+<td width="81%" valign="top" style="padding:0in 0in 0in 0in;width:81.12%;">
+<p style="margin:0in 0in .0001pt;"><i><font size="2" face="Times New Roman" style="font-size:10.0pt;font-style:italic;">Readers   are cautioned not to place undue reliance on these forward-looking   statements, which speak only as of the date of this communication. Abbott   does not undertake, and expressly disclaims, any duty to update any   forward-looking statement whether as a result of new information, future   events or changes in expectations, except as required by law.</font></i></p>
+<p style="margin:0in 0in .0001pt;"><font size="2" face="Times New Roman" style="font-size:10.0pt;">&nbsp;</font></p>
+<p style="margin:0in 0in .0001pt;"><b><i><font size="2" face="Times New Roman" style="font-size:10.0pt;font-style:italic;font-weight:bold;">Additional Information and Where to Find it</font></i></b></p>
+<p style="margin:0in 0in .0001pt;"><font size="2" face="Times New Roman" style="font-size:10.0pt;">&nbsp;</font></p>
+<p style="margin:0in 0in .0001pt;"><i><font size="2" face="Times New Roman" style="font-size:10.0pt;font-style:italic;">In   connection with the proposed Transaction, a newly-formed Netherlands public   limited liability company (</font></i><i><font size="2" style="font-size:10.0pt;font-style:italic;">&#147;</font></i><i><font size="2" style="font-size:10.0pt;font-style:italic;">New   Mylan</font></i><i><font size="2" style="font-size:10.0pt;font-style:italic;">&#148;</font></i><i><font size="2" style="font-size:10.0pt;font-style:italic;">) will file with the SEC a   registration statement that includes a preliminary prospectus regarding the   Transaction and Mylan will file with the SEC a proxy statement with respect   to a special meeting of its shareholders to be convened to approve the   Transaction. The definitive proxy statement/prospectus will be mailed to the   shareholders of Mylan.&nbsp; INVESTORS ARE   URGED TO READ THE REGISTRATION STATEMENT, THE PROXY STATEMENT/PROSPECTUS AND   ANY OTHER RELEVANT DOCUMENTS WHEN THEY BECOME AVAILABLE, BECAUSE THEY WILL   CONTAIN IMPORTANT INFORMATION ABOUT ABBOTT</font></i><i><font size="2" style="font-size:10.0pt;font-style:italic;">&#146;</font></i><i><font size="2" style="font-size:10.0pt;font-style:italic;">S DEVELOPED MARKETS   PHARMACEUTICALS BUSINESS, MYLAN AND THE TRANSACTION.</font></i></p>
+<p style="margin:0in 0in .0001pt;"><font size="2" face="Times New Roman" style="font-size:10.0pt;">&nbsp;</font></p>
+<p style="margin:0in 0in .0001pt;"><i><font size="2" face="Times New Roman" style="font-size:10.0pt;font-style:italic;">Investors   will be able to obtain these materials, when they are available, and other   documents filed with the SEC free of charge at the SEC</font></i><i><font size="2" style="font-size:10.0pt;font-style:italic;">&#146;s</font></i><i><font size="2" style="font-size:10.0pt;font-style:italic;"> website, www.sec.gov. In   addition, copies of the registration statement and proxy statement, when they   become available, may be obtained free of charge by accessing Mylan</font></i><i><font size="2" style="font-size:10.0pt;font-style:italic;">&#146;</font></i><i><font size="2" style="font-size:10.0pt;font-style:italic;">s website at   www.mylan.com/investors or by writing Mylan at 1000 Mylan Boulevard,   Canonsburg, Pennsylvania 15317, Attention: Investor Relations. Investors may   also read and copy any reports, statements and other information filed by   Abbott and Mylan with the SEC, at the SEC public reference room at 100 F   Street, N.E., Washington, D.C. 20549. Please call the SEC at 1-800-SEC-0330   or visit the SEC</font></i><i><font size="2" style="font-size:10.0pt;font-style:italic;">&#146;</font></i><i><font size="2" style="font-size:10.0pt;font-style:italic;">s   website for further information on its public reference room.</font></i></p>
+<p style="margin:0in 0in .0001pt;"><font size="2" face="Times New Roman" style="font-size:10.0pt;">&nbsp;</font></p>
+<p style="margin:0in 0in .0001pt;"><b><i><font size="2" face="Times New Roman" style="font-size:10.0pt;font-style:italic;font-weight:bold;">Participants in the Merger Solicitation</font></i></b></p>
+<p style="margin:0in 0in .0001pt;"><font size="2" face="Times New Roman" style="font-size:10.0pt;">&nbsp;</font></p>
+<p style="margin:0in 0in .0001pt;"><i><font size="2" face="Times New Roman" style="font-size:10.0pt;font-style:italic;">Mylan   and certain of its directors, executive officers and other members of   management and employees may be deemed to be participants in the solicitation   of proxies in respect of the Transaction. Information regarding Mylan</font></i><i><font size="2" style="font-size:10.0pt;font-style:italic;">&#146;</font></i><i><font size="2" style="font-size:10.0pt;font-style:italic;">s directors and executive   officers is available in its proxy statement filed with the SEC by Mylan on   March&nbsp;10, 2014, in connection with its 2014 annual meeting of shareholders.   Other information regarding the participants in the proxy solicitation and a   description of their direct and indirect interests, by security holdings or   otherwise, will be contained in the registration statement and proxy   statement/prospectus and other relevant materials to be filed with the SEC   when they become available.</font></i></p>
+<p style="margin:0in 0in .0001pt;"><font size="2" face="Times New Roman" style="font-size:10.0pt;">&nbsp;</font></p>
+<p style="margin:0in 0in .0001pt;"><b><i><font size="2" face="Times New Roman" style="font-size:10.0pt;font-style:italic;font-weight:bold;">Non-Solicitation</font></i></b></p>
+<p style="margin:0in 0in .0001pt;"><font size="2" face="Times New Roman" style="font-size:10.0pt;">&nbsp;</font></p>
+<p style="margin:0in 0in .0001pt;"><i><font size="2" face="Times New Roman" style="font-size:10.0pt;font-style:italic;">This   communication does not constitute an offer to sell or the solicitation of an   offer to buy any securities, nor shall there be any sale of securities in any   jurisdiction in which such offer, solicitation or sale would be unlawful   prior to registration or qualification under the securities laws of any such   jurisdiction.</font></i></p>
+<p style="margin:0in 0in .0001pt;"><font size="2" face="Times New Roman" style="font-size:10.0pt;">&nbsp;</font></p>
+<p align="center" style="margin:0in 0in .0001pt;text-align:center;"><font size="2" face="Times New Roman" style="font-size:10.0pt;">###</font></p>    </td>   </tr>  </table>
+<p align="center" style="margin:0in 0in .0001pt;text-align:center;"><font size="2" face="Times New Roman" style="font-size:10.0pt;">&nbsp;</font></p>
+<p align="center" style="margin:0in 0in .0001pt;text-align:center;"><font size="2" face="Times New Roman" style="font-size:10.0pt;">4<a name="PB_4_061507_5796"></a></font></p>
+<div style="margin:0in 0in .0001pt;"><hr size="3" width="100%" noshade color="#010101" align="left"></div>
+</div>
+<!-- SEQ.=1,FOLIO='4',FILE='C:\JMS\107996\14-17107-1\task6864623\17107-1-mm.htm',USER='107996',CD='Jul 14 06:24 2014' -->
+
+</body>
+</html>
+</TEXT>
+</DOCUMENT>
+<DOCUMENT>
+<TYPE>GRAPHIC
+<SEQUENCE>3
+<FILENAME>g171071mmi001.jpg
+<DESCRIPTION>GRAPHIC
+<TEXT>
+begin 644 g171071mmi001.jpg
+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
+61110`4444`%%%%`!1110`4444`?_V3\_
+`
+end
+</TEXT>
+</DOCUMENT>
+<DOCUMENT>
+<TYPE>GRAPHIC
+<SEQUENCE>4
+<FILENAME>g171071mmi002.jpg
+<DESCRIPTION>GRAPHIC
+<TEXT>
+begin 644 g171071mmi002.jpg
+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
+7$T18%6E,G`#`9&XCG([XXKJ***`/_]D_
+`
+end
+</TEXT>
+</DOCUMENT>
+</SEC-DOCUMENT>

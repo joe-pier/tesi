@@ -1,0 +1,469 @@
+<SEC-DOCUMENT>0001104659-14-024087.txt : 20140328
+<SEC-HEADER>0001104659-14-024087.hdr.sgml : 20140328
+<ACCEPTANCE-DATETIME>20140328164531
+ACCESSION NUMBER:		0001104659-14-024087
+CONFORMED SUBMISSION TYPE:	8-K
+PUBLIC DOCUMENT COUNT:		2
+CONFORMED PERIOD OF REPORT:	20140318
+ITEM INFORMATION:		Other Events
+ITEM INFORMATION:		Financial Statements and Exhibits
+FILED AS OF DATE:		20140328
+DATE AS OF CHANGE:		20140328
+
+FILER:
+
+	COMPANY DATA:	
+		COMPANY CONFORMED NAME:			ABBOTT LABORATORIES
+		CENTRAL INDEX KEY:			0000001800
+		STANDARD INDUSTRIAL CLASSIFICATION:	PHARMACEUTICAL PREPARATIONS [2834]
+		IRS NUMBER:				360698440
+		STATE OF INCORPORATION:			IL
+		FISCAL YEAR END:			1231
+
+	FILING VALUES:
+		FORM TYPE:		8-K
+		SEC ACT:		1934 Act
+		SEC FILE NUMBER:	001-02189
+		FILM NUMBER:		14726379
+
+	BUSINESS ADDRESS:	
+		STREET 1:		100 ABBOTT PARK ROAD
+		STREET 2:		D-322 AP6D
+		CITY:			ABBOTT PARK
+		STATE:			IL
+		ZIP:			60064-3500
+		BUSINESS PHONE:		8479376100
+</SEC-HEADER>
+<DOCUMENT>
+<TYPE>8-K
+<SEQUENCE>1
+<FILENAME>a14-9055_18k.htm
+<DESCRIPTION>8-K
+<TEXT>
+
+
+<html>
+<head>
+
+
+  </head>
+<body lang="EN-US">
+<div style="font-family:Times New Roman;">
+<div style="border-bottom:solid windowtext 1.0pt;border-left:none;border-right:none;border-top:solid windowtext 3.0pt;padding:1.0pt 0in 1.0pt 0in;">
+<p style="border:none;margin:0in 0in .0001pt;padding:0in;"><font size="1" face="Times New Roman" style="font-size:1.0pt;">&nbsp;</font></p>
+</div>
+<p align="center" style="margin:0in 0in .0001pt;text-align:center;"><font size="2" face="Times New Roman" style="font-size:10.0pt;">&nbsp;</font></p>
+<p align="center" style="margin:0in 0in .0001pt;text-align:center;"><b><font size="5" face="Times New Roman" style="font-size:18.0pt;font-weight:bold;">UNITED STATES</font></b></p>
+<p align="center" style="margin:0in 0in .0001pt;text-align:center;"><b><font size="5" face="Times New Roman" style="font-size:18.0pt;font-weight:bold;">SECURITIES AND EXCHANGE COMMISSION</font></b></p>
+<p align="center" style="margin:0in 0in .0001pt;text-align:center;"><b><font size="2" face="Times New Roman" style="font-size:10.0pt;font-weight:bold;">Washington, D. C. 20549</font></b></p>
+<p align="center" style="margin:0in 0in .0001pt;text-align:center;"><font size="2" face="Times New Roman" style="font-size:10.0pt;">&nbsp;</font></p>
+<div align="center" style="margin:0in 0in .0001pt;text-align:center;"><hr size="1" width="25%" noshade color="black" align="center"></div>
+<p align="center" style="margin:0in 0in .0001pt;text-align:center;"><font size="2" face="Times New Roman" style="font-size:10.0pt;">&nbsp;</font></p>
+<p align="center" style="margin:0in 0in .0001pt;text-align:center;"><b><font size="5" face="Times New Roman" style="font-size:18.0pt;font-weight:bold;">FORM&nbsp;8-K</font></b></p>
+<p align="center" style="margin:0in 0in .0001pt;text-align:center;"><font size="2" face="Times New Roman" style="font-size:10.0pt;">&nbsp;</font></p>
+<p align="center" style="margin:0in 0in .0001pt;text-align:center;"><b><font size="3" face="Times New Roman" style="font-size:12.0pt;font-weight:bold;">CURRENT REPORT</font></b></p>
+<p align="center" style="margin:0in 0in .0001pt;text-align:center;"><b><font size="3" face="Times New Roman" style="font-size:12.0pt;font-weight:bold;">Pursuant to Section&nbsp;13 or 15(d)&nbsp;of the</font></b></p>
+<p align="center" style="margin:0in 0in .0001pt;text-align:center;"><b><font size="3" face="Times New Roman" style="font-size:12.0pt;font-weight:bold;">Securities Exchange Act of 1934</font></b></p>
+<p align="center" style="margin:0in 0in .0001pt;text-align:center;"><font size="2" face="Times New Roman" style="font-size:10.0pt;">&nbsp;</font></p>
+<p align="center" style="margin:0in 0in .0001pt;text-align:center;"><font size="2" face="Times New Roman" style="font-size:10.0pt;">Date of Report (Date of earliest event reported): <b>March&nbsp;18, 2014</b></font></p>
+<p align="center" style="margin:0in 0in .0001pt;text-align:center;"><font size="2" face="Times New Roman" style="font-size:10.0pt;">&nbsp;</font></p>
+<p align="center" style="margin:0in 0in .0001pt;text-align:center;"><b><font size="5" face="Times New Roman" style="font-size:18.0pt;font-weight:bold;">ABBOTT LABORATORIES</font></b></p>
+<p align="center" style="margin:0in 0in .0001pt;text-align:center;"><font size="2" face="Times New Roman" style="font-size:10.0pt;">(Exact name of registrant as specified in charter)</font></p>
+<p align="center" style="margin:0in 0in .0001pt;text-align:center;"><font size="2" face="Times New Roman" style="font-size:10.0pt;">&nbsp;</font></p>
+<div align="center" style="margin:0in 0in .0001pt;text-align:center;"><hr size="1" width="25%" noshade color="black" align="center"></div>
+<p align="center" style="margin:0in 0in .0001pt;text-align:center;"><font size="2" face="Times New Roman" style="font-size:10.0pt;">&nbsp;</font></p>
+<div align="center">
+<table border="0" cellspacing="0" cellpadding="0" width="100%" style="border-collapse:collapse;width:100.0%;">
+<tr>
+<td width="32%" valign="top" style="padding:0in 0in 0in 0in;width:32.0%;">
+<p align="center" style="margin:0in 0in .0001pt;text-align:center;"><b><font size="2" face="Times New Roman" style="font-size:10.0pt;font-weight:bold;">Illinois</font></b></p>    </td>
+<td width="2%" valign="bottom" style="padding:0in 0in 0in 0in;width:2.0%;">
+<p style="margin:0in 0in .0001pt;"><b><font size="2" face="Times New Roman" style="font-size:1.0pt;font-weight:bold;">&nbsp;</font></b></p>    </td>
+<td width="32%" valign="top" style="padding:0in 0in 0in 0in;width:32.0%;">
+<p align="center" style="margin:0in 0in .0001pt;text-align:center;"><b><font size="2" face="Times New Roman" style="font-size:10.0pt;font-weight:bold;">1-2189</font></b></p>    </td>
+<td width="2%" valign="bottom" style="padding:0in 0in 0in 0in;width:2.0%;">
+<p style="margin:0in 0in .0001pt;"><b><font size="2" face="Times New Roman" style="font-size:1.0pt;font-weight:bold;">&nbsp;</font></b></p>    </td>
+<td width="32%" valign="top" style="padding:0in 0in 0in 0in;width:32.0%;">
+<p align="center" style="margin:0in 0in .0001pt;text-align:center;"><b><font size="2" face="Times New Roman" style="font-size:10.0pt;font-weight:bold;">36-0698440</font></b></p>    </td>   </tr>
+<tr>
+<td width="32%" valign="top" style="padding:0in 0in 0in 0in;width:32.0%;">
+<p align="center" style="margin:0in 0in .0001pt;text-align:center;"><font size="2" face="Times New Roman" style="font-size:10.0pt;">(State or other Jurisdiction</font></p>    </td>
+<td width="2%" valign="bottom" style="padding:0in 0in 0in 0in;width:2.0%;">
+<p style="margin:0in 0in .0001pt;"><font size="2" face="Times New Roman" style="font-size:1.0pt;">&nbsp;</font></p>    </td>
+<td width="32%" valign="top" style="padding:0in 0in 0in 0in;width:32.0%;">
+<p align="center" style="margin:0in 0in .0001pt;text-align:center;"><font size="2" face="Times New Roman" style="font-size:10.0pt;">(Commission File Number)</font></p>    </td>
+<td width="2%" valign="bottom" style="padding:0in 0in 0in 0in;width:2.0%;">
+<p style="margin:0in 0in .0001pt;"><font size="2" face="Times New Roman" style="font-size:1.0pt;">&nbsp;</font></p>    </td>
+<td width="32%" valign="top" style="padding:0in 0in 0in 0in;width:32.0%;">
+<p align="center" style="margin:0in 0in .0001pt;text-align:center;"><font size="2" face="Times New Roman" style="font-size:10.0pt;">(IRS Employer</font></p>    </td>   </tr>
+<tr>
+<td width="32%" valign="top" style="padding:0in 0in 0in 0in;width:32.0%;">
+<p align="center" style="margin:0in 0in .0001pt;text-align:center;"><font size="2" face="Times New Roman" style="font-size:10.0pt;">of Incorporation)</font></p>    </td>
+<td width="2%" valign="bottom" style="padding:0in 0in 0in 0in;width:2.0%;">
+<p style="margin:0in 0in .0001pt;"><font size="2" face="Times New Roman" style="font-size:1.0pt;">&nbsp;</font></p>    </td>
+<td width="32%" valign="top" style="padding:0in 0in 0in 0in;width:32.0%;">
+<p align="center" style="margin:0in 0in .0001pt;text-align:center;"><font size="2" face="Times New Roman" style="font-size:1.0pt;">&nbsp;</font></p>    </td>
+<td width="2%" valign="bottom" style="padding:0in 0in 0in 0in;width:2.0%;">
+<p style="margin:0in 0in .0001pt;"><font size="2" face="Times New Roman" style="font-size:1.0pt;">&nbsp;</font></p>    </td>
+<td width="32%" valign="top" style="padding:0in 0in 0in 0in;width:32.0%;">
+<p align="center" style="margin:0in 0in .0001pt;text-align:center;"><font size="2" face="Times New Roman" style="font-size:10.0pt;">Identification No.)</font></p>    </td>   </tr>  </table>
+</div>
+<p align="center" style="margin:0in 0in .0001pt;text-align:center;"><font size="2" face="Times New Roman" style="font-size:10.0pt;">&nbsp;</font></p>
+<div align="center" style="margin:0in 0in .0001pt;text-align:center;"><hr size="1" width="25%" noshade color="black" align="center"></div>
+<p align="center" style="margin:0in 0in .0001pt;text-align:center;"><font size="2" face="Times New Roman" style="font-size:10.0pt;">&nbsp;</font></p>
+<p align="center" style="margin:0in 0in .0001pt;text-align:center;"><b><font size="2" face="Times New Roman" style="font-size:10.0pt;font-weight:bold;">100 Abbott Park Road</font></b></p>
+<p align="center" style="margin:0in 0in .0001pt;text-align:center;"><b><font size="2" face="Times New Roman" style="font-size:10.0pt;font-weight:bold;">Abbott Park,&nbsp;Illinois 60064-6400</font></b></p>
+<p align="center" style="margin:0in 0in .0001pt;text-align:center;"><font size="2" face="Times New Roman" style="font-size:10.0pt;">(Address of principal executive offices)(Zip Code)</font></p>
+<p align="center" style="margin:0in 0in .0001pt;text-align:center;"><font size="2" face="Times New Roman" style="font-size:10.0pt;">&nbsp;</font></p>
+<p align="center" style="margin:0in 0in .0001pt;text-align:center;"><font size="2" face="Times New Roman" style="font-size:10.0pt;">Registrant&#146;s telephone number, including area code:&#160; <b>(847) 937-6100</b></font></p>
+<p align="center" style="margin:0in 0in .0001pt;text-align:center;"><font size="2" face="Times New Roman" style="font-size:10.0pt;">&nbsp;</font></p>
+<p style="margin:0in 0in .0001pt;"><font size="2" face="Times New Roman" style="font-size:10.0pt;">Check the appropriate box below if the Form&nbsp;8-K filing is intended to simultaneously satisfy the filing obligation of the registrant under any of the following provisions:</font></p>
+<p style="margin:0in 0in .0001pt;"><font size="2" face="Times New Roman" style="font-size:10.0pt;">&nbsp;</font></p>
+<p style="margin:0in 0in .0001pt;"><font size="2" face="Wingdings" style="font-size:10.0pt;">o</font><font size="2" style="font-size:10.0pt;">&#160;&#160;&#160; Written communications pursuant to Rule&nbsp;425 under the Securities Act (17 CFR 230.425)</font></p>
+<p style="margin:0in 0in .0001pt .5in;text-indent:-.5in;"><font size="2" face="Times New Roman" style="font-size:10.0pt;">&nbsp;</font></p>
+<p style="margin:0in 0in .0001pt;"><font size="2" face="Wingdings" style="font-size:10.0pt;">o</font><font size="2" style="font-size:10.0pt;">&#160;&#160;&#160; Soliciting material pursuant to Rule&nbsp;14a-12 under the Exchange Act (17 CFR 240.14a-12)</font></p>
+<p style="margin:0in 0in .0001pt;"><font size="2" face="Times New Roman" style="font-size:10.0pt;">&nbsp;</font></p>
+<p style="margin:0in 0in .0001pt;"><font size="2" face="Wingdings" style="font-size:10.0pt;">o</font><font size="2" style="font-size:10.0pt;">&#160;&#160;&#160; Pre-commencement communications pursuant to Rule&nbsp;14d-2(b)&nbsp;under the Exchange Act (17 CFR 240.14d-2(b))</font></p>
+<p style="margin:0in 0in .0001pt;"><font size="2" face="Times New Roman" style="font-size:10.0pt;">&nbsp;</font></p>
+<p style="margin:0in 0in .0001pt;"><font size="2" face="Wingdings" style="font-size:10.0pt;">o</font><font size="2" style="font-size:10.0pt;">&#160;&#160;&#160; Pre-commencement communications pursuant to Rule&nbsp;13e-4(c)&nbsp;under the Exchange Act (17 CFR 240.13e-4(c))</font></p>
+<p style="margin:0in 0in .0001pt;"><font size="2" face="Times New Roman" style="font-size:10.0pt;">&nbsp;</font></p>
+<div style="border-bottom:solid windowtext 3.0pt;border-left:none;border-right:none;border-top:solid windowtext 1.0pt;padding:1.0pt 0in 1.0pt 0in;">
+<p style="border:none;margin:0in 0in .0001pt;padding:0in;"><font size="1" face="Times New Roman" style="font-size:1.0pt;">&nbsp;</font></p>
+</div>
+<p style="margin:0in 0in .0001pt;"><font size="2" face="Times New Roman" style="font-size:10.0pt;">&nbsp;</font></p>
+<div style="margin:0in 0in .0001pt;"><hr size="3" width="100%" noshade color="#010101" align="left"></div>
+</div>
+<!-- SEQ.=1,FOLIO='',FILE='C:\JMS\C901837\14-9055-1\task6661959\9055-1-ba.htm',USER='C901837',CD='Mar 28 21:32 2014' -->
+
+<br clear="all" style="page-break-before:always;">
+<div>
+<p align="center" style="margin:0in 0in .0001pt;text-align:center;"><font size="2" face="Times New Roman" style="font-size:10.0pt;">&nbsp;</font></p>
+<p style="margin:0in 0in .0001pt;"><b><font size="2" face="Times New Roman" style="font-size:10.0pt;font-weight:bold;">Item 8.01 &#151; Other Events</font></b></p>
+<p style="margin:0in 0in .0001pt;"><font size="2" face="Times New Roman" style="font-size:10.0pt;">&nbsp;</font></p>
+<p style="margin:0in 0in .0001pt;"><font size="2" face="Times New Roman" style="font-size:10.0pt;">As previously disclosed in Abbott&#146;s 2013 Annual Report on Securities and Exchange Commission Form&nbsp;10-K, seven shareholder derivative lawsuits have been pending in a consolidated proceeding,&nbsp;<i>In Re Abbott-Depakote Shareholder Derivative Litigation</i>, before the United States District Court for the Northern District of Illinois against certain of Abbott&#146;s current and former directors and members of senior management.&#160; An eighth shareholder derivative lawsuit was consolidated in <i>In Re Abbott-Depakote Shareholder Derivative Litigation </i>on March&nbsp;12, 2014.&#160; On March&nbsp;18, 2014, in connection with that consolidated proceeding, the court signed an &#147;Order Preliminarily Approving Proposed Settlement, Directing The Issuance of Notice, And Setting A Final Settlement Hearing&#148;.</font></p>
+<p style="margin:0in 0in .0001pt;"><font size="2" face="Times New Roman" style="font-size:10.0pt;">&nbsp;</font></p>
+<p style="margin:0in 0in .0001pt;"><font size="2" face="Times New Roman" style="font-size:10.0pt;">A copy of the Notice of Proposed Settlement of Consolidated Derivative Actions, Final Settlement Hearing, and Right to Appear is filed as Exhibit&nbsp;99.1.</font></p>
+<p style="margin:0in 0in .0001pt;"><font size="2" face="Times New Roman" style="font-size:10.0pt;">&nbsp;</font></p>
+<p style="margin:0in 0in .0001pt;"><b><font size="2" face="Times New Roman" style="font-size:10.0pt;font-weight:bold;">Item 9.01 &#151; Financial Statements and Exhibits</font></b></p>
+<p style="margin:0in 0in .0001pt;"><font size="2" face="Times New Roman" style="font-size:10.0pt;">&nbsp;</font></p>
+<table border="0" cellspacing="0" cellpadding="0" width="86%" style="border-collapse:collapse;margin-left:1.0in;width:86.66%;">
+<tr>
+<td width="9%" valign="bottom" style="border:none;border-bottom:solid windowtext 1.0pt;padding:0in 0in 0in 0in;width:9.44%;">
+<p style="margin:0in 0in .0001pt;"><b><font size="1" face="Times New Roman" style="font-size:8.0pt;font-weight:bold;">Exhibit&nbsp;No.</font></b></p>    </td>
+<td width="2%" valign="bottom" style="padding:0in 0in 0in 0in;width:2.56%;">
+<p align="center" style="margin:0in 0in .0001pt;text-align:center;"><b><font size="1" face="Times New Roman" style="font-size:1.0pt;font-weight:bold;">&nbsp;</font></b></p>    </td>
+<td width="88%" valign="bottom" style="border:none;border-bottom:solid windowtext 1.0pt;padding:0in 0in 0in 0in;width:88.0%;">
+<p align="center" style="margin:0in 0in .0001pt;text-align:center;"><b><font size="1" face="Times New Roman" style="font-size:8.0pt;font-weight:bold;">Exhibit</font></b></p>    </td>   </tr>
+<tr>
+<td width="9%" valign="top" style="border:none;padding:0in 0in 0in 0in;width:9.44%;">
+<p style="margin:0in 0in .0001pt;"><font size="2" face="Times New Roman" style="font-size:10.0pt;">99.1</font></p>    </td>
+<td width="2%" valign="bottom" style="padding:0in 0in 0in 0in;width:2.56%;">
+<p style="margin:0in 0in .0001pt;"><font size="2" face="Times New Roman" style="font-size:1.0pt;">&nbsp;</font></p>    </td>
+<td width="88%" valign="top" style="border:none;padding:0in 0in 0in 0in;width:88.0%;">
+<p style="margin:0in 0in .0001pt;"><font size="2" face="Times New Roman" style="font-size:10.0pt;">Notice of Proposed Settlement of   Consolidated Derivative Actions, Final Settlement Hearing, and Right to   Appear</font></p>    </td>   </tr>  </table>
+<p style="margin:0in 0in .0001pt 2.5in;text-indent:-1.5in;"><font size="2" face="Times New Roman" style="font-size:10.0pt;">&nbsp;</font></p>
+<p align="center" style="margin:0in 0in .0001pt;text-align:center;"><b><i><font size="2" face="Times New Roman" style="font-size:10.0pt;font-style:italic;font-weight:bold;">Private Securities Litigation Reform Act of 1995 &#151; A Caution Concerning Forward-Looking Statements</font></i></b></p>
+<p align="center" style="margin:0in 0in .0001pt;text-align:center;"><font size="2" face="Times New Roman" style="font-size:10.0pt;">&nbsp;</font></p>
+<p style="margin:0in 0in .0001pt;"><i><font size="2" face="Times New Roman" style="font-size:10.0pt;font-style:italic;">Some statements in this news release may be forward-looking statements for purposes of the Private Securities Litigation Reform Act of 1995. Abbott cautions that these forward-looking statements are subject to risks and uncertainties that may cause actual results to differ materially from those indicated in the forward-looking statements. Economic, competitive, governmental, technological and other factors that may affect Abbott&#146;s operations are discussed in Item 1A, &#147;Risk Factors,&#146;&#146; to our Annual Report on Securities and Exchange Commission Form&nbsp;10-K for the year ended Dec.&nbsp;31, 2013, and are incorporated by reference. Abbott undertakes no obligation to release publicly any revisions to forward-looking statements as a result of subsequent events or developments, except as required by law.</font></i></p>
+<p align="center" style="margin:0in 0in .0001pt;text-align:center;"><font size="2" face="Times New Roman" style="font-size:10.0pt;">&nbsp;</font></p>
+<p align="center" style="margin:0in 0in .0001pt;text-align:center;"><font size="2" face="Times New Roman" style="font-size:10.0pt;">2<a name="PB_2_102850_7056"></a></font></p>
+<div style="margin:0in 0in .0001pt;"><hr size="3" width="100%" noshade color="#010101" align="left"></div>
+</div>
+<!-- SEQ.=1,FOLIO='2',FILE='C:\JMS\C901837\14-9055-1\task6661959\9055-1-ba.htm',USER='C901837',CD='Mar 28 21:32 2014' -->
+
+<br clear="all" style="page-break-before:always;">
+<div>
+<p align="center" style="margin:0in 0in .0001pt;text-align:center;"><font size="2" face="Times New Roman" style="font-size:10.0pt;">&nbsp;</font></p>
+<p align="center" style="margin:0in 0in .0001pt;text-align:center;"><b><font size="2" face="Times New Roman" style="font-size:10.0pt;font-weight:bold;">SIGNATURE</font></b></p>
+<p align="center" style="margin:0in 0in .0001pt;text-align:center;"><font size="2" face="Times New Roman" style="font-size:10.0pt;">&nbsp;</font></p>
+<p style="margin:0in 0in .0001pt;text-indent:.5in;"><font size="2" face="Times New Roman" style="font-size:10.0pt;">Pursuant to the requirements of the Securities Exchange Act of 1934, the registrant has duly caused this report to be signed on its behalf by the undersigned hereunto duly authorized.</font></p>
+<p style="margin:0in 0in .0001pt;text-indent:.5in;"><font size="2" face="Times New Roman" style="font-size:10.0pt;">&nbsp;</font></p>
+<table border="0" cellspacing="0" cellpadding="0" width="100%" style="border-collapse:collapse;width:100.0%;">
+<tr>
+<td width="50%" valign="top" style="padding:0in 0in 0in 0in;width:50.0%;">
+<p style="margin:0in 0in .0001pt;"><font size="2" face="Times New Roman" style="font-size:1.0pt;">&nbsp;</font></p>    </td>
+<td width="50%" colspan="2" valign="top" style="padding:0in 0in 0in 0in;width:50.0%;">
+<p style="margin:0in 0in .0001pt;"><b><font size="2" face="Times New Roman" style="font-size:10.0pt;font-weight:bold;">ABBOTT LABORATORIES</font></b></p>    </td>   </tr>
+<tr>
+<td width="50%" valign="top" style="padding:0in 0in 0in 0in;width:50.0%;">
+<p style="margin:0in 0in .0001pt;"><font size="2" face="Times New Roman" style="font-size:10.0pt;">&nbsp;</font></p>    </td>
+<td width="50%" colspan="2" valign="top" style="padding:0in 0in 0in 0in;width:50.0%;">
+<p style="margin:0in 0in .0001pt;"><font size="2" face="Times New Roman" style="font-size:10.0pt;">&nbsp;</font></p>    </td>   </tr>
+<tr>
+<td width="50%" valign="top" style="padding:0in 0in 0in 0in;width:50.0%;">
+<p style="margin:0in 0in .0001pt;"><font size="2" face="Times New Roman" style="font-size:10.0pt;">&nbsp;</font></p>    </td>
+<td width="50%" colspan="2" valign="top" style="padding:0in 0in 0in 0in;width:50.0%;">
+<p style="margin:0in 0in .0001pt;"><font size="2" face="Times New Roman" style="font-size:10.0pt;">&nbsp;</font></p>    </td>   </tr>
+<tr>
+<td width="50%" valign="top" style="padding:0in 0in 0in 0in;width:50.0%;">
+<p style="margin:0in 0in .0001pt;"><font size="2" face="Times New Roman" style="font-size:10.0pt;">Date:&nbsp; March&nbsp;28, 2014</font></p>    </td>
+<td width="4%" valign="top" style="padding:0in 0in 0in 0in;width:4.44%;">
+<p style="margin:0in 0in .0001pt;"><font size="2" face="Times New Roman" style="font-size:10.0pt;">By:</font></p>    </td>
+<td width="45%" valign="top" style="border:none;border-bottom:solid windowtext 1.0pt;padding:0in 0in 0in 0in;width:45.56%;">
+<p style="margin:0in 0in .0001pt;"><font size="2" face="Times New Roman" style="font-size:10.0pt;">/s/   Thomas C. Freyman</font></p>    </td>   </tr>
+<tr>
+<td width="50%" valign="top" style="padding:0in 0in 0in 0in;width:50.0%;">
+<p style="margin:0in 0in .0001pt;"><font size="2" face="Times New Roman" style="font-size:1.0pt;">&nbsp;</font></p>    </td>
+<td width="50%" colspan="2" valign="top" style="padding:0in 0in 0in 0in;width:50.0%;">
+<p style="margin:0in 0in .0001pt;"><font size="2" face="Times New Roman" style="font-size:10.0pt;">Thomas   C. Freyman</font></p>    </td>   </tr>
+<tr>
+<td width="50%" valign="top" style="padding:0in 0in 0in 0in;width:50.0%;">
+<p style="margin:0in 0in .0001pt;"><font size="2" face="Times New Roman" style="font-size:1.0pt;">&nbsp;</font></p>    </td>
+<td width="50%" colspan="2" valign="top" style="padding:0in 0in 0in 0in;width:50.0%;">
+<p style="margin:0in 0in .0001pt;"><font size="2" face="Times New Roman" style="font-size:10.0pt;">Executive   Vice President, Finance</font></p>    </td>   </tr>
+<tr>
+<td width="50%" valign="top" style="padding:0in 0in 0in 0in;width:50.0%;">
+<p style="margin:0in 0in .0001pt;"><font size="2" face="Times New Roman" style="font-size:1.0pt;">&nbsp;</font></p>    </td>
+<td width="50%" colspan="2" valign="top" style="padding:0in 0in 0in 0in;width:50.0%;">
+<p style="margin:0in 0in .0001pt;"><font size="2" face="Times New Roman" style="font-size:10.0pt;">and   Chief Financial Officer</font></p>    </td>   </tr>  </table>
+<p align="center" style="margin:0in 0in .0001pt;text-align:center;"><font size="2" face="Times New Roman" style="font-size:10.0pt;">&nbsp;</font></p>
+<p align="center" style="margin:0in 0in .0001pt;text-align:center;"><font size="2" face="Times New Roman" style="font-size:10.0pt;">3<a name="PB_3_103128_5335"></a></font></p>
+<div style="margin:0in 0in .0001pt;"><hr size="3" width="100%" noshade color="#010101" align="left"></div>
+</div>
+<!-- SEQ.=1,FOLIO='3',FILE='C:\JMS\C901837\14-9055-1\task6661959\9055-1-ba.htm',USER='C901837',CD='Mar 28 21:32 2014' -->
+
+<br clear="all" style="page-break-before:always;">
+<div>
+<p style="margin:0in 0in .0001pt;"><font size="2" face="Times New Roman" style="font-size:10.0pt;">&nbsp;</font></p>
+<p align="center" style="margin:0in 0in .0001pt;text-align:center;"><b><u><font size="2" face="Times New Roman" style="font-size:10.0pt;font-weight:bold;">EXHIBIT&nbsp;INDEX</font></u></b></p>
+<p align="center" style="margin:0in 0in .0001pt;text-align:center;"><font size="2" face="Times New Roman" style="font-size:10.0pt;">&nbsp;</font></p>
+<table border="0" cellspacing="0" cellpadding="0" width="100%" style="border-collapse:collapse;width:100.0%;">
+<tr>
+<td width="9%" valign="bottom" style="border:none;border-bottom:solid windowtext 1.0pt;padding:0in 0in 0in 0in;width:9.82%;">
+<p style="margin:0in 0in .0001pt;"><b><font size="1" face="Times New Roman" style="font-size:8.0pt;font-weight:bold;">Exhibit&nbsp;No.</font></b></p>    </td>
+<td width="2%" valign="bottom" style="padding:0in 0in 0in 0in;width:2.18%;">
+<p align="center" style="margin:0in 0in .0001pt;text-align:center;"><b><font size="1" face="Times New Roman" style="font-size:1.0pt;font-weight:bold;">&nbsp;</font></b></p>    </td>
+<td width="88%" valign="bottom" style="border:none;border-bottom:solid windowtext 1.0pt;padding:0in 0in 0in 0in;width:88.0%;">
+<p align="center" style="margin:0in 0in .0001pt;text-align:center;"><b><font size="1" face="Times New Roman" style="font-size:8.0pt;font-weight:bold;">Exhibit</font></b></p>    </td>   </tr>
+<tr>
+<td width="9%" valign="top" style="border:none;padding:0in 0in 0in 0in;width:9.82%;">
+<p style="margin:0in 0in .0001pt;"><font size="2" face="Times New Roman" style="font-size:10.0pt;">&nbsp;</font></p>    </td>
+<td width="2%" valign="bottom" style="padding:0in 0in 0in 0in;width:2.18%;">
+<p style="margin:0in 0in .0001pt;"><font size="2" face="Times New Roman" style="font-size:10.0pt;">&nbsp;</font></p>    </td>
+<td width="88%" valign="top" style="border:none;padding:0in 0in 0in 0in;width:88.0%;">
+<p style="margin:0in 0in .0001pt;"><font size="2" face="Times New Roman" style="font-size:10.0pt;">&nbsp;</font></p>    </td>   </tr>
+<tr>
+<td width="9%" valign="top" style="padding:0in 0in 0in 0in;width:9.82%;">
+<p style="margin:0in 0in .0001pt;"><font size="2" face="Times New Roman" style="font-size:10.0pt;">99.1</font></p>    </td>
+<td width="2%" valign="bottom" style="padding:0in 0in 0in 0in;width:2.18%;">
+<p style="margin:0in 0in .0001pt;"><font size="2" face="Times New Roman" style="font-size:1.0pt;">&nbsp;</font></p>    </td>
+<td width="88%" valign="top" style="padding:0in 0in 0in 0in;width:88.0%;">
+<p style="margin:0in 0in .0001pt;"><font size="2" face="Times New Roman" style="font-size:10.0pt;">Notice of Proposed Settlement of   Consolidated Derivative Actions, Final Settlement Hearing, and Right to   Appear</font></p>    </td>   </tr>  </table>
+<p align="center" style="margin:0in 0in .0001pt;text-align:center;"><font size="2" face="Times New Roman" style="font-size:10.0pt;">&nbsp;</font></p>
+<p align="center" style="margin:0in 0in .0001pt;text-align:center;"><font size="2" face="Times New Roman" style="font-size:10.0pt;">4<a name="PB_4_103205_5796"></a></font></p>
+<div style="margin:0in 0in .0001pt;"><hr size="3" width="100%" noshade color="#010101" align="left"></div>
+</div>
+<!-- SEQ.=1,FOLIO='4',FILE='C:\JMS\C901837\14-9055-1\task6661959\9055-1-ba.htm',USER='C901837',CD='Mar 28 21:32 2014' -->
+
+</body>
+</html>
+</TEXT>
+</DOCUMENT>
+<DOCUMENT>
+<TYPE>EX-99.1
+<SEQUENCE>2
+<FILENAME>a14-9055_1ex99d1.htm
+<DESCRIPTION>EX-99.1
+<TEXT>
+
+
+<html>
+<head>
+
+  </head>
+<body lang="EN-US">
+<div>
+<p align="right" style="margin:0in 0in .0001pt;text-align:right;"><b><font size="2" face="Times New Roman" style="font-size:11.0pt;font-weight:bold;">Exhibit 99.1</font></b></p>
+<p align="center" style="margin:0in 0in .0001pt;text-align:center;"><b><font size="1" face="Times New Roman" style="font-size:3.0pt;font-weight:bold;">&nbsp;</font></b></p>
+</div>
+<br clear="all" style="page-break-before:auto;">
+<div style="font-family:Times New Roman;"><div style="float:left;margin:right=3%;position:relative;width:47%;">
+<p align="center" style="margin:0in 0in .0001pt;text-align:center;"><b><font size="2" face="Times New Roman" style="font-size:9.5pt;font-weight:bold;">IN THE UNITED STATES DISTRICT COURT</font></b></p>
+<p align="center" style="margin:0in 0in .0001pt;text-align:center;"><b><font size="2" face="Times New Roman" style="font-size:9.5pt;font-weight:bold;">FOR THE NORTHERN DISTRICT OF ILLINOIS</font></b></p>
+<p align="center" style="margin:0in 0in .0001pt;text-align:center;"><b><font size="2" face="Times New Roman" style="font-size:9.5pt;font-weight:bold;">EASTERN DIVISION</font></b></p>
+<p align="center" style="margin:0in 0in .0001pt;text-align:center;"><font size="2" face="Times New Roman" style="font-size:11.0pt;">&nbsp;</font></p>
+<p style="margin:0in 0in .0001pt;"><b><font size="2" face="Times New Roman" style="font-size:11.0pt;font-weight:bold;">-------------------------------------------------------------------x</font></b></p>
+<p style="margin:0in 0in .0001pt;"><font size="1" face="Times New Roman" style="font-size:6.0pt;">&nbsp;</font></p>
+<p style="margin:0in 0in .0001pt;"><b><font size="2" face="Times New Roman" style="font-size:11.0pt;font-weight:bold;">IN RE ABBOTT-DEPAKOTE SHAREHOLDER DERIVATIVE LITIGATION</font></b></p>
+<p style="margin:0in 0in .0001pt;"><b><font size="2" face="Times New Roman" style="font-size:11.0pt;font-weight:bold;">&nbsp;</font></b></p>
+<p style="margin:0in 0in .0001pt;"><b><font size="2" face="Times New Roman" style="font-size:11.0pt;font-weight:bold;">CASE NO: 1:11-cv-08114</font></b></p>
+<p style="margin:0in 0in .0001pt;"><b><font size="2" face="Times New Roman" style="font-size:11.0pt;font-weight:bold;">&nbsp;</font></b></p>
+<p style="margin:0in 0in .0001pt;"><b><font size="2" face="Times New Roman" style="font-size:11.0pt;font-weight:bold;">Hon. Virginia M. Kendall</font></b></p>
+<p style="margin:0in 0in .0001pt;"><font size="1" face="Times New Roman" style="font-size:6.0pt;">&nbsp;</font></p>
+<p style="margin:0in 0in .0001pt;"><b><font size="2" face="Times New Roman" style="font-size:11.0pt;font-weight:bold;">-------------------------------------------------------------------x</font></b></p>
+<p style="margin:0in 0in .0001pt;"><font size="2" face="Times New Roman" style="font-size:11.0pt;">&nbsp;</font></p>
+<p align="center" style="margin:0in 0in .0001pt;text-align:center;"><b><font size="2" face="Times New Roman" style="font-size:11.0pt;font-weight:bold;">NOTICE OF PROPOSED SETTLEMENT OF CONSOLIDATED DERIVATIVE ACTIONS, FINAL SETTLEMENT HEARING, AND RIGHT TO APPEAR</font></b></p>
+<p style="margin:0in 0in .0001pt .5in;text-indent:-.5in;"><b><font size="2" face="Times New Roman" style="font-size:11.0pt;font-weight:bold;">&nbsp;</font></b></p>
+<p style="margin:0in 0in .0001pt .5in;text-indent:-.5in;"><b><font size="2" face="Times New Roman" style="font-size:11.0pt;font-weight:bold;">TO:</font></b><b><font size="1" style="font-size:3.0pt;font-weight:bold;">&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160; </font></b><b><font size="2" style="font-size:11.0pt;font-weight:bold;">ALL CURRENT HOLDERS OF ABBOTT LABORATORIES COMMON STOCK</font></b></p>
+<p align="center" style="margin:0in 0in .0001pt .5in;text-align:center;text-indent:-.5in;"><font size="2" face="Times New Roman" style="font-size:11.0pt;">&nbsp;</font></p>
+<p align="center" style="margin:0in 0in .0001pt;text-align:center;"><b><font size="2" face="Times New Roman" style="font-size:11.0pt;font-weight:bold;">PLEASE READ THIS NOTICE CAREFULLY</font></b></p>
+<p align="center" style="margin:0in 0in .0001pt;text-align:center;"><font size="2" face="Times New Roman" style="font-size:11.0pt;">&nbsp;</font></p>
+<p align="center" style="margin:0in 0in .0001pt;text-align:center;"><b><font size="2" face="Times New Roman" style="font-size:11.0pt;font-weight:bold;">THE UNITED STATES DISTRICT COURT FOR THE NORTHERN DISTRICT OF ILLINOIS HAS AUTHORIZED THIS NOTICE TO BE SENT TO YOU</font></b></p>
+<p align="center" style="margin:0in 0in .0001pt;text-align:center;"><font size="2" face="Times New Roman" style="font-size:11.0pt;">&nbsp;</font></p>
+<p align="center" style="margin:0in 0in .0001pt;text-align:center;"><b><font size="2" face="Times New Roman" style="font-size:11.0pt;font-weight:bold;">THIS IS NOT A SOLICITATION</font></b></p>
+<p align="center" style="margin:0in 0in .0001pt;text-align:center;"><font size="2" face="Times New Roman" style="font-size:11.0pt;">&nbsp;</font></p>
+<p style="margin:0in 0in .0001pt;text-align:justify;"><font size="2" face="Times New Roman" style="font-size:11.0pt;">This notice (the &#147;Notice&#148;) advises you of the proposed settlement (the &#147;Settlement&#148;) of derivative claims brought against certain current and former directors and officers (&#147;Individual Defendants&#148;) of Abbott Laboratories (&#147;Abbott&#148; or the &#147;Company&#148;) (collectively with the Individual Defendants, &#147;Defendants&#148;).&#160; The parties to the Consolidated Derivative Actions (as defined below), have entered into a Stipulation and Agreement of Settlement (the &#147;Stipulation&#148;), which is subject to approval by the United States District Court for the Northern District of Illinois (the &#147;Court&#148;) before becoming final.&#160; If the Settlement is approved by the Court, all Released Claims against all of the Released Parties (as those terms are defined in the Stipulation) will be dismissed with prejudice.</font></p>
+<p style="margin:0in 0in .0001pt;"><font size="2" face="Times New Roman" style="font-size:11.0pt;">&nbsp;</font></p>
+
+</div><div style="float:right;margin:left=3%;position:relative;width:47%;"><p style="margin:0in 0in .0001pt;text-align:justify;"><font size="2" face="Times New Roman" style="font-size:11.0pt;">A </font><font size="2" style="font-size:11.0pt;">hearing (the &#147;Settlement Hearing&#148;) will be held before the Honorable Virginia M. Kendall on May&nbsp;22, 2014 at 10:00&nbsp;a.m. at Courtroom 2319 of the United States District Court for the Northern District of Illinois, 219 South Dearborn Street, Chicago,&nbsp;Illinois 60604, to determine: </font><font size="2" style="font-size:11.0pt;">(i)&nbsp;whether the proposed Settlement should be approved by the Court as fair, reasonable, and adequate; (ii)&nbsp;whether the Consolidated Derivative Actions should be dismissed with prejudice; (iii) whether the Court should award attorneys&#146; fees and reimbursement of expenses for Lead Plaintiff&#146;s Counsel (as defined below), and in what amount; and (iv)&nbsp;to hear such other matters as may properly come before the Court.</font></p>
+<p style="margin:0in 0in .0001pt;"><font size="2" face="Times New Roman" style="font-size:11.0pt;">&nbsp;</font></p>
+<p style="margin:0in 0in .0001pt;text-align:justify;"><font size="2" face="Times New Roman" style="font-size:11.0pt;">This Notice summarizes the nature of the Consolidated Derivative Actions, the terms of the proposed Settlement, and your rights in connection with the Settlement and the Settlement Hearing.&#160; Nothing in this Notice constitutes a finding of the Court regarding the merits of the claims or defenses asserted by any party, the merits of the Settlement, or any other matter, nor does it reflect the views of the Court.</font></p>
+<p style="margin:0in 0in .0001pt;text-align:justify;"><font size="2" face="Times New Roman" style="font-size:11.0pt;">&nbsp;</font></p>
+<p style="margin:0in 0in .0001pt;text-align:justify;"><font size="2" face="Times New Roman" style="font-size:11.0pt;">The Defendants have denied the allegations against them and continue to deny vigorously any wrongdoing or liability with respect to all claims asserted in the Consolidated Derivative Actions.&#160; They nonetheless support the Settlement because they recognize and believe that it is in the Company&#146;s best interests to resolve the Consolidated Derivative Actions, considering such factors as the time, expense, and distraction further litigation would cause.</font></p>
+<p style="margin:0in 0in .0001pt;"><font size="2" face="Times New Roman" style="font-size:11.0pt;">&nbsp;</font></p>
+<p style="margin:0in 0in .0001pt;text-align:justify;"><font size="2" face="Times New Roman" style="font-size:11.0pt;">The Court-appointed Lead Plaintiff, Jacksonville Police&nbsp;&amp; Fire Pension Fund&#160; (&#147;Lead Plaintiff&#148;), believes that the proposed Settlement addresses Abbott&#146;s settlements with federal and state authorities in connection with the sales and marketing of the drug Depakote, by adopting new reforms and enhancing Abbott&#146;s internal reporting and oversight framework for legal and regulatory compliance.&#160; The parties believe that the Settlement confers material benefits upon, and is in the best interests of, Abbott and its shareholders.</font></p>
+</div></div>
+<br clear="all" style="page-break-before:auto;">
+<div>
+<div style="margin:0in 0in .0001pt;"><hr size="3" width="100%" noshade color="#010101" align="left"></div>
+</div>
+<!-- SEQ.=1,FOLIO='',FILE='C:\jms\105538\14-9055-1\task6658450\9055-1-mm.htm',USER='105538',CD='Mar 27 22:45 2014' -->
+
+<br clear="all" style="page-break-before:always;">
+<div>
+<p align="center" style="margin:0in 0in .0001pt;text-align:center;"><b><font size="1" face="Times New Roman" style="font-size:3.0pt;font-weight:bold;">&nbsp;</font></b></p>
+</div>
+<br clear="all" style="page-break-before:auto;">
+<div style="font-family:Times New Roman;"><div style="float:left;margin:right=3%;position:relative;width:47%;">
+<p align="center" style="margin:0in 0in .0001pt;text-align:center;"><b><font size="2" face="Times New Roman" style="font-size:11.0pt;font-weight:bold;">YOU SHOULD READ THIS NOTICE CAREFULLY BECAUSE YOUR LEGAL RIGHTS MAY BE AFFECTED</font></b></p>
+<p align="center" style="margin:0in 0in .0001pt;text-align:center;"><font size="2" face="Times New Roman" style="font-size:11.0pt;">&nbsp;</font></p>
+<p style="margin:0in 0in .0001pt .5in;text-indent:-.5in;"><b><font size="2" face="Times New Roman" style="font-size:11.0pt;font-weight:bold;">I.</font></b><b><font size="1" style="font-size:3.0pt;font-weight:bold;">&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160; </font></b><b><font size="2" style="font-size:11.0pt;font-weight:bold;">What Are the Consolidated Derivative Actions About?</font></b></p>
+<p style="margin:0in 0in .0001pt .5in;text-indent:-.5in;"><font size="2" face="Times New Roman" style="font-size:11.0pt;">&nbsp;</font></p>
+<p style="margin:0in 0in .0001pt;text-align:justify;"><font size="2" face="Times New Roman" style="font-size:11.0pt;">The Consolidated Derivative Actions that are the subject of this Notice seek recovery on behalf of Abbott based on claims of breaches of fiduciary duty asserted against the Individual Defendants in a consolidated shareholder derivative action pending in the United States District Court for the Northern District of Illinois.&#160; Jacksonville Police&nbsp;&amp; Fire Pension Fund was appointed Lead Plaintiff, and Spector Roseman Kodroff&nbsp;&amp; Willis, P.C. was appointed Lead Counsel of the Consolidated Derivative Actions.&#160; (Lead Counsel is referred to herein as &#147;Lead Plaintiff&#146;s Counsel.&#148;)</font></p>
+<p style="margin:0in 0in .0001pt;"><font size="2" face="Times New Roman" style="font-size:11.0pt;">&nbsp;</font></p>
+<p style="margin:0in 0in .0001pt;text-align:justify;"><font size="2" face="Times New Roman" style="font-size:11.0pt;">The Consolidated Derivative Actions allege that the Individual Defendants breached their fiduciary duties by causing or allowing Abbott to engage in improper sales and marketing of the drug Depakote.&#160; Litigation was brought by the U.S. Government and a number of States concerning Abbott&#146;s sales and marketing activities with respect to the drug Depakote, which the Company resolved in May&nbsp;2012 by, <i>inter alia</i>, payment of damages and penalties in amounts totaling approximately $1.6 billion.</font></p>
+<p style="margin:0in 0in .0001pt;"><font size="2" face="Times New Roman" style="font-size:11.0pt;">&nbsp;</font></p>
+<p style="margin:0in 0in .0001pt .5in;text-indent:-.5in;"><b><font size="2" face="Times New Roman" style="font-size:11.0pt;font-weight:bold;">II.</font></b><b><font size="1" style="font-size:3.0pt;font-weight:bold;">&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160; </font></b><b><font size="2" style="font-size:11.0pt;font-weight:bold;">What Are the Terms of the Proposed Settlement?</font></b></p>
+<p style="margin:0in 0in .0001pt .5in;text-indent:-.5in;"><font size="2" face="Times New Roman" style="font-size:11.0pt;">&nbsp;</font></p>
+<p style="margin:0in 0in .0001pt;text-align:justify;"><font size="2" face="Times New Roman" style="font-size:11.0pt;">The proposed Settlement provides, among other things, that for a period of at least four years from the Effective Date of the Settlement, Abbott will maintain or adopt the corporate governance policies and practices identified in Exhibit&nbsp;A to the Stipulation.&#160; Abbott will commit the funds as are necessary to implement the corporate governance elements of the Settlement.</font></p>
+<p style="margin:0in 0in .0001pt;"><font size="2" face="Times New Roman" style="font-size:11.0pt;">&nbsp;</font></p>
+<p style="margin:0in 0in .0001pt .5in;text-indent:-.5in;"><b><font size="2" face="Times New Roman" style="font-size:11.0pt;font-weight:bold;">III.</font></b><b><font size="1" style="font-size:3.0pt;font-weight:bold;">&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160; </font></b><b><font size="2" style="font-size:11.0pt;font-weight:bold;">What Are the Reasons for the Settlement?</font></b></p>
+<p style="margin:0in 0in .0001pt .5in;text-indent:-.5in;"><font size="2" face="Times New Roman" style="font-size:11.0pt;">&nbsp;</font></p>
+<p style="margin:0in 0in .0001pt;text-align:justify;"><font size="2" face="Times New Roman" style="font-size:11.0pt;">In recommending that the parties settle at this time under the terms and conditions set forth in the Settlement, Lead Plaintiff&#146;s Counsel has </font></p>
+
+</div><div style="float:right;margin:left=3%;position:relative;width:47%;"><p style="margin:0in 0in .0001pt;text-align:justify;"><font size="2" face="Times New Roman" style="font-size:11.0pt;">weighed the risks of further litigation against the benefits that counsel was able to obtain for Abbott and its shareholders pursuant to the Settlement.&#160; Lead Plaintiff&#146;s Counsel believes that the Settlement confers material benefits upon Abbott and its shareholders.&#160; The Settlement has been achieved after significant investigation and analysis by Lead Plaintiff&#146;s Counsel.&#160; The detailed provisions of the Settlement reflect the results of intensive arm&#146;s-length negotiations between the parties, as well as the expertise of a corporate governance expert and an economic expert retained by Lead Plaintiff&#146;s Counsel.</font></p>
+<p style="margin:0in 0in .0001pt;"><font size="2" face="Times New Roman" style="font-size:11.0pt;">&nbsp;</font></p>
+<p style="margin:0in 0in .0001pt;text-align:justify;"><font size="2" face="Times New Roman" style="font-size:11.0pt;">The Defendants have denied and continue to deny that they have any liability as a result of any or all of the allegations asserted in the Consolidated Derivative Actions or that they engaged in any wrongdoing whatsoever.&#160; Abbott and the Individual Defendants are entering into the Settlement to enhance Abbott&#146;s corporate governance policies to benefit Abbott and its shareholders, and to eliminate the burden, distraction, expense and uncertainty of further litigation.</font></p>
+<p style="margin:0in 0in .0001pt;"><font size="2" face="Times New Roman" style="font-size:11.0pt;">&nbsp;</font></p>
+<p style="margin:0in 0in .0001pt .5in;text-indent:-.5in;"><b><font size="2" face="Times New Roman" style="font-size:11.0pt;font-weight:bold;">IV.</font></b><b><font size="1" style="font-size:3.0pt;font-weight:bold;">&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160; </font></b><b><font size="2" style="font-size:11.0pt;font-weight:bold;">What Attorneys&#146; Fees And Reimbursement of Expenses Will Be Sought?</font></b></p>
+<p style="margin:0in 0in .0001pt .5in;text-indent:-.5in;"><font size="2" face="Times New Roman" style="font-size:11.0pt;">&nbsp;</font></p>
+<p style="margin:0in 0in .0001pt;text-align:justify;"><font size="2" face="Times New Roman" style="font-size:11.0pt;">In the Settlement, the parties agree that Lead Plaintiff&#146;s Counsel may request a fee award of not more than $9,900,000, which includes reimbursement of their costs and expenses, subject to Court approval.&#160; Lead Plaintiff&#146;s Counsel have been retained on a contingent fee basis and, thus, to date they have not been paid for their legal services or reimbursed for expenses they have incurred in connection with the litigation of the Consolidated Derivative Actions.&#160; The expenses are primarily comprised of expert fees incurred in their retention of the corporate governance expert who provided substantial assistance to Lead Plaintiff&#146;s Counsel in connection with the litigation and settlement of the Consolidated Derivative Actions.</font></p>
+<p align="center" style="margin:0in 0in .0001pt;text-align:center;"><font size="2" face="Times New Roman" style="font-size:11.0pt;">&nbsp;</font></p>
+<p style="margin:0in 0in .0001pt;text-align:justify;"><font size="2" face="Times New Roman" style="font-size:11.0pt;">The attorneys&#146; fees and award of expenses for which Lead Plaintiff&#146;s Counsel will seek Court approval were the&nbsp;subject&nbsp;of&nbsp;arm&#146;s-length</font></p>
+</div></div>
+<br clear="all" style="page-break-before:auto;">
+<div>
+<p align="center" style="margin:0in 0in .0001pt;text-align:center;"><font size="2" face="Times New Roman" style="font-size:10.0pt;">2<a name="PB_2_120858_4141"></a></font></p>
+<div style="margin:0in 0in .0001pt;"><hr size="3" width="100%" noshade color="#010101" align="left"></div>
+</div>
+<!-- SEQ.=1,FOLIO='2',FILE='C:\jms\105538\14-9055-1\task6658450\9055-1-mm.htm',USER='105538',CD='Mar 27 22:45 2014' -->
+
+<br clear="all" style="page-break-before:always;">
+<div>
+<p style="margin:0in 0in .0001pt;text-align:justify;"><font size="1" face="Times New Roman" style="font-size:3.0pt;">&nbsp;</font></p>
+</div>
+<br clear="all" style="page-break-before:auto;">
+<div style="font-family:Times New Roman;"><div style="float:left;margin:right=3%;position:relative;width:47%;">
+<p style="margin:0in 0in .0001pt;text-align:justify;"><font size="2" face="Times New Roman" style="font-size:11.0pt;">negotiations begun after the terms of the proposed Settlement were agreed upon.</font></p>
+<p style="margin:0in 0in .0001pt .5in;text-indent:-.5in;"><b><font size="2" face="Times New Roman" style="font-size:11.0pt;font-weight:bold;">&nbsp;</font></b></p>
+<p style="margin:0in 0in .0001pt .5in;text-indent:-.5in;"><b><font size="2" face="Times New Roman" style="font-size:11.0pt;font-weight:bold;">V.</font></b><b><font size="1" style="font-size:3.0pt;font-weight:bold;">&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160; </font></b><b><font size="2" style="font-size:11.0pt;font-weight:bold;">What Will Happen at the Settlement Hearing?</font></b></p>
+<p style="margin:0in 0in .0001pt .5in;text-indent:-.5in;"><font size="2" face="Times New Roman" style="font-size:11.0pt;">&nbsp;</font></p>
+<p style="margin:0in 0in .0001pt;text-align:justify;"><font size="2" face="Times New Roman" style="font-size:11.0pt;">The Court has scheduled a Settlement Hearing for </font><font size="2" style="font-size:11.0pt;">May&nbsp;22, 2014 at 10:00&nbsp;a.m</font><font size="2" style="font-size:11.0pt;">.&#160; At this hearing, the Court will hear any objections to any aspect of the Settlement raised by any current Abbott shareholder.&#160; At or following the hearing, the Court will determine whether the Settlement is fair, reasonable, and adequate, and determine whether to enter a final order approving the Settlement.&#160; The Court will also consider the Lead Plaintiff&#146;s Counsel&#146;s application for attorneys&#146; fees and reimbursement of expenses.</font></p>
+<p style="margin:0in 0in .0001pt;"><font size="2" face="Times New Roman" style="font-size:11.0pt;">&nbsp;</font></p>
+<p style="margin:0in 0in .0001pt;text-align:justify;"><font size="2" face="Times New Roman" style="font-size:11.0pt;">Pending final determination of whether the Settlement should be approved, Lead Plaintiff, Defendants, and all Abbott shareholders are barred and enjoined from instituting or prosecuting any action that asserts any of the Released Claims against any of the Released Parties (as those terms are defined in the Stipulation).</font></p>
+<p style="margin:0in 0in .0001pt;"><font size="2" face="Times New Roman" style="font-size:11.0pt;">&nbsp;</font></p>
+<p style="margin:0in 0in .0001pt;text-align:justify;"><b><font size="2" face="Times New Roman" style="font-size:11.0pt;font-weight:bold;">YOU ARE NOT REQUIRED TO PARTICIPATE IN OR ATTEND THE SETTLEMENT HEARING, BUT MAY&nbsp;DO SO IF YOU WISH.</font></b><font size="2" style="font-size:11.0pt;">&#160; If you are a current Abbott shareholder, and you wish to express an objection to any portion of the Settlement or Lead Plaintiff&#146;s Counsel&#146;s application for attorneys&#146; fees and reimbursement of expenses, you must send a signed letter or other signed written submission providing a detailed statement of your specific objections. Your written objection must: (i)&nbsp;state your name, address, and telephone number; (ii)&nbsp;provide the number of shares of Abbott common stock you own as of the date of the submission, accompanied by copies of brokerage statement(s)&nbsp;evidencing such ownership of Abbott common stock; and (iii)&nbsp;provide a detailed description of your specific objections to any matter before the Court, all the grounds for your objections, and any documents you wish the Court to consider.&#160; You must mail the objection and your supporting papers to the Court and each of the attorneys listed at the</font></p>
+<p style="margin:0in 0in .0001pt;text-align:justify;"><font size="2" face="Times New Roman" style="font-size:11.0pt;">&nbsp;</font></p>
+
+</div><div style="float:right;margin:left=3%;position:relative;width:47%;"><p style="margin:0in 0in .0001pt;text-align:justify;"><font size="2" face="Times New Roman" style="font-size:11.0pt;">addresses provided below to arrive no later than May&nbsp;8, 2014.&#160; YOUR OBJECTION MUST BE IN WRITING AND RECEIVED BY THIS DATE TO BE CONSIDERED.&#160; If your objection is not received in a timely manner, the Court may deem it waived and may not consider it.</font></p>
+<p style="margin:0in 0in .0001pt;"><font size="2" face="Times New Roman" style="font-size:11.0pt;">&nbsp;</font></p>
+<p style="margin:0in 0in .0001pt;"><b><font size="2" face="Times New Roman" style="font-size:11.0pt;font-weight:bold;">Court:</font></b></p>
+<p style="margin:0in 0in .0001pt;"><font size="2" face="Times New Roman" style="font-size:11.0pt;">Clerk of the Court</font></p>
+<p style="margin:0in 0in .0001pt;"><font size="2" face="Times New Roman" style="font-size:11.0pt;">United States District Court for the Northern District of Illinois</font></p>
+<p style="margin:0in 0in .0001pt;"><font size="2" face="Times New Roman" style="font-size:11.0pt;">219 South Dearborn Street</font></p>
+<p style="margin:0in 0in .0001pt;"><font size="2" face="Times New Roman" style="font-size:11.0pt;">Chicago,&nbsp;IL 60604</font></p>
+<p style="margin:0in 0in .0001pt;"><b><font size="2" face="Times New Roman" style="font-size:11.0pt;font-weight:bold;">&nbsp;</font></b></p>
+<p style="margin:0in 0in .0001pt;"><b><font size="2" face="Times New Roman" style="font-size:11.0pt;font-weight:bold;">Lead Plaintiff&#146;s Counsel:</font></b></p>
+<p style="margin:0in 0in .0001pt;"><font size="2" face="Times New Roman" style="font-size:11.0pt;">Robert M. Roseman</font></p>
+<p style="margin:0in 0in .0001pt;"><font size="2" face="Times New Roman" style="font-size:11.0pt;">Spector Roseman Kodroff&nbsp;&amp; Willis, P.C.</font></p>
+<p style="margin:0in 0in .0001pt;"><font size="2" face="Times New Roman" style="font-size:11.0pt;">1818 Market Street, Suite&nbsp;2500</font></p>
+<p style="margin:0in 0in .0001pt;"><font size="2" face="Times New Roman" style="font-size:11.0pt;">Philadelphia, PA 19103</font></p>
+<p style="margin:0in 0in .0001pt;"><font size="2" face="Times New Roman" style="font-size:11.0pt;">&nbsp;</font></p>
+<p style="margin:0in 0in .0001pt;"><b><font size="2" face="Times New Roman" style="font-size:11.0pt;font-weight:bold;">Abbott&#146;s Counsel:</font></b><font size="2" style="font-size:11.0pt;"><br> Sallie G. Smylie<br> Kirkland&nbsp;&amp; Ellis, LLP<br> 300 North LaSalle<br> Chicago,&nbsp;IL 60654</font></p>
+<p style="margin:0in 0in .0001pt;"><font size="2" face="Times New Roman" style="font-size:11.0pt;">&nbsp;</font></p>
+<p style="margin:0in 0in .0001pt;"><b><font size="2" face="Times New Roman" style="font-size:11.0pt;font-weight:bold;">Individual Defendants&#146; Counsel:</font></b></p>
+<p style="margin:0in 0in .0001pt;"><font size="2" face="Times New Roman" style="font-size:11.0pt;">Daniel E. Reidy</font></p>
+<p style="margin:0in 0in .0001pt;"><font size="2" face="Times New Roman" style="font-size:11.0pt;">Jones Day</font></p>
+<p style="margin:0in 0in .0001pt;"><font size="2" face="Times New Roman" style="font-size:11.0pt;">77 West Wacker Drive</font></p>
+<p style="margin:0in 0in .0001pt;"><font size="2" face="Times New Roman" style="font-size:11.0pt;">Chicago,&nbsp;IL 60601</font></p>
+<p align="center" style="margin:0in 0in .0001pt;text-align:center;"><font size="2" face="Times New Roman" style="font-size:10.0pt;">&nbsp;</font></p>
+<p style="margin:0in 0in .0001pt;text-align:justify;"><font size="2" face="Times New Roman" style="font-size:11.0pt;">The Court will consider your written objection whether or not you choose to attend the Settlement Hearing. You may also choose to retain your own lawyer at your own expense to represent you with respect to any objection you may have.&#160; If you or your lawyer would like to speak at the Settlement Hearing, you must send a letter stating that you intend to appear and speak at the Settlement Hearing.&#160; The letter must include the name(s)&nbsp;of your attorney(s)&nbsp;and any witness(es) you may call to testify and must identify any documents you intend to introduce into evidence at the Settlement Hearing.&#160; The letter must also include: (i)&nbsp;your name, address, and telephone number; and (ii)&nbsp;the number of shares of Abbott common stock you own as of the date of the submission, accompanied by copies of brokerage statement(s) evidencing&nbsp;such&nbsp;ownership&nbsp;of</font></p>
+</div></div>
+<br clear="all" style="page-break-before:auto;">
+<div>
+<p align="center" style="margin:0in 0in .0001pt;text-align:center;"><font size="2" face="Times New Roman" style="font-size:10.0pt;">3<a name="PB_3_120914_8627"></a></font></p>
+<div style="margin:0in 0in .0001pt;"><hr size="3" width="100%" noshade color="#010101" align="left"></div>
+</div>
+<!-- SEQ.=1,FOLIO='3',FILE='C:\jms\105538\14-9055-1\task6658450\9055-1-mm.htm',USER='105538',CD='Mar 27 22:45 2014' -->
+
+<br clear="all" style="page-break-before:always;">
+<div>
+<p style="margin:0in 0in .0001pt;text-align:justify;"><font size="1" face="Times New Roman" style="font-size:3.0pt;">&nbsp;</font></p>
+</div>
+<br clear="all" style="page-break-before:auto;">
+<div style="font-family:Times New Roman;"><div style="float:left;margin:right=3%;position:relative;width:47%;">
+<p style="margin:0in 0in .0001pt;text-align:justify;"><font size="2" face="Times New Roman" style="font-size:11.0pt;">Abbott common stock.&#160; Your letter must be received no later than May&nbsp;8, 2014 by the Clerk of the Court, Lead Plaintiff&#146;s Counsel, and Defendants&#146; Counsel at the addresses provided above. The date of the Settlement Hearing is subject to change without further notice to Abbott shareholders.&#160; If you or your lawyer intends to attend the Settlement Hearing, you should confirm the date and time with Lead Plaintiff&#146;s Counsel.</font></p>
+<p style="margin:0in 0in .0001pt;"><font size="2" face="Times New Roman" style="font-size:11.0pt;">&nbsp;</font></p>
+<p style="margin:0in 0in .0001pt .5in;text-indent:-.5in;"><b><font size="2" face="Times New Roman" style="font-size:11.0pt;font-weight:bold;">VI.</font></b><b><font size="1" style="font-size:3.0pt;font-weight:bold;">&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160; </font></b><b><font size="2" style="font-size:11.0pt;font-weight:bold;">What Is the Effect of the Court&#146;s Approval of the Settlement?</font></b></p>
+<p style="margin:0in 0in .0001pt .5in;text-indent:-.5in;"><font size="2" face="Times New Roman" style="font-size:11.0pt;">&nbsp;</font></p>
+<p style="margin:0in 0in .0001pt;text-align:justify;"><font size="2" face="Times New Roman" style="font-size:11.0pt;">If the Settlement is approved, the Court will enter a Final Order and Judgment.&#160; The Final Order and Judgment (the &#147;Judgment&#148;) will dismiss the Consolidated Derivative Actions with prejudice.&#160; The full terms of the dismissal of Released Claims are set forth in the Stipulation.&#160; The following is only intended as a summary.</font></p>
+<p style="margin:0in 0in .0001pt;"><font size="2" face="Times New Roman" style="font-size:11.0pt;">&nbsp;</font></p>
+<p style="margin:0in 0in .0001pt;text-align:justify;"><font size="2" face="Times New Roman" style="font-size:11.0pt;">Upon the Effective Date (as defined in the Stipulation), the Releasing Parties &#151; which include Lead Plaintiff, Abbott, the Individual Defendants, and Abbott shareholders &#151; will fully, finally, and forever release all Released Claims (as defined in the Stipulation) against the Released Parties &#151; including, but not limited to, all Settling Defendants (as defined in the Stipulation), their family members and others acting on their behalf &#151; and the Released Parties will fully, finally, and forever release Lead Plaintiff and Lead Plaintiff&#146;s Counsel from all claims or demands relating to, arising out of, or connected with the institution, prosecution, assertion, settlement, or resolution of the Consolidated Derivative Actions and/or the Released Claims.</font></p>
+<p style="margin:0in 0in .0001pt;"><font size="2" face="Times New Roman" style="font-size:11.0pt;">&nbsp;</font></p>
+<p style="margin:0in 0in .0001pt;text-align:justify;"><font size="2" face="Times New Roman" style="font-size:11.0pt;">The Released Claims, as defined in the Stipulation, means any and all claims, demands, rights, remedies, causes of action or liabilities, whether based on federal, state, local, statutory, common or foreign law or any other law, rule, regulation, or principle of equity, whether known or unknown, including without limitation Unknown Claims (as defined in the Stipulation), whether suspected or unsuspected, whether contingent or non-contingent, whether accrued or unaccrued, whether or not concealed </font></p>
+
+</div><div style="float:right;margin:left=3%;position:relative;width:47%;"><p style="margin:0in 0in .0001pt;text-align:justify;"><font size="2" face="Times New Roman" style="font-size:11.0pt;">or hidden, whether factual or legal, and for any remedy whether at equity or law, that were or that could have been asserted against the Released Parties, or any other individual, in the Consolidated Derivative Actions, or by any Abbott shareholder claiming in the right of, or on behalf of Abbott, arising out of, relating to or based upon, directly or indirectly, in any way, to the drug Depakote or any of its derivatives, or the sales, marketing or any other practices or activities with respect to Depakote or any of its derivatives, including any of the facts, allegations, transactions, events, occurrences, acts, disclosures, statements, omissions, failures to act, or matters set forth, referred to, or alleged in the Consolidated Derivative Actions.</font></p>
+<p style="margin:0in 0in .0001pt;"><font size="2" face="Times New Roman" style="font-size:11.0pt;">&nbsp;</font></p>
+<p style="margin:0in 0in .0001pt;text-align:justify;"><font size="2" face="Times New Roman" style="font-size:11.0pt;">Neither the Settlement nor any act performed or document executed pursuant to or in furtherance of the Settlement or the negotiation thereof, including this Notice, is or may be deemed to be an admission of, or evidence of, any fault, liability, or omission of any of the Individual Defendants or the Released Parties in any proceeding of any kind or nature.</font></p>
+<p style="margin:0in 0in .0001pt;"><font size="2" face="Times New Roman" style="font-size:11.0pt;">&nbsp;</font></p>
+<p style="margin:0in 0in .0001pt .5in;text-indent:-.5in;"><b><font size="2" face="Times New Roman" style="font-size:11.0pt;font-weight:bold;">VII.</font></b><b><font size="1" style="font-size:3.0pt;font-weight:bold;">&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160; </font></b><b><font size="2" style="font-size:11.0pt;font-weight:bold;">How Do You Get More Information About the Consolidated Derivative Actions and the Proposed Settlement?</font></b></p>
+<p style="margin:0in 0in .0001pt .5in;text-indent:-.5in;"><font size="2" face="Times New Roman" style="font-size:11.0pt;">&nbsp;</font></p>
+<p style="margin:0in 0in .0001pt;text-align:justify;"><font size="2" face="Times New Roman" style="font-size:11.0pt;">The foregoing description of the lawsuit, the terms of the proposed Settlement, the Settlement Hearing, and other matters described herein is only a summary.&#160; For the full details of the lawsuit and the terms and conditions of the Stipulation, Abbott&#146;s shareholders are referred to the Court filings, which may be examined during regular business hours at the Office of the Clerk of the Court, United States District Court for the Northern District of Illinois, </font><font size="2" style="font-size:11.0pt;">219 South Dearborn Street, Chicago,&nbsp;Illinois 60604</font><font size="2" style="font-size:11.0pt;">.</font></p>
+<p style="margin:0in 0in .0001pt;"><font size="2" face="Times New Roman" style="font-size:11.0pt;">&nbsp;</font></p>
+<p style="margin:0in 0in .0001pt;text-align:justify;"><b><font size="2" face="Times New Roman" style="font-size:11.0pt;font-weight:bold;">Please do not contact the Court for information or telephone the Court or Clerk&#146;s Office regarding this Notice.</font></b><font size="2" style="font-size:11.0pt;">&#160; Any questions regarding this Notice or the proposed Settlement, or requests to obtain copies of Settlement-related documents, including copies of the papers to be submitted in support of final approval of the Settlement and the application</font></p>
+</div></div>
+<br clear="all" style="page-break-before:auto;">
+<div>
+<p align="center" style="margin:0in 0in .0001pt;text-align:center;"><font size="2" face="Times New Roman" style="font-size:10.0pt;">4<a name="PB_4_120925_7906"></a></font></p>
+<div style="margin:0in 0in .0001pt;"><hr size="3" width="100%" noshade color="#010101" align="left"></div>
+</div>
+<!-- SEQ.=1,FOLIO='4',FILE='C:\jms\105538\14-9055-1\task6658450\9055-1-mm.htm',USER='105538',CD='Mar 27 22:45 2014' -->
+
+<br clear="all" style="page-break-before:always;">
+<div><div style="float:left;margin:right=3%;position:relative;width:47%;">
+<p style="margin:0in 0in .0001pt;"><font size="2" face="Times New Roman" style="font-size:11.0pt;">&nbsp;</font></p>
+<p style="margin:0in 0in .0001pt;"><font size="2" face="Times New Roman" style="font-size:11.0pt;">for attorneys&#146; fees and reimbursement of expenses, may be directed to the following Lead Plaintiff&#146;s Counsel:</font></p>
+<p style="margin:0in 0in .0001pt;"><font size="2" face="Times New Roman" style="font-size:11.0pt;">&nbsp;</font></p>
+<p style="margin:0in 0in .0001pt;"><font size="2" face="Times New Roman" style="font-size:11.0pt;">Robert M. Roseman</font></p>
+<p style="margin:0in 0in .0001pt;"><font size="2" face="Times New Roman" style="font-size:11.0pt;">Spector Roseman Kodroff&nbsp;&amp; Willis, P.C.</font></p>
+<p style="margin:0in 0in .0001pt;"><font size="2" face="Times New Roman" style="font-size:11.0pt;">1818 Market Street, Suite&nbsp;2500</font></p>
+<p style="margin:0in 0in .0001pt;"><font size="2" face="Times New Roman" style="font-size:11.0pt;">Philadelphia, PA 19103</font></p>
+<p style="margin:0in 0in .0001pt;"><font size="2" face="Times New Roman" style="font-size:11.0pt;">Telephone:&#160; (215) 496-0300</font></p>
+<p style="margin:0in 0in .0001pt;"><font size="2" face="Times New Roman" style="font-size:11.0pt;">Email:&#160; rroseman@srkw-law.com</font></p>
+<p style="margin:0in 0in .0001pt;"><font size="2" face="Times New Roman" style="font-size:11.0pt;">&nbsp;</font></p>
+<p style="margin:0in 0in .0001pt;"><font size="2" face="Times New Roman" style="font-size:11.0pt;">DATE: March&nbsp;24, 2014</font></p>
+
+</div><div style="float:right;margin:left=3%;position:relative;width:47%;"><p style="margin:0in 0in .0001pt;"></p>
+</div></div>
+<br clear="all" style="page-break-before:auto;">
+<div>
+<p align="center" style="margin:0in 0in .0001pt;text-align:center;"><font size="2" face="Times New Roman" style="font-size:10.0pt;">5<a name="PB_5_120934_3736"></a></font></p>
+<div style="margin:0in 0in .0001pt;"><hr size="3" width="100%" noshade color="#010101" align="left"></div>
+</div>
+<!-- SEQ.=1,FOLIO='5',FILE='C:\jms\105538\14-9055-1\task6658450\9055-1-mm.htm',USER='105538',CD='Mar 27 22:45 2014' -->
+
+</body>
+</html>
+</TEXT>
+</DOCUMENT>
+</SEC-DOCUMENT>
